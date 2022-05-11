@@ -18,11 +18,6 @@ Beatae aut quo dignissimos error minima voluptatum vero ab
 suscipit reprehenderit autem!
 {{ .article_paragraph }}
 
-
-<br />
-Fenced Block:
-
-
 ```php
 <?php
 
@@ -40,21 +35,21 @@ $t = \ApidataEssentials\Utility\Config::get('logging.redis_logging_key');
 die();
 ```
 
-<h3 class="article_subtitle">New Section Title</h3>
+### New Section Title A
+{{ .article_subtitle }}
 
-<p class="article_paragraph">
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
-  fuga molestiae ab perspiciatis doloremque dicta quia dolores
-  deleniti rerum iusto possimus sed itaque modi quibusdam
-  consequuntur, nam laboriosam eos tempora, harum ipsam maxime?
-  Quisquam fuga tenetur itaque totam sed illum rem labore! Excepturi
-  neque modi non! Fugiat delectus ducimus nostrum.<br /><br />Lorem
-  ipsum dolor sit amet consectetur adipisicing elit. Beatae aut quo
-  dignissimos error minima voluptatum vero ab suscipit reprehenderit
-  autem! Lorem ipsum dolor sit amet consectetur adipisicing elit.
-  Beatae aut quo dignissimos error minima voluptatum vero ab
-  suscipit reprehenderit autem!
-</p>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
+fuga molestiae ab perspiciatis doloremque dicta quia dolores
+deleniti rerum iusto possimus sed itaque modi quibusdam
+consequuntur, nam laboriosam eos tempora, harum ipsam maxime?
+Quisquam fuga tenetur itaque totam sed illum rem labore! Excepturi
+neque modi non! Fugiat delectus ducimus nostrum.<br /><br />Lorem
+ipsum dolor sit amet consectetur adipisicing elit. Beatae aut quo
+dignissimos error minima voluptatum vero ab suscipit reprehenderit
+autem! Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Beatae aut quo dignissimos error minima voluptatum vero ab
+suscipit reprehenderit autem!
+{{ .article_paragraph }}
 
 <div class="video-embed_wrap">
   <iframe
@@ -68,41 +63,41 @@ die();
   ></iframe>
 </div>
 
-<h3 class="article_subtitle">New Section Title</h3>
+### New Section Title A
+{{ .article_subtitle }}
 
-<p class="article_paragraph">
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
-  fuga molestiae ab perspiciatis doloremque dicta quia dolores
-  deleniti rerum iusto possimus sed itaque modi quibusdam
-  consequuntur, nam laboriosam eos tempora, harum ipsam maxime?
-  Quisquam fuga tenetur itaque totam sed illum rem labore! Excepturi
-  neque modi non! Fugiat delectus ducimus nostrum.<br /><br />Lorem
-  ipsum dolor sit amet consectetur adipisicing elit. Beatae aut quo
-  dignissimos error minima voluptatum vero ab suscipit reprehenderit
-  autem! Lorem ipsum dolor sit amet consectetur adipisicing elit.
-  Beatae aut quo dignissimos error minima voluptatum vero ab
-  suscipit reprehenderit autem!
-</p>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
+fuga molestiae ab perspiciatis doloremque dicta quia dolores
+deleniti rerum iusto possimus sed itaque modi quibusdam
+consequuntur, nam laboriosam eos tempora, harum ipsam maxime?
+Quisquam fuga tenetur itaque totam sed illum rem labore! Excepturi
+neque modi non! Fugiat delectus ducimus nostrum.<br /><br />Lorem
+ipsum dolor sit amet consectetur adipisicing elit. Beatae aut quo
+dignissimos error minima voluptatum vero ab suscipit reprehenderit
+autem! Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Beatae aut quo dignissimos error minima voluptatum vero ab
+suscipit reprehenderit autem!
+{{ .article_paragraph }}
 
-<h3 class="article_subtitle">Example Code Block Title:</h3>
+### Example Code Block Title
+{{ .article_subtitle }}
 
-<div class="code-block_wrap">
-  <div class="code-block" id="code-block"></div>
-</div>
+```rust
+let me = true;
+```
 
-<p class="article_paragraph">
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
-  fuga molestiae ab perspiciatis doloremque dicta quia dolores
-  deleniti rerum iusto possimus sed itaque modi quibusdam
-  consequuntur, nam laboriosam eos tempora, harum ipsam maxime?
-  Quisquam fuga tenetur itaque totam sed illum rem labore! Excepturi
-  neque modi non! Fugiat delectus ducimus nostrum.<br /><br />Lorem
-  ipsum dolor sit amet consectetur adipisicing elit. Beatae aut quo
-  dignissimos error minima voluptatum vero ab suscipit reprehenderit
-  autem! Lorem ipsum dolor sit amet consectetur adipisicing elit.
-  Beatae aut quo dignissimos error minima voluptatum vero ab
-  suscipit reprehenderit autem!
-</p>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
+fuga molestiae ab perspiciatis doloremque dicta quia dolores
+deleniti rerum iusto possimus sed itaque modi quibusdam
+consequuntur, nam laboriosam eos tempora, harum ipsam maxime?
+Quisquam fuga tenetur itaque totam sed illum rem labore! Excepturi
+neque modi non! Fugiat delectus ducimus nostrum.<br /><br />Lorem
+ipsum dolor sit amet consectetur adipisicing elit. Beatae aut quo
+dignissimos error minima voluptatum vero ab suscipit reprehenderit
+autem! Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Beatae aut quo dignissimos error minima voluptatum vero ab
+suscipit reprehenderit autem!
+{{ .article_paragraph }}
 
 <div class="article_img-wrap">
   <img src="/images/perdson.jpg" alt="" class="article_img" />
@@ -111,19 +106,18 @@ die();
   </p>
 </div>
 
-<p class="article_paragraph">
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
-  fuga molestiae ab perspiciatis doloremque dicta quia dolores
-  deleniti rerum iusto possimus sed itaque modi quibusdam
-  consequuntur, nam laboriosam eos tempora, harum ipsam maxime?
-  Quisquam fuga tenetur itaque totam sed illum rem labore! Excepturi
-  neque modi non! Fugiat delectus ducimus nostrum.<br /><br />Lorem
-  ipsum dolor sit amet consectetur adipisicing elit. Beatae aut quo
-  dignissimos error minima voluptatum vero ab suscipit reprehenderit
-  autem! Lorem ipsum dolor sit amet consectetur adipisicing elit.
-  Beatae aut quo dignissimos error minima voluptatum vero ab
-  suscipit reprehenderit autem!
-</p>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
+fuga molestiae ab perspiciatis doloremque dicta quia dolores
+deleniti rerum iusto possimus sed itaque modi quibusdam
+consequuntur, nam laboriosam eos tempora, harum ipsam maxime?
+Quisquam fuga tenetur itaque totam sed illum rem labore! Excepturi
+neque modi non! Fugiat delectus ducimus nostrum.<br /><br />Lorem
+ipsum dolor sit amet consectetur adipisicing elit. Beatae aut quo
+dignissimos error minima voluptatum vero ab suscipit reprehenderit
+autem! Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Beatae aut quo dignissimos error minima voluptatum vero ab
+suscipit reprehenderit autem!
+{{ .article_paragraph }}
 
 <div class="article_quote-block">
   <p class="article_quote">
@@ -133,16 +127,23 @@ die();
   <p class="article_quote_author">- Michael Wilson</p>
 </div>
 
-<p class="article_paragraph">
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
-  fuga molestiae ab perspiciatis doloremque dicta quia dolores
-  deleniti rerum iusto possimus sed itaque modi quibusdam
-  consequuntur, nam laboriosam eos tempora, harum ipsam maxime?
-  Quisquam fuga tenetur itaque totam sed illum rem labore! Excepturi
-  neque modi non! Fugiat delectus ducimus nostrum.<br /><br />Lorem
-  ipsum dolor sit amet consectetur adipisicing elit. Beatae aut quo
-  dignissimos error minima voluptatum vero ab suscipit reprehenderit
-  autem! Lorem ipsum dolor sit amet consectetur adipisicing elit.
-  Beatae aut quo dignissimos error minima voluptatum vero ab
-  suscipit reprehenderit autem!
-</p>
+ipsum dolor sit amet consectetur adipisicing elit. Beatae aut quo
+dignissimos error minima voluptatum vero ab suscipit reprehenderit
+autem! Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Beatae aut quo dignissimos error minima voluptatum vero ab
+suscipit reprehenderit autem!
+{{ .article_paragraph }}
+
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
+fuga molestiae ab perspiciatis doloremque dicta quia dolores
+deleniti rerum iusto possimus sed itaque modi quibusdam
+consequuntur, nam laboriosam eos tempora, harum ipsam maxime?
+Quisquam fuga tenetur itaque totam sed illum rem labore! Excepturi
+neque modi non! Fugiat delectus ducimus nostrum.<br /><br />Lorem
+ipsum dolor sit amet consectetur adipisicing elit. Beatae aut quo
+dignissimos error minima voluptatum vero ab suscipit reprehenderit
+autem! Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Beatae aut quo dignissimos error minima voluptatum vero ab
+suscipit reprehenderit autem!
+{{ .article_paragraph }}
