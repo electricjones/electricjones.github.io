@@ -6,6 +6,14 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://electricjones.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  electricjones
 
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    default_lang: rust
+    css_class   : 'code-block_wrap chroma-body chroma'
+
 # Build settings
 #theme: minima
 plugins:
