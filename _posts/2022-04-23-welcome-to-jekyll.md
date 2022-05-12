@@ -16,7 +16,7 @@ dignissimos error minima voluptatum vero ab suscipit reprehenderit
 autem! Lorem ipsum dolor sit amet consectetur adipisicing elit.
 Beatae aut quo dignissimos error minima voluptatum vero ab
 suscipit reprehenderit autem!
-{{ .article_paragraph }}
+{: .article_paragraph }
 
 ```php
 <?php
@@ -36,7 +36,7 @@ die();
 ```
 
 ### New Section Title A
-{{ .article_subtitle }}
+{: .article_title }
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
 fuga molestiae ab perspiciatis doloremque dicta quia dolores
@@ -49,7 +49,7 @@ dignissimos error minima voluptatum vero ab suscipit reprehenderit
 autem! Lorem ipsum dolor sit amet consectetur adipisicing elit.
 Beatae aut quo dignissimos error minima voluptatum vero ab
 suscipit reprehenderit autem!
-{{ .article_paragraph }}
+{: .article_paragraph }
 
 <div class="video-embed_wrap">
   <iframe
@@ -64,7 +64,7 @@ suscipit reprehenderit autem!
 </div>
 
 ### New Section Title A
-{{ .article_subtitle }}
+{: .article_title }
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
 fuga molestiae ab perspiciatis doloremque dicta quia dolores
@@ -77,10 +77,10 @@ dignissimos error minima voluptatum vero ab suscipit reprehenderit
 autem! Lorem ipsum dolor sit amet consectetur adipisicing elit.
 Beatae aut quo dignissimos error minima voluptatum vero ab
 suscipit reprehenderit autem!
-{{ .article_paragraph }}
+{: .article_paragraph }
 
 ### Example Code Block Title
-{{ .article_subtitle }}
+{: .article_title }
 
 ```rust
 let me = true;
@@ -97,7 +97,7 @@ dignissimos error minima voluptatum vero ab suscipit reprehenderit
 autem! Lorem ipsum dolor sit amet consectetur adipisicing elit.
 Beatae aut quo dignissimos error minima voluptatum vero ab
 suscipit reprehenderit autem!
-{{ .article_paragraph }}
+{: .article_paragraph }
 
 <div class="article_img-wrap">
   <img src="/images/perdson.jpg" alt="" class="article_img" />
@@ -117,7 +117,7 @@ dignissimos error minima voluptatum vero ab suscipit reprehenderit
 autem! Lorem ipsum dolor sit amet consectetur adipisicing elit.
 Beatae aut quo dignissimos error minima voluptatum vero ab
 suscipit reprehenderit autem!
-{{ .article_paragraph }}
+{: .article_paragraph }
 
 <div class="article_quote-block">
   <p class="article_quote">
@@ -132,7 +132,7 @@ dignissimos error minima voluptatum vero ab suscipit reprehenderit
 autem! Lorem ipsum dolor sit amet consectetur adipisicing elit.
 Beatae aut quo dignissimos error minima voluptatum vero ab
 suscipit reprehenderit autem!
-{{ .article_paragraph }}
+{: .article_paragraph }
 
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
@@ -146,4 +146,4 @@ dignissimos error minima voluptatum vero ab suscipit reprehenderit
 autem! Lorem ipsum dolor sit amet consectetur adipisicing elit.
 Beatae aut quo dignissimos error minima voluptatum vero ab
 suscipit reprehenderit autem!
-{{ .article_paragraph }}
+{: .article_paragraph }
