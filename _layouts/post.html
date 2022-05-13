@@ -7,12 +7,12 @@ layout: default
       <div class="hero_article_img-wrap">
         <img
                 class="hero_article_img"
-                src="/images/pexels-kevin-ku-577585.jpg"
+                src="/assets/images/pexels-kevin-ku-577585.jpg"
                 alt=""
         />
       </div>
       <p class="hero_article_attribution">
-        hero image attribution goes here.
+        {{ page.hero_slug}}
       </p>
     </div>
   </div>
@@ -22,10 +22,9 @@ layout: default
   <div class="container small">
     <div class="section_content">
       <a href="" class="article_tag category quantum"> </a>
-      <h1 class="article_title">Computing is hard to do sometimes.</h1>
+      <h1 class="article_title">{{ page.title }}</h1>
       <p class="article_intro">
-        Brief blurb/intro for this article. Ipsum amet massa amet sagittis,
-        nulla. Egestas ipsum urna, mauris, tortor pellentesque.
+        {{ page.blurb }}
       </p>
       <div class="article_info">
         <p class="article_author">Michael Wilson</p>
@@ -34,8 +33,6 @@ layout: default
       <div class="article_body_inner">
         {{ content }}
       </div>
-<!--      <div class="article_body_inner">-->
-<!--      </div>-->
       <div class="article_body_inner article_tags">
         <div class="tags-wrap">
           <a href="" class="article_tag category ecology"> </a>
@@ -53,27 +50,27 @@ layout: default
           <div class="social-icons">
             <a href="" class="social-icons_link"
             ><img
-                    src="/images/twitter-logo-fill.svg"
+                    src="/assets/images/twitter-logo-fill.svg"
                     alt=""
                     class="social-icons_link_icon"
             /></a>
 
             <a href="" class="social-icons_link"
             ><img
-                    src="/images/facebook-circular-logo.svg"
+                    src="/assets/images/facebook-circular-logo.svg"
                     alt=""
                     class="social-icons_link_icon"
             /></a>
 
             <a href="" class="social-icons_link"
             ><img
-                    src="/images/link-fill.svg"
+                    src="/assets/images/link-fill.svg"
                     alt=""
                     class="social-icons_link_icon"
             /></a>
             <a href="" class="social-icons_link"
             ><img
-                    src="/images/email-solid.svg"
+                    src="/assets/images/email-solid.svg"
                     alt=""
                     class="social-icons_link_icon"
             /></a>
@@ -86,7 +83,7 @@ layout: default
         <div class="article_author-card">
           <div class="article_author-card_img-wrap">
             <img
-                    src="/images/michael.jpg"
+                    src="/assets/images/michael.jpg"
                     alt=""
                     class="article_author-card_img"
             />
@@ -104,27 +101,27 @@ layout: default
           <div class="social-icons">
             <a href="" class="social-icons_link"
             ><img
-                    src="/images/github-logo-fill.svg"
+                    src="/assets/images/github-logo-fill.svg"
                     alt=""
                     class="social-icons_link_icon"
             /></a>
 
             <a href="" class="social-icons_link"
             ><img
-                    src="/images/linkedin-logo-fill.svg"
+                    src="/assets/images/linkedin-logo-fill.svg"
                     alt=""
                     class="social-icons_link_icon"
             /></a>
 
             <a href="" class="social-icons_link"
             ><img
-                    src="/images/instagram-logo-fill.svg"
+                    src="/assets/images/instagram-logo-fill.svg"
                     alt=""
                     class="social-icons_link_icon"
             /></a>
             <a href="" class="social-icons_link"
             ><img
-                    src="/images/email-solid.svg"
+                    src="/assets/images/email-solid.svg"
                     alt=""
                     class="social-icons_link_icon"
             /></a>
@@ -142,7 +139,7 @@ layout: default
       <div class="article-list small">
         <div class="article">
           <a href="" class="article_img-link">
-            <img src="/images/board.jpg" alt="" class="article_img" />
+            <img src="/assets/images/board.jpg" alt="" class="article_img" />
           </a>
           <div class="article_info">
             <a href="" class="article_tag category quantum"> </a>
@@ -166,7 +163,7 @@ layout: default
         </div>
         <div class="article">
           <a href="" class="article_img-link">
-            <img src="/images/perdson.jpg" alt="" class="article_img" />
+            <img src="/assets/images/perdson.jpg" alt="" class="article_img" />
           </a>
           <div class="article_info">
             <a href="" class="article_tag category ecology"> </a>
@@ -193,7 +190,7 @@ layout: default
 
         <div class="article">
           <a href="" class="article_img-link">
-            <img src="/images/board.jpg" alt="" class="article_img" />
+            <img src="/assets/images/board.jpg" alt="" class="article_img" />
           </a>
           <div class="article_info">
             <a href="" class="article_tag category etcetera"></a>

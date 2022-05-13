@@ -1,7 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "This is my title!"
 date:   2022-04-23 16:54:01 -0400
+
+blurb: "Brief blurb/intro for this article. Ipsum amet massa amet sagittis, nulla. Egestas ipsum urna, mauris, tortor pellentesque."
+hero_slug: "This is my Hero Image"
 categories: jekyll update
 ---
 
@@ -36,7 +39,7 @@ die();
 ```
 
 ### New Section Title A
-{: .article_title }
+{: .article_subtitle }
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
 fuga molestiae ab perspiciatis doloremque dicta quia dolores
@@ -51,20 +54,10 @@ Beatae aut quo dignissimos error minima voluptatum vero ab
 suscipit reprehenderit autem!
 {: .article_paragraph }
 
-<div class="video-embed_wrap">
-  <iframe
-          width="560"
-          height="315"
-          src="https://www.youtube.com/embed/6ardZEhjvV0"
-          title="YouTube video player"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
-  ></iframe>
-</div>
+{% include video.html url="https://www.youtube.com/embed/6ardZEhjvV0" title="A video" %}
 
 ### New Section Title A
-{: .article_title }
+{: .article_subtitle }
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
 fuga molestiae ab perspiciatis doloremque dicta quia dolores
@@ -80,7 +73,7 @@ suscipit reprehenderit autem!
 {: .article_paragraph }
 
 ### Example Code Block Title
-{: .article_title }
+{: .article_subtitle }
 
 ```rust
 let me = true;
@@ -100,7 +93,7 @@ suscipit reprehenderit autem!
 {: .article_paragraph }
 
 <div class="article_img-wrap">
-  <img src="/images/perdson.jpg" alt="" class="article_img" />
+  <img src="/assets/images/perdson.jpg" alt="" class="article_img" />
   <p class="article_img_attribution">
     image attribution goes here.
   </p>
