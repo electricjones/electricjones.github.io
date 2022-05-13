@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "This is my title!"
+title:  "Welcome to Jekyll"
 date:   2022-04-23 16:54:01 -0400
-
-blurb: "Brief blurb/intro for this article. Ipsum amet massa amet sagittis, nulla. Egestas ipsum urna, mauris, tortor pellentesque."
-hero_slug: "This is my Hero Image"
-categories: jekyll update
+blurb: >- 
+    Brief blurb/intro for this article. Ipsum amet massa amet sagittis, nulla. 
+    Egestas ipsum urna, mauris, tortor pellentesque.
+hero: 
+    url: /assets/images/pexels-kevin-ku-577585.jpg
+    tag: "This is my Hero Image"
+category: quantum
+author: Michael Wilson
 ---
 
 Lorem ipsum dolor sit amet **consectetur** adipisicing elit. Impedit

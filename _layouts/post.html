@@ -7,12 +7,12 @@ layout: default
       <div class="hero_article_img-wrap">
         <img
                 class="hero_article_img"
-                src="/assets/images/pexels-kevin-ku-577585.jpg"
+                src="{{ page.hero.url }}"
                 alt=""
         />
       </div>
       <p class="hero_article_attribution">
-        {{ page.hero_slug}}
+        {{ page.hero.tag}}
       </p>
     </div>
   </div>
@@ -27,8 +27,8 @@ layout: default
         {{ page.blurb }}
       </p>
       <div class="article_info">
-        <p class="article_author">Michael Wilson</p>
-        <p class="article_date">04/21/21</p>
+        <p class="article_author">{{ page.author }}</p>
+        <p class="article_date">{{ page.date | date_to_string }}</p>
       </div>
       <div class="article_body_inner">
         {{ content }}

@@ -3,10 +3,7 @@
 
   {%- include head.html -%}
 
-  <body class="article-index quantum">
-<!--  <body class="article-index ecology">-->
-<!--  <body class="article-index etcetera">-->
-<!--  <body class="article-index etcetera">-->
+  <body class="article-index {{ page.category | default: 'etcetera'  }}">
 
     {%- include header.html -%}
 
@@ -19,5 +16,4 @@
     {%- include footer.html -%}
 
   </body>
-
 </html>
