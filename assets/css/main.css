@@ -1120,7 +1120,7 @@ a:hover {
 
 .noise {
   pointer-events: none;
-  background-image: url(/images/noise.png);
+  background-image: url(/assets/images/noise.png);
   position: fixed;
   top: -6em;
   left: -6em;
@@ -2101,15 +2101,15 @@ input[type="submit"] {
 }
 
 .article_tag.category.ecology::before {
-  background: url(/images/compassgear_eco.svg) no-repeat center;
+  background: url(/assets/images/compassgear_eco.svg) no-repeat center;
 }
 
 .article_tag.category.quantum::before {
-  background: url(/images/compassgear_quantum.svg) no-repeat center;
+  background: url(/assets/images/compassgear_quantum.svg) no-repeat center;
 }
 
 .article_tag.category.etcetera::before {
-  background: url(/images/compassgear_etcetera.svg) no-repeat center;
+  background: url(/assets/images/compassgear_etcetera.svg) no-repeat center;
 }
 
 .article_tag.category.ecology::after {
@@ -2125,16 +2125,16 @@ input[type="submit"] {
 }
 
 .category-index .hero_content_gear::before {
-  content: url(/images/compassgear_black.svg);
+  content: url(/assets/images/compassgear_black.svg);
 }
 
 body.ecology {
   --accent-clr: var(--ecology);
-  --accent-img: url("/images/trees.jpg");
+  --accent-img: url("/assets/images/trees.jpg");
 }
 
 body.ecology.category-index .hero_content_gear::before {
-  content: url(/images/compassgear_eco.svg);
+  content: url(/assets/images/compassgear_eco.svg);
 }
 
 body.ecology.category-index .hero_content_title-large::before {
@@ -2143,11 +2143,11 @@ body.ecology.category-index .hero_content_title-large::before {
 
 body.quantum {
   --accent-clr: var(--quantum);
-  --accent-img: url("/images/quantum-computer.jpg");
+  --accent-img: url("/assets/images/quantum-computer.jpg");
 }
 
 body.quantum.category-index .hero_content_gear::before {
-  content: url(/images/compassgear_quantum.svg);
+  content: url(/assets/images/compassgear_quantum.svg);
 }
 
 body.quantum.category-index .hero_content_title-large::before {
@@ -2156,11 +2156,11 @@ body.quantum.category-index .hero_content_title-large::before {
 
 body.etcetera {
   --accent-clr: var(--etcetera);
-  --accent-img: url("/images/colors.jpg");
+  --accent-img: url("/assets/images/colors.jpg");
 }
 
 body.etcetera.category-index .hero_content_gear::before {
-  content: url(/images/compassgear_etcetera.svg);
+  content: url(/assets/images/compassgear_etcetera.svg);
 }
 
 body.etcetera.category-index .hero_content_title-large::before {
@@ -2169,12 +2169,12 @@ body.etcetera.category-index .hero_content_title-large::before {
 
 body.tags-index {
   --accent-clr: var(--textDark);
-  --accent-img: url("/images/computing.jpg");
+  --accent-img: url("/assets/images/computing.jpg");
 }
 
 body.projects {
   --accent-clr: var(--textDark);
-  --accent-img: url("/images/board.jpg");
+  --accent-img: url("/assets/images/board.jpg");
 }
 
 .caps-bold {
