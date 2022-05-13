@@ -8,9 +8,9 @@
         <div class="contact-cta_wrap" id="contact">
             <p class="section_desc">Let's Talk</p>
             <a
-                    href="mailto:hey@electricjones.com?subject=Let's Work Together"
+                    href="mailto:{{ site.email }}?subject=Website Message"
                     class="contact-cta"
-            >hey@electricjones.com</a
+            >{{ site.email }}</a
             >
         </div>
         <div class="quote_wrap">
@@ -63,36 +63,9 @@
             <img src="/assets/images/steampunkey.svg" alt="steampunkey" class="footer_logo" />
             <h2 class="footer_tagline">Code<br />with<br />meaning</h2>
             <div class="footer-btm">
-                <p class="copyright">&#169; ElectricJones 2021</p>
+                <p class="copyright">&#169; ElectricJones 2022</p>
 
-                <div class="social-icons">
-                    <a href="" class="social-icons_link"
-                    ><img
-                            src="/assets/images/github-logo-fill.svg"
-                            alt=""
-                            class="social-icons_link_icon"
-                    /></a>
-
-                    <a href="" class="social-icons_link"
-                    ><img
-                            src="/assets/images/linkedin-logo-fill.svg"
-                            alt=""
-                            class="social-icons_link_icon"
-                    /></a>
-
-                    <a href="" class="social-icons_link"
-                    ><img
-                            src="/assets/images/instagram-logo-fill.svg"
-                            alt=""
-                            class="social-icons_link_icon"
-                    /></a>
-                    <a href="" class="social-icons_link"
-                    ><img
-                            src="/assets/images/email-solid.svg"
-                            alt=""
-                            class="social-icons_link_icon"
-                    /></a>
-                </div>
+                {% include social.html %}
 
                 <p class="siteby-tag">
                     Made with love by
@@ -105,7 +78,6 @@
     </div>
 </footer>
 
-<!--<script src="/assets/js/includes.js"></script>-->
 <script src="/assets/js/hero-nav.js"></script>
 <script src="/assets/js/progressBar.js"></script>
 <script defer src="/assets/js/navigation.js"></script>

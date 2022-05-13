@@ -1,13 +1,13 @@
 <head>
   <meta charset="utf-8" />
-  <title>Electric Jones | Code with meaning.</title>
-  <meta property="og:title" content="Electric Jones | Code with meaning." />
+  <title>Electric Jones | {{ page.title }}</title>
+  <meta property="og:title" content="Electric Jones | {{ page.title }}" />
   <meta
           name="description"
-          content="I thrive on creative collaboration with smart, passionate people solving complex problems using computer science. I also view life like an old school action rpg, and this site is the map I leave for others to join me on my journey."
+          content="{{ page.blurb }}"
   />
   <meta
-          content="I thrive on creative collaboration with smart, passionate people solving complex problems using computer science. I also view life like an old school action rpg, and this site is the map I leave for others to join me on my journey."
+          content="{{ page.blurb }}"
           property="og:description"
   />
   <meta property="og:image" content="" />
@@ -18,11 +18,11 @@
           property="og:image:alt"
           content="Electric Jones | Code with meaning."
   />
-  <meta property="og:url" content="https://www.electricjones.me" />
-  <meta property="og:site_name" content="Electric Jones" />
+  <meta property="og:url" content="{{ page.url }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
   <meta property="og:type" content="website" />
   {%- seo -%}
-  <link rel="canonical" href="https://www.electricjones.me" />
+  <link rel="canonical" href="{{ site.url }}" />
   <link
           rel="shortcut icon"
           type="image/png"
@@ -30,8 +30,7 @@
   />
   <meta content="width=device-width, initial-scale=1" name="viewport" />
 
-<!--  <link rel="stylesheet" href="/assets/css/main.css" />-->
-  <link rel="stylesheet" href="{{ "/css/main.css" | relative_url }}">
+  <link rel="stylesheet" href="/assets/css/main.css" />
 
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}

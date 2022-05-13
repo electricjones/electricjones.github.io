@@ -5,10 +5,10 @@
                 <a href="/index.html" class="header_logo_link">
                     <img
                             src="/assets/images/steampunkey.svg"
-                            alt="Electric Jones"
+                            alt="{{ site.title }}"
                             class="header_logo"
                     />
-                    <h2 class="header_title">ElectricJones</h2>
+                    <h2 class="header_title">{{ site.title }}</h2>
                 </a>
             </div>
             <div class="nav-toggle">
@@ -27,42 +27,21 @@
                     <a class="nav_item" href="/index.html#about">About Me</a>
                     <a class="nav_item" href="#contact">Let's Talk</a>
                 </nav>
-                <div class="social-icons">
-                    <a href="" class="social-icons_link"
-                    ><img
-                            src="/assets/images/github-logo-fill.svg"
-                            alt=""
-                            class="social-icons_link_icon"
-                    /></a>
-
-                    <a href="" class="social-icons_link"
-                    ><img
-                            src="/assets/images/linkedin-logo-fill.svg"
-                            alt=""
-                            class="social-icons_link_icon"
-                    /></a>
-
-                    <a href="" class="social-icons_link"
-                    ><img
-                            src="/assets/images/instagram-logo-fill.svg"
-                            alt=""
-                            class="social-icons_link_icon"
-                    /></a>
-                </div>
+                {% include social.html %}
             </div>
-            <form class="search_wrap">
-                <img class="search_icon" src="/assets/images/search.svg" alt="Search" />
-                <div class="search_input-wrap">
-                    <input
-                            class="search_input"
-                            type="search"
-                            name="search"
-                            id="search"
-                            placeholder="Search around"
-                    />
-                    <input type="submit" class="search_submit" value="Go"></input>
-                </div>
-            </form>
+<!--            <form class="search_wrap">-->
+<!--                <img class="search_icon" src="/assets/images/search.svg" alt="Search" />-->
+<!--                <div class="search_input-wrap">-->
+<!--                    <input-->
+<!--                            class="search_input"-->
+<!--                            type="search"-->
+<!--                            name="search"-->
+<!--                            id="search"-->
+<!--                            placeholder="Search around"-->
+<!--                    />-->
+<!--                    <input type="submit" class="search_submit" value="Go"></input>-->
+<!--                </div>-->
+<!--            </form>-->
         </div>
     </div>
     <div class="progress-bar"></div>
