@@ -35,17 +35,15 @@ layout: default
       </div>
       <div class="article_body_inner article_tags">
         <div class="tags-wrap">
-          <a href="" class="article_tag category ecology"> </a>
-          <a href="" class="tag rust">Rust</a>
-          <a href="" class="tag technology">Data</a>
-          <a href="" class="tag pizza">Tag 3</a>
-          <a href="" class="tag rust">Tag 4</a>
+          <a href="" class="article_tag category {{ page.category }}"> </a>
+
+          {% for tag in page.tags %}
+            <a href="" class="tag {{ site.data.tags[tag] | default: 'purple' }}">{{ tag }}</a>
+          {% endfor %}
         </div>
         <div class="article_nav">
           <div class="article_nav_btn">
-            <a href="" class="article_nav_link previous"
-            >Previous Article</a
-            >
+            <a href="" class="article_nav_link previous">Previous Article</a>
           </div>
           <div class="social-icons">
             <a href="" class="social-icons_link"

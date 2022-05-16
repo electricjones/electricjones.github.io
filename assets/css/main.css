@@ -2054,20 +2054,24 @@ input[type="submit"] {
   text-decoration: underline;
 }
 
-.rust {
+.yellow {
   color: #9e7f28;
 }
 
-.pizza {
+.red {
   color: red;
 }
 
-.technology {
+.blue {
   color: #4648d6;
 }
 
-.newtag {
+.green {
   color: #abd646;
+}
+
+.purple {
+  color: #9037E4FF;
 }
 
 .article_tag.ecology {
