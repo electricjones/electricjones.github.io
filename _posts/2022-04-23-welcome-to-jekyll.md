@@ -9,7 +9,7 @@ hero:
     url: /assets/images/pexels-kevin-ku-577585.jpg
     tag: "This is my Hero Image"
 category: quantum
-tags: rust programming-languages conservation certification projects adefault
+tags: rust programming-languages conservation ibm-certification else
 author: Michael Wilson
 ---
 
