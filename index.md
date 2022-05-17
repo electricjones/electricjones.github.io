@@ -1,12 +1,12 @@
 ---
-# There is nothing here -- edit the html page
 layout: home
 title: "Code with meaning"
 blurb: >-
     I thrive on creative collaboration with smart, passionate people solving complex problems using computer science. 
     I also view life like an old school action rpg, and this site is the map I leave for others to join me on my journey.
 category: ecology 
-# quantum etcetera
+pagination:
+    enabled: true
 ---
 I am a scholar, storyteller, gamer, and computer scientist, and
 systems engineer. I first started programming in fourth grade

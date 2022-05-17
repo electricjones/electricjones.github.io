@@ -22,6 +22,14 @@ kramdown:
   syntax_highlighter_opts:
     default_lang: rust
     css_class   : 'code-block_wrap chroma-body chroma'
+pagination:
+  enabled: true
+  per_page: 2
+  permalink: '/page/:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
 
 # Build settings
 plugins:
