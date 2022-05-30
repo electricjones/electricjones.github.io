@@ -10,7 +10,7 @@ body-class: category-index
     <div class="container">
         <div class="hero_content"  style="min-height: 320px;">
             <h1 class="hero_content_title">
-                <span class="hero_content_title-large">
+                <span class="hero_content_title-large {{ index.color | default: 'black' }}">
                     {{ index.title | default: index_name}}
                 </span>
             </h1>
