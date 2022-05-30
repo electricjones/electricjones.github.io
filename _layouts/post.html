@@ -35,7 +35,7 @@ layout: default
       </div>
       <div class="article_body_inner article_tags">
         <div class="tags-wrap">
-          <a href="" class="article_tag category {{ page.category }}"> </a>
+          <a href="/{{ page.category }}" class="article_tag category {{ page.category }}"> </a>
 
           {% for tag_name in page.tags %}
             <a href="" class="tag {{ site.data.index[tag_name].color }}">{{ tag_name }}</a>
