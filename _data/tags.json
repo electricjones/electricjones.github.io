@@ -24,7 +24,22 @@
       {
         "text": "Github Repository",
         "url": "https://github.com/electricjones/kaylee"
-      },
+      }
     ]
   },
+  "ecology": {
+    "title": "Computational Ecology",
+    "description": "Using computational ecology for cool things.",
+    "logo": "/assets/images/compassgear_eco.svg",
+    "links": [
+      {
+        "text": "Github Repository",
+        "url": "https://github.com/electricjones/kaylee"
+      },
+      {
+        "text": "ABC and DEF",
+        "url": "#"
+      }
+    ]
+  }
 }
