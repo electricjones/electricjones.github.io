@@ -41,5 +41,10 @@
         "url": "#"
       }
     ]
+  },
+  "quantum": {
+    "title": "Quantum Computing",
+    "description": "Using quantum stuff for cool things.",
+    "logo": "/assets/images/compassgear_quantum.svg",
   }
 }
