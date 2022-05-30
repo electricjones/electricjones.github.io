@@ -19,6 +19,7 @@
     "color": "purple",
     "description": "An educational/research virtual machine, assembly language, programming language, and compiler",
     "sticky": "some-id",
+    "logo": "",
     "links": [
       {
         "text": "Github Repository",
