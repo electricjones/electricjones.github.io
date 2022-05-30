@@ -46,5 +46,9 @@
     "title": "Quantum Computing",
     "description": "Using quantum stuff for cool things.",
     "logo": "/assets/images/compassgear_quantum.svg",
+    "sticky": [
+      "_posts/2022-05-12-kaylee-vm.md",
+      "_posts/2022-05-28-certification-path.md"
+    ]
   }
 }
