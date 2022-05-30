@@ -67,121 +67,124 @@ layout: default
   </div>
 </section>
 
-<section class="section featured tinted">
-  <div class="container small">
-    <div class="section_content">
-      <h2 class="section_title">Recent Posts</h2>
-      <div class="article-list large">
-        <article class="article">
-          <a href="/article.html" class="article_img-link">
-            <img src="/assets/images/board.jpg" alt="" class="article_img" />
-          </a>
-          <div class="article_info">
-            <a href="" class="article_tag category quantum"> </a>
-            <a href="" class="article_info_inner">
-              <h3 class="article_title">
-                Computing is hard to do sometimes.
-              </h3>
-              <p class="article_snippet">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                Quasi laudantium quam expedita. Optio ut omnis,
-                necessitatibus et hic quas. Iste?
-              </p>
-            </a>
-            <div class="article_tags">
-              <a href="" class="article_tag rust">Rust</a>
-              <a href="" class="article_tag pizza">Pizza</a>
-              <a href="" class="article_tag technology">Technology</a>
-            </div>
-            <p class="article_date">4/1/2021</p>
-          </div>
-        </article>
-        <article class="article">
-          <a href="/article.html" class="article_img-link">
-            <img src="/assets/images/perdson.jpg" alt="" class="article_img" />
-          </a>
-          <div class="article_info">
-            <a href="" class="article_tag category ecology"> </a>
-            <a href="" class="article_info_inner">
-              <h3 class="article_title">
-                Trees + computers = good things for the world.
-              </h3>
-              <p class="article_snippet">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                Quasi laudantium quam expedita. Optio ut omnis,
-                necessitatibus et hic quas. Iste? Lorem ipsum dolor sit amet
-                consectetur, adipisicing elit. Quasi laudantium quam
-                expedita. Optio ut omnis, necessitatibus et hic quas. Iste?
-              </p>
-            </a>
-            <div class="article_tags">
-              <a href="" class="article_tag rust">Rust</a>
-              <a href="" class="article_tag pizza">Pizza</a>
-              <a href="" class="article_tag technology">Technology</a>
-            </div>
-            <p class="article_date">4/1/2021</p>
-          </div>
-        </article>
-        <article class="article">
-          <a href="/article.html" class="article_img-link">
-            <img
-                    src="/assets/images/pexels-josh-sorenson-1714208.jpg"
-                    alt=""
-                    class="article_img"
-            />
-          </a>
-          <div class="article_info">
-            <a href="" class="article_tag category etcetera"></a>
-            <a href="" class="article_info_inner">
-              <h3 class="article_title">
-                There's more things to do if you want to learn.
-              </h3>
-              <p class="article_snippet">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                Quasi laudantium quam expedita. Optio ut omnis,
-                necessitatibus et hic quas. Iste?
-              </p>
-            </a>
-            <div class="article_tags">
-              <a href="" class="article_tag rust">Rust</a>
-              <a href="" class="article_tag pizza">Pizza</a>
-              <a href="" class="article_tag technology">Technology</a>
-            </div>
-            <p class="article_date">4/1/2021</p>
-          </div>
-        </article>
-        <article class="article">
-          <a href="/article.html" class="article_img-link">
-            <img
-                    src="/assets/images/pexels-jéshoots-4316.jpg"
-                    alt=""
-                    class="article_img"
-            />
-          </a>
-          <div class="article_info">
-            <a href="" class="article_tag category quantum"> </a>
-            <a href="" class="article_info_inner">
-              <h3 class="article_title">
-                Computing is hard to do sometimes.
-              </h3>
-              <p class="article_snippet">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                Quasi laudantium quam expedita. Optio ut omnis,
-                necessitatibus et hic quas. Iste?
-              </p>
-            </a>
-            <div class="article_tags">
-              <a href="" class="article_tag rust">Rust</a>
-              <a href="" class="article_tag pizza">Pizza</a>
-              <a href="" class="article_tag technology">Technology</a>
-            </div>
-            <p class="article_date">4/1/2021</p>
-          </div>
-        </article>
-      </div>
-    </div>
-  </div>
-</section>
+{% include sticky.html sticky = site.data.popular title = "Most Popular" %}
+{% include all-posts.html title = "Recent Posts" %}
+
+<!--<section class="section featured tinted">-->
+<!--  <div class="container small">-->
+<!--    <div class="section_content">-->
+<!--      <h2 class="section_title">Recent Posts</h2>-->
+<!--      <div class="article-list large">-->
+<!--        <article class="article">-->
+<!--          <a href="/article.html" class="article_img-link">-->
+<!--            <img src="/assets/images/board.jpg" alt="" class="article_img" />-->
+<!--          </a>-->
+<!--          <div class="article_info">-->
+<!--            <a href="" class="article_tag category quantum"> </a>-->
+<!--            <a href="" class="article_info_inner">-->
+<!--              <h3 class="article_title">-->
+<!--                Computing is hard to do sometimes.-->
+<!--              </h3>-->
+<!--              <p class="article_snippet">-->
+<!--                Lorem ipsum dolor sit amet consectetur, adipisicing elit.-->
+<!--                Quasi laudantium quam expedita. Optio ut omnis,-->
+<!--                necessitatibus et hic quas. Iste?-->
+<!--              </p>-->
+<!--            </a>-->
+<!--            <div class="article_tags">-->
+<!--              <a href="" class="article_tag rust">Rust</a>-->
+<!--              <a href="" class="article_tag pizza">Pizza</a>-->
+<!--              <a href="" class="article_tag technology">Technology</a>-->
+<!--            </div>-->
+<!--            <p class="article_date">4/1/2021</p>-->
+<!--          </div>-->
+<!--        </article>-->
+<!--        <article class="article">-->
+<!--          <a href="/article.html" class="article_img-link">-->
+<!--            <img src="/assets/images/perdson.jpg" alt="" class="article_img" />-->
+<!--          </a>-->
+<!--          <div class="article_info">-->
+<!--            <a href="" class="article_tag category ecology"> </a>-->
+<!--            <a href="" class="article_info_inner">-->
+<!--              <h3 class="article_title">-->
+<!--                Trees + computers = good things for the world.-->
+<!--              </h3>-->
+<!--              <p class="article_snippet">-->
+<!--                Lorem ipsum dolor sit amet consectetur, adipisicing elit.-->
+<!--                Quasi laudantium quam expedita. Optio ut omnis,-->
+<!--                necessitatibus et hic quas. Iste? Lorem ipsum dolor sit amet-->
+<!--                consectetur, adipisicing elit. Quasi laudantium quam-->
+<!--                expedita. Optio ut omnis, necessitatibus et hic quas. Iste?-->
+<!--              </p>-->
+<!--            </a>-->
+<!--            <div class="article_tags">-->
+<!--              <a href="" class="article_tag rust">Rust</a>-->
+<!--              <a href="" class="article_tag pizza">Pizza</a>-->
+<!--              <a href="" class="article_tag technology">Technology</a>-->
+<!--            </div>-->
+<!--            <p class="article_date">4/1/2021</p>-->
+<!--          </div>-->
+<!--        </article>-->
+<!--        <article class="article">-->
+<!--          <a href="/article.html" class="article_img-link">-->
+<!--            <img-->
+<!--                    src="/assets/images/pexels-josh-sorenson-1714208.jpg"-->
+<!--                    alt=""-->
+<!--                    class="article_img"-->
+<!--            />-->
+<!--          </a>-->
+<!--          <div class="article_info">-->
+<!--            <a href="" class="article_tag category etcetera"></a>-->
+<!--            <a href="" class="article_info_inner">-->
+<!--              <h3 class="article_title">-->
+<!--                There's more things to do if you want to learn.-->
+<!--              </h3>-->
+<!--              <p class="article_snippet">-->
+<!--                Lorem ipsum dolor sit amet consectetur, adipisicing elit.-->
+<!--                Quasi laudantium quam expedita. Optio ut omnis,-->
+<!--                necessitatibus et hic quas. Iste?-->
+<!--              </p>-->
+<!--            </a>-->
+<!--            <div class="article_tags">-->
+<!--              <a href="" class="article_tag rust">Rust</a>-->
+<!--              <a href="" class="article_tag pizza">Pizza</a>-->
+<!--              <a href="" class="article_tag technology">Technology</a>-->
+<!--            </div>-->
+<!--            <p class="article_date">4/1/2021</p>-->
+<!--          </div>-->
+<!--        </article>-->
+<!--        <article class="article">-->
+<!--          <a href="/article.html" class="article_img-link">-->
+<!--            <img-->
+<!--                    src="/assets/images/pexels-jéshoots-4316.jpg"-->
+<!--                    alt=""-->
+<!--                    class="article_img"-->
+<!--            />-->
+<!--          </a>-->
+<!--          <div class="article_info">-->
+<!--            <a href="" class="article_tag category quantum"> </a>-->
+<!--            <a href="" class="article_info_inner">-->
+<!--              <h3 class="article_title">-->
+<!--                Computing is hard to do sometimes.-->
+<!--              </h3>-->
+<!--              <p class="article_snippet">-->
+<!--                Lorem ipsum dolor sit amet consectetur, adipisicing elit.-->
+<!--                Quasi laudantium quam expedita. Optio ut omnis,-->
+<!--                necessitatibus et hic quas. Iste?-->
+<!--              </p>-->
+<!--            </a>-->
+<!--            <div class="article_tags">-->
+<!--              <a href="" class="article_tag rust">Rust</a>-->
+<!--              <a href="" class="article_tag pizza">Pizza</a>-->
+<!--              <a href="" class="article_tag technology">Technology</a>-->
+<!--            </div>-->
+<!--            <p class="article_date">4/1/2021</p>-->
+<!--          </div>-->
+<!--        </article>-->
+<!--      </div>-->
+<!--    </div>-->
+<!--  </div>-->
+<!--</section>-->
 
 <section class="section about" id="about">
   <div class="container small">
