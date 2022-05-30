@@ -3,7 +3,7 @@
 
   {%- include head.html -%}
 
-  <body class="article-index {{ page.category | default: 'etcetera'  }}">
+  <body class="{{ page.body-class | default: 'article-index' }} {{ page.category | default: 'etcetera'  }}">
 
     {%- include header.html -%}
 
