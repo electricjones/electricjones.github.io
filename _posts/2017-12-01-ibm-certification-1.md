@@ -7,7 +7,7 @@ hero:
     url: /assets/images/pexels-kevin-ku-577585.jpg
     tag: "This is my Hero Image"
 category: quantum
-tags: certification, rust
+tags: certification, rust, kaylee-vm
 author: Michael Wilson
 ---
 1. Introduction
