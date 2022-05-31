@@ -1,0 +1,16 @@
+- title: "Kaylee"
+  blurb: "A learning virtual machine"
+  hero:
+    url: /assets/images/pexels-kevin-ku-577585.jpg
+    tag: "Kaylee is cool"
+  url: /tag/kaylee-vm
+  category: etcetera
+- title: Awesome Quantum Computing
+  blurb: A list of resources
+  hero:
+    url: /assets/images/pexels-kevin-ku-577585.jpg
+    tag: "Some quantum computing stuff"
+  url: /tag/awesome-quantum-computing
+  category: quantum
+  tags:
+    - resources

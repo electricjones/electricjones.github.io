@@ -1,27 +1,4 @@
----
-rust:
-  color: blue
-  description: Musings on a fantastic systems programming language
-programming-languages:
-  color: yellow
-  description: Design and reviews of programing language concepts, not relating to
-    any specific language
-conservation:
-  color: green
-  description: Topics related to ecological conservation, both using computing as
-    a tool and not
-ibm-certification:
-  color: red
-  description: My journey to the IBM Quantum Computing Certification
-kaylee-vm:
-  color: purple
-  description: An educational/research virtual machine, assembly language, programming
-    language, and compiler
-  sticky: some-id
-  logo: ''
-  links:
-    - text: Github Repository
-      url: https://github.com/electricjones/kaylee
+# Categories
 ecology:
   title: Computational Ecology
   description: Using computational ecology for cool things.
@@ -38,3 +15,60 @@ quantum:
   sticky:
     - _posts/2022-05-12-kaylee-vm.md
     - _posts/2022-05-28-certification-path.md
+etcetera:
+  title: Etcetera
+  description: All the other stuff
+  logo: "/assets/images/compassgear_etcetera.svg"
+
+# Project Pages
+kaylee-vm:
+  color: purple
+  title: Kaylee, a Toy Virtual Machine
+  description: An educational/research virtual machine, assembly language, programming
+    language, and compiler
+  links:
+    - text: Github Repository
+      url: https://github.com/electricjones/kaylee
+
+# Tags
+rust:
+  color: blue
+  description: Musings on a fantastic systems programming language
+programming-languages:
+  color: yellow
+  description: Design and reviews of programing language concepts, not relating to
+    any specific language
+vm:
+  color: red
+  description: Virtual Machines, Emulation, and Interpreters
+citizen-science:
+  color: green
+  description: Projects and posts about citizen science and the tools to make it work
+go-lang:
+  color: blue
+  description: Musings on a great programming language build for speed and concurrency
+resources:
+  color: yellow
+  description: Resources for learning and building various tech projects
+php:
+  color: blue
+  description: An underrated language that powers a huge swath of the internet. Let's make it better!
+intro-posts:
+  color: purple
+  description: Introductions to topics I frequently cover. Think of these as maps to my blog.
+series:
+  color: purple
+  description: First posts in series.
+math:
+  color: red
+  description: Posts involving Math, usually Linear Algebra and Discrete Math
+qiskit:
+  color: red
+  description: Posts and learning materials about IBM's Quantum Computing Toolkit
+conservation:
+  color: green
+  description: Topics related to ecological conservation, both using computing as
+    a tool and not
+ibm-certification:
+  color: red
+  description: My journey to the IBM Quantum Computing Certification
