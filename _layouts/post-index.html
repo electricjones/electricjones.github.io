@@ -40,3 +40,18 @@ body-class: category-index
 {% include sticky.html sticky = index.sticky %}
 
 {% include all-posts.html %} <!-- Must be given a paginator object -->
+
+{% if paginator.total_pages > 1 %}
+    <div class="article_nav" align="center">
+        <div class="article_nav_btn">
+            {% if paginator.previous_page %}
+                <strong><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="article_nav_link previous"><< Previous</a></strong>
+            {% endif %}
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            {% if paginator.next_page %}
+                <strong><a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="article_nav_link next">Next >></a></strong>
+            {% endif %}
+            &nbsp;
+        </div>
+    </div>
+{% endif %}

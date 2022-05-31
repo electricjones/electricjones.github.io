@@ -14,6 +14,8 @@ hero:
 category: ecology
 tags: rust programming-languages conservation ibm-certification else
 author: Michael Wilson
+next_url: "hello"
+previous_url: "goodbye"
 ---
 
 Lorem ipsum dolor sit amet **consectetur** adipisicing elit. Impedit

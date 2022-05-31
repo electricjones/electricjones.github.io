@@ -43,8 +43,8 @@ layout: default
         </div>
         <div class="article_nav">
           <div class="article_nav_btn">
-            {% if post.previous %}
-              <a href="{{ post.previous }}" class="article_nav_link previous">Previous Article</a>
+            {% if page.previous_url %}
+              <a href="{{ page.previous_url }}" class="article_nav_link previous">Previous Article</a>
             {% endif %}
             &nbsp;
           </div>
@@ -65,8 +65,8 @@ layout: default
           </div>
 
           <div class="article_nav_btn">
-            {% if post.next %}
-              <a href="{{ post.next }}" class="article_nav_link next">Next Article</a>
+            {% if page.next_url %}
+              <a href="{{ page.next_url }}" class="article_nav_link next">Next Article</a>
             {% endif %}
             &nbsp;
           </div>
