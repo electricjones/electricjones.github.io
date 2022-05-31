@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://electricjones.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://electricjones.github.io/" rel="alternate" type="text/html" /><updated>2022-05-31T21:48:36+00:00</updated><id>https://electricjones.github.io/feed.xml</id><title type="html">Electric Jones</title><subtitle>I thrive on creative collaboration with smart, passionate people solving complex problems using computer science.  I also view life like an old school action rpg, and this site is the map I leave for others to join me on my journey.</subtitle><entry><title type="html">My IBM Qiskit Certification Journey | Part 3</title><link href="https://electricjones.github.io/quantum/2022/05/30/ibm-certification-3/" rel="alternate" type="text/html" title="My IBM Qiskit Certification Journey | Part 3" /><published>2022-05-30T00:00:00+00:00</published><updated>2022-05-30T00:00:00+00:00</updated><id>https://electricjones.github.io/quantum/2022/05/30/ibm-certification-3</id><content type="html" xml:base="https://electricjones.github.io/quantum/2022/05/30/ibm-certification-3/">&lt;p class=&quot;article_paragraph&quot;&gt;Math and physics were never my strong suit, but with these resources I got up to speed pretty quickly.&lt;/p&gt;
+
+&lt;h3 class=&quot;article_subtitle&quot; id=&quot;series-outline&quot;&gt;Series Outline&lt;/h3&gt;
+
+&lt;ol class=&quot;article_paragraph&quot;&gt;
+  &lt;li&gt;Introduction and Outline&lt;/li&gt;
+  &lt;li&gt;Prologue and Quantum Computing Exploration&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Foundations&lt;/strong&gt; (Theory, Math, and Computer Science) &amp;lt;– You are here&lt;/li&gt;
+  &lt;li&gt;Qiskit Part A: Qbits, Gates, and Circuits&lt;/li&gt;
+  &lt;li&gt;Qiskit Part B: Algorithms and All the Rest&lt;/li&gt;
+  &lt;li&gt;The Missing Pieces&lt;/li&gt;
+  &lt;li&gt;Perparing for the Exam&lt;/li&gt;
+  &lt;li&gt;My Exam Experience and Conclusion&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Michael Wilson</name></author><category term="quantum" /><category term="resources" /><category term="qiskit" /><category term="ibm-certification" /><category term="math" /><summary type="html">Math and physics were never my strong suit, but with these resources I got up to speed pretty quickly.</summary></entry><entry><title type="html">My IBM Qiskit Certification Journey | Part 2</title><link href="https://electricjones.github.io/quantum/2022/05/27/ibm-certification-2/" rel="alternate" type="text/html" title="My IBM Qiskit Certification Journey | Part 2" /><published>2022-05-27T00:00:00+00:00</published><updated>2022-05-27T00:00:00+00:00</updated><id>https://electricjones.github.io/quantum/2022/05/27/ibm-certification-2</id><content type="html" xml:base="https://electricjones.github.io/quantum/2022/05/27/ibm-certification-2/">&lt;p&gt;I had been fascinates by Quantum Computing for a number of years, but when I decided to really take the plunge, I had some catching up to do.&lt;/p&gt;
+
+&lt;p class=&quot;article_paragraph&quot;&gt;This post is a smattering of the videos, lectures, and articles I perused to understand the power and process of Quantum Computing.&lt;/p&gt;
+
+&lt;h3 class=&quot;article_subtitle&quot; id=&quot;series-outline&quot;&gt;Series Outline&lt;/h3&gt;
+
+&lt;ol class=&quot;article_paragraph&quot;&gt;
+  &lt;li&gt;Introduction and Outline&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Prologue and Quantum Computing Exploration&lt;/strong&gt; &amp;lt;– You are here&lt;/li&gt;
+  &lt;li&gt;Foundations (Theory, Math, and Computer Science)&lt;/li&gt;
+  &lt;li&gt;Qiskit Part A: Qbits, Gates, and Circuits&lt;/li&gt;
+  &lt;li&gt;Qiskit Part B: Algorithms and All the Rest&lt;/li&gt;
+  &lt;li&gt;The Missing Pieces&lt;/li&gt;
+  &lt;li&gt;Perparing for the Exam&lt;/li&gt;
+  &lt;li&gt;My Exam Experience and Conclusion&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Michael Wilson</name></author><category term="quantum" /><category term="resources" /><category term="qiskit" /><category term="ibm-certification" /><summary type="html">I had been fascinates by Quantum Computing for a number of years, but when I decided to really take the plunge, I had some catching up to do.</summary></entry><entry><title type="html">My IBM Qiskit Certification Journey | Part 1</title><link href="https://electricjones.github.io/quantum/2022/05/25/ibm-certification-1/" rel="alternate" type="text/html" title="My IBM Qiskit Certification Journey | Part 1" /><published>2022-05-25T00:00:00+00:00</published><updated>2022-05-25T00:00:00+00:00</updated><id>https://electricjones.github.io/quantum/2022/05/25/ibm-certification-1</id><content type="html" xml:base="https://electricjones.github.io/quantum/2022/05/25/ibm-certification-1/">&lt;p class=&quot;article_paragraph&quot;&gt;The &lt;a href=&quot;&quot;&gt;IBM Qiskit Certification&lt;/a&gt; is the first widely-available certification for Quantum Computing.
+This series is my journey to studying and preparing for the certification.&lt;/p&gt;
+
+&lt;h3 class=&quot;article_subtitle&quot; id=&quot;series-outline&quot;&gt;Series Outline&lt;/h3&gt;
+
+&lt;ol class=&quot;article_paragraph&quot;&gt;
+  &lt;li&gt;&lt;strong&gt;Introduction and Outline&lt;/strong&gt; &amp;lt;– You are here&lt;/li&gt;
+  &lt;li&gt;Prologue and Quantum Computing Exploration&lt;/li&gt;
+  &lt;li&gt;Foundations (Theory, Math, and Computer Science)&lt;/li&gt;
+  &lt;li&gt;Qiskit Part A: Qbits, Gates, and Circuits&lt;/li&gt;
+  &lt;li&gt;Qiskit Part B: Algorithms and All the Rest&lt;/li&gt;
+  &lt;li&gt;The Missing Pieces&lt;/li&gt;
+  &lt;li&gt;Perparing for the Exam&lt;/li&gt;
+  &lt;li&gt;My Exam Experience and Conclusion&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Michael Wilson</name></author><category term="quantum" /><category term="resources" /><category term="series" /><category term="qiskit" /><category term="ibm-certification" /><summary type="html">The IBM Qiskit Certification is the first widely-available certification for Quantum Computing. This series is my journey to studying and preparing for the certification.</summary></entry><entry><title type="html">Computational Ecology</title><link href="https://electricjones.github.io/ecology/2022/05/22/computational-ecology/" rel="alternate" type="text/html" title="Computational Ecology" /><published>2022-05-22T00:00:00+00:00</published><updated>2022-05-22T00:00:00+00:00</updated><id>https://electricjones.github.io/ecology/2022/05/22/computational-ecology</id><content type="html" xml:base="https://electricjones.github.io/ecology/2022/05/22/computational-ecology/">&lt;p class=&quot;article_paragraph&quot;&gt;TODO&lt;/p&gt;</content><author><name>Michael Wilson</name></author><category term="ecology" /><category term="intro-posts" /><category term="conservation" /><summary type="html">TODO</summary></entry><entry><title type="html">Etcetera</title><link href="https://electricjones.github.io/etcetera/2022/05/22/etcetera/" rel="alternate" type="text/html" title="Etcetera" /><published>2022-05-22T00:00:00+00:00</published><updated>2022-05-22T00:00:00+00:00</updated><id>https://electricjones.github.io/etcetera/2022/05/22/etcetera</id><content type="html" xml:base="https://electricjones.github.io/etcetera/2022/05/22/etcetera/">&lt;p class=&quot;article_paragraph&quot;&gt;To Do&lt;/p&gt;</content><author><name>Michael Wilson</name></author><category term="etcetera" /><category term="intro-posts" /><category term="rust" /><category term="citizen-science" /><summary type="html">To Do</summary></entry><entry><title type="html">Quantum, Computing, and Me</title><link href="https://electricjones.github.io/quantum/2022/05/22/quantum-computing/" rel="alternate" type="text/html" title="Quantum, Computing, and Me" /><published>2022-05-22T00:00:00+00:00</published><updated>2022-05-22T00:00:00+00:00</updated><id>https://electricjones.github.io/quantum/2022/05/22/quantum-computing</id><content type="html" xml:base="https://electricjones.github.io/quantum/2022/05/22/quantum-computing/">&lt;p class=&quot;article_paragraph&quot;&gt;To Do&lt;/p&gt;</content><author><name>Michael Wilson</name></author><category term="quantum" /><category term="intro-posts" /><category term="ibm-certification" /><category term="resources" /><category term="awesome-quantum-computing" /><summary type="html">To Do</summary></entry></feed>
