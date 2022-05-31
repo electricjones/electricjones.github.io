@@ -43,39 +43,32 @@ layout: default
         </div>
         <div class="article_nav">
           <div class="article_nav_btn">
-            <a href="" class="article_nav_link previous">Previous Article</a>
+            {% if post.previous %}
+              <a href="{{ post.previous }}" class="article_nav_link previous">Previous Article</a>
+            {% endif %}
+            &nbsp;
           </div>
           <div class="social-icons">
-            <a href="" class="social-icons_link"
+            <a href="https://twitter.com/intent/tweet?text={{ post.url }}" class="social-icons_link"
             ><img
                     src="/assets/images/twitter-logo-fill.svg"
                     alt=""
                     class="social-icons_link_icon"
             /></a>
 
-            <a href="" class="social-icons_link"
+            <a href="https://www.facebook.com/sharer/sharer.php?u={{ post.url }}" class="social-icons_link"
             ><img
                     src="/assets/images/facebook-circular-logo.svg"
-                    alt=""
-                    class="social-icons_link_icon"
-            /></a>
-
-            <a href="" class="social-icons_link"
-            ><img
-                    src="/assets/images/link-fill.svg"
-                    alt=""
-                    class="social-icons_link_icon"
-            /></a>
-            <a href="" class="social-icons_link"
-            ><img
-                    src="/assets/images/email-solid.svg"
                     alt=""
                     class="social-icons_link_icon"
             /></a>
           </div>
 
           <div class="article_nav_btn">
-            <a href="" class="article_nav_link next">Next Article</a>
+            {% if post.next %}
+              <a href="{{ post.next }}" class="article_nav_link next">Next Article</a>
+            {% endif %}
+            &nbsp;
           </div>
         </div>
         <div class="article_author-card">
@@ -130,87 +123,6 @@ layout: default
   </div>
 </section>
 
-<section class="section featured">
-  <div class="container small">
-    <div class="section_content">
-      <h2 class="section_title">Read More Thoughts.</h2>
-      <div class="article-list small">
-        <div class="article">
-          <a href="" class="article_img-link">
-            <img src="/assets/images/board.jpg" alt="" class="article_img" />
-          </a>
-          <div class="article_info">
-            <a href="" class="article_tag category quantum"> </a>
-            <a href="" class="article_info_inner">
-              <h3 class="article_title">
-                Computing is hard to do sometimes.
-              </h3>
-              <p class="article_snippet">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                Quasi laudantium quam expedita. Optio ut omnis,
-                necessitatibus et hic quas. Iste?
-              </p>
-            </a>
-            <div class="article_tags">
-              <a href="" class="article_tag rust">Rust</a>
-              <a href="" class="article_tag pizza">Pizza</a>
-              <a href="" class="article_tag technology">Technology</a>
-            </div>
-            <p class="article_date">4/1/2021</p>
-          </div>
-        </div>
-        <div class="article">
-          <a href="" class="article_img-link">
-            <img src="/assets/images/perdson.jpg" alt="" class="article_img" />
-          </a>
-          <div class="article_info">
-            <a href="" class="article_tag category ecology"> </a>
-            <a href="" class="article_info_inner">
-              <h3 class="article_title">
-                Trees + computers = good things for the world.
-              </h3>
-              <p class="article_snippet">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                Quasi laudantium quam expedita. Optio ut omnis,
-                necessitatibus et hic quas. Iste? Lorem ipsum dolor sit amet
-                consectetur, adipisicing elit. Quasi laudantium quam
-                expedita. Optio ut omnis, necessitatibus et hic quas. Iste?
-              </p>
-            </a>
-            <div class="article_tags">
-              <a href="" class="article_tag rust">Rust</a>
-              <a href="" class="article_tag pizza">Pizza</a>
-              <a href="" class="article_tag technology">Technology</a>
-            </div>
-            <p class="article_date">4/1/2021</p>
-          </div>
-        </div>
+{% assign popular_posts = site.posts %}
 
-        <div class="article">
-          <a href="" class="article_img-link">
-            <img src="/assets/images/board.jpg" alt="" class="article_img" />
-          </a>
-          <div class="article_info">
-            <a href="" class="article_tag category etcetera"></a>
-            <a href="" class="article_info_inner">
-              <h3 class="article_title">
-                There's more things to do if you want to learn.
-              </h3>
-              <p class="article_snippet">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                Quasi laudantium quam expedita. Optio ut omnis,
-                necessitatibus et hic quas. Iste?
-              </p>
-            </a>
-            <div class="article_tags">
-              <a href="" class="article_tag rust">Rust</a>
-              <a href="" class="article_tag pizza">Pizza</a>
-              <a href="" class="article_tag technology">Technology</a>
-            </div>
-            <p class="article_date">4/1/2021</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+{% include all-posts.html posts=popular_posts limit=3 title="Recent Posts" %}

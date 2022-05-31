@@ -57,17 +57,6 @@ autopages:
       mode: 'default'   # :cat is slugified. Modes: default, raw, pretty, ascii, latin
       case: true       # Whether to replace all uppercase letters with their lowercase counterparts
 
-#  # Collection pages, omit to disable
-#  collections:
-#    layouts:
-#      - 'autopage_collection.html'
-#    title: 'Posts in collection :coll' # :coll is replaced by the collection name
-#    permalink: '/collection/:coll'
-#    silent: false
-#    slugify:
-#      mode: 'default'   # :coll is slugified.
-#      case: false
-
   # Tag pages, omit to disable
   tags:
     layouts:

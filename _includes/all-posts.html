@@ -1,10 +1,21 @@
 {% if paginator %}
-<section class="section all-posts">
+    {% assign posts = paginator.posts %}
+{% else %}
+    {% assign posts = include.posts %}
+{% endif %}
+
+{% assign limit=none %}
+{% if include.limit %}
+    {% assign limit=include.limit %}
+{% endif %}
+
+{% if posts %}
+<section class="section {{ include.class | default 'all-posts' }}">
     <div class="container small">
         <div class="section_content">
             <h2 class="section_title">{{ include.title | default: 'All Posts' }}</h2>
             <div class="article-list small">
-                {% for post in paginator.posts %}
+                {% for post in posts limit:limit%}
                 <article class="article">
                     <a href="{{ post.url }}" class="article_img-link">
                         <img

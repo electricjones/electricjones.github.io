@@ -1,5 +1,8 @@
 ---
 layout: post
+pagination:
+    enabled: true
+    collection: quantum
 title:  "Welcome to Jekyll"
 date:   2022-04-23 16:54:01 -0400
 blurb: >- 
