@@ -1,0 +1,40 @@
+---
+rust:
+  color: blue
+  description: Musings on a fantastic systems programming language
+programming-languages:
+  color: yellow
+  description: Design and reviews of programing language concepts, not relating to
+    any specific language
+conservation:
+  color: green
+  description: Topics related to ecological conservation, both using computing as
+    a tool and not
+ibm-certification:
+  color: red
+  description: My journey to the IBM Quantum Computing Certification
+kaylee-vm:
+  color: purple
+  description: An educational/research virtual machine, assembly language, programming
+    language, and compiler
+  sticky: some-id
+  logo: ''
+  links:
+    - text: Github Repository
+      url: https://github.com/electricjones/kaylee
+ecology:
+  title: Computational Ecology
+  description: Using computational ecology for cool things.
+  logo: "/assets/images/compassgear_eco.svg"
+  links:
+    - text: Github Repository
+      url: https://github.com/electricjones/kaylee
+    - text: ABC and DEF
+      url: "#"
+quantum:
+  title: Quantum Computing
+  description: Using quantum stuff for cool things.
+  logo: "/assets/images/compassgear_quantum.svg"
+  sticky:
+    - _posts/2022-05-12-kaylee-vm.md
+    - _posts/2022-05-28-certification-path.md
