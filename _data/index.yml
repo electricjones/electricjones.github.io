@@ -1,34 +1,47 @@
 # Categories
 ecology:
   title: Computational Ecology
-  description: Using computational ecology for cool things.
+  description: Harnessing computing power for ecology research, conservation, and other environmental initiatives.
   logo: "/assets/images/compassgear_eco.svg"
-  links:
-    - text: Github Repository
-      url: https://github.com/electricjones/kaylee
-    - text: ABC and DEF
-      url: "#"
 quantum:
   title: Quantum Computing
-  description: Using quantum stuff for cool things.
+  description: All things Quantum Information Science, but especially developer tools, languages, and learning.
   logo: "/assets/images/compassgear_quantum.svg"
-  sticky:
-    - _posts/2022-05-12-kaylee-vm.md
-    - _posts/2022-05-28-certification-path.md
+#  sticky:
+#    - _posts/2022-05-12-kaylee-vm.md
+#    - _posts/2022-05-28-certification-path.md
 etcetera:
   title: Etcetera
-  description: All the other stuff
+  description: A mixed bag of programming languages, embedded computing, and lots of gaming tech.
   logo: "/assets/images/compassgear_etcetera.svg"
 
 # Project Pages
+awesome-quantum-computing:
+  color: purple
+  title: Awesome Quantum Computing
+  description: A Github "Awesome" list for Quantum Computing, plus a learning path and "kitchen sink" of resources.
+  links:
+    - text: Github Repository
+      url: https://github.com/electricjones/awesome-quantum-computing
 kaylee-vm:
   color: purple
-  title: Kaylee, a Toy Virtual Machine
+  title: The Kaylee Virtual Machine
   description: An educational/research virtual machine, assembly language, programming
-    language, and compiler
+    language, and compiler.
   links:
     - text: Github Repository
       url: https://github.com/electricjones/kaylee
+mistletoe-php:
+  color: purple
+  title: Mistletoe
+  description: A powerful PHP tool for scheduling and running cron jobs.
+  links:
+    - text: Github Repository
+      url: https://github.com/electricjones/mistletoe
+scininja:
+  color: purple
+  title: SciNinja
+  description: An open source citizen-science platform (coming soon).
 
 # Tags
 rust:

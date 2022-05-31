@@ -1,7 +1,7 @@
 ---
 layout: projects
 title: "My Projects"
-category: ecology
+category: etcetera
 body-class: category-index
 ---
-This is a test
+These are various open source projects, community initiatives, and scientific research projects I am involved in.
