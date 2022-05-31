@@ -72,6 +72,4 @@ autopages:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-gems:
   - jekyll-paginate-v2
