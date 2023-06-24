@@ -1,13 +1,3 @@
-ecology
-etcetera
-
-
-
-
-
-
-
-
 ## Todos
 - Category Index Page layout
 - Post Listing include
@@ -23,9 +13,6 @@ etcetera
 
 ## Projects
 - Kaylee
-- Quantum Certification
-- Mistletoe
-- Games Lists
 - :Critter
 - :Rainforest
 - :Rust Quantum

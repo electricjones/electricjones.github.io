@@ -1,18 +1,18 @@
 # Categories
 ecology:
-  title: Computational Ecology
-  description: Harnessing computing power for ecology research, conservation, and other environmental initiatives.
+  title: Citizen Conservation 
+  description: Research and projects regarding ecology research, conservation, and other environmental initiatives.
   logo: "/assets/images/compassgear_eco.svg"
-quantum:
-  title: Quantum Computing
-  description: All things Quantum Information Science, but especially developer tools, languages, and learning.
+games:
+  title: Game Sciences 
+  description: Independent research and projects for Video and Board Games, especially Games for Good.
   logo: "/assets/images/compassgear_quantum.svg"
 #  sticky:
 #    - _posts/2022-05-12-kaylee-vm.md
 #    - _posts/2022-05-28-certification-path.md
 etcetera:
   title: Etcetera
-  description: A mixed bag of programming languages, embedded computing, and lots of gaming tech.
+  description: A mixed bag of programming languages, embedded computing, and whatever else strikes my fancy.
   logo: "/assets/images/compassgear_etcetera.svg"
 
 # Project Pages

@@ -10,7 +10,7 @@ github_username:  electricjones
 # Variables
 social:
   github: https://github.com/electricjones
-  linkedin: https://www.linkedin.com/in/mwilson84/
+  # linkedin: https://www.linkedin.com/in/mwilson84/
 
 # Configuration
 permalink: pretty

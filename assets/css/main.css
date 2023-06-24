@@ -6,7 +6,7 @@
   --textLight: white;
   --grey: #f8f8f8;
   --ecology: #007b45;
-  --quantum: #ff8701;
+  --games: #ff8701;
   --etcetera: #8400ff;
   --accent-clr: var(--ecology);
   --dark-hover: rgb(59, 59, 59);
@@ -518,7 +518,7 @@ a:hover {
 
 .header .mega-menu .categories-wrap .category.quantum:hover {
   color: var(--textLight);
-  background: var(--quantum);
+  background: var(--games);
   opacity: 1;
 }
 
@@ -1298,7 +1298,7 @@ input[type="submit"] {
 
 .hero_content_nav-link.quantum.is-active {
   color: var(--textLight);
-  background: var(--quantum);
+  background: var(--games);
 }
 
 .hero_content_nav-link.quantum.is-active:before {
@@ -1384,7 +1384,7 @@ input[type="submit"] {
 }
 
 .hero_category.quantum .hero_category_color {
-  background: var(--quantum);
+  background: var(--games);
 }
 
 .hero_category.etcetera .hero_category_color {
@@ -2096,7 +2096,7 @@ input[type="submit"] {
 }
 
 .article_tag.quantum {
-  color: var(--quantum);
+  color: var(--games);
 }
 
 .article_tag.etcetera {
@@ -2163,7 +2163,7 @@ body.ecology {
 } */
 
 body.quantum {
-  --accent-clr: var(--quantum);
+  --accent-clr: var(--games);
   --accent-img: url("/assets/images/quantum-computer.jpg");
 }
 
