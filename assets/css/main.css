@@ -516,13 +516,13 @@ a:hover {
           filter: grayscale(100) brightness(1000);
 }
 
-.header .mega-menu .categories-wrap .category.quantum:hover {
+.header .mega-menu .categories-wrap .category.games:hover {
   color: var(--textLight);
   background: var(--games);
   opacity: 1;
 }
 
-.header .mega-menu .categories-wrap .category.quantum:hover:before {
+.header .mega-menu .categories-wrap .category.games:hover:before {
   -webkit-filter: grayscale(100) brightness(1000);
           filter: grayscale(100) brightness(1000);
 }
@@ -1296,12 +1296,12 @@ input[type="submit"] {
           filter: grayscale(100) brightness(1000);
 }
 
-.hero_content_nav-link.quantum.is-active {
+.hero_content_nav-link.games.is-active {
   color: var(--textLight);
   background: var(--games);
 }
 
-.hero_content_nav-link.quantum.is-active:before {
+.hero_content_nav-link.games.is-active:before {
   -webkit-filter: grayscale(100) brightness(1000);
           filter: grayscale(100) brightness(1000);
 }
@@ -1383,7 +1383,7 @@ input[type="submit"] {
   background: var(--ecology);
 }
 
-.hero_category.quantum .hero_category_color {
+.hero_category.games .hero_category_color {
   background: var(--games);
 }
 
@@ -2095,7 +2095,7 @@ input[type="submit"] {
   color: var(--ecology);
 }
 
-.article_tag.quantum {
+.article_tag.games{
   color: var(--games);
 }
 
@@ -2125,7 +2125,7 @@ input[type="submit"] {
   background: url(/assets/images/compassgear_eco.svg) no-repeat center;
 }
 
-.article_tag.category.quantum::before {
+.article_tag.category.games::before {
   background: url(/assets/images/compassgear_quantum.svg) no-repeat center;
 }
 
@@ -2134,11 +2134,11 @@ input[type="submit"] {
 }
 
 .article_tag.category.ecology::after {
-  content: "Computational Ecology";
+  content: "Citizen Conservation";
 }
 
-.article_tag.category.quantum::after {
-  content: "Quantum Computing";
+.article_tag.category.games::after {
+  content: "Game Science";
 }
 
 .article_tag.category.etcetera::after {
@@ -2162,7 +2162,7 @@ body.ecology {
   content: "Computational Ecology";
 } */
 
-body.quantum {
+body.games {
   --accent-clr: var(--games);
   --accent-img: url("/assets/images/quantum-computer.jpg");
 }
