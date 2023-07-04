@@ -10,12 +10,12 @@ pagination:
 ---
 I am a computer scientist, scholar, storyteller, and
 conservationist. I first started programming in fourth grade
-(thank you Meadowbrook Elementary for have a one-computer lab). I
+(thank you Meadowbrook Elementary for a one-computer lab). I
 haven’t looked back. I am fascinated by how things work, how we
 can make them work better, and how we can use them to make the
 world better. <br /><br />
 
-I trive on creative collaboration with smart, passionate people
+I thrive on creative collaboration with smart, passionate people
 tackling complex, impactful problems. This means uniting teams of
 people from different disciplines: engineers, artists,
 storytellers, organizers, and more.

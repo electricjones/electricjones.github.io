@@ -12,7 +12,7 @@ hero:
     url: /assets/images/pexels-kevin-ku-577585.jpg
     tag: "This is my Hero Image"
 category: ecology
-tags: rust programming-languages conservation ibm-certification else
+tags: rust programming-languages conservation ibm-certification 
 author: Michael Wilson
 next_url: "hello"
 previous_url: "goodbye"
