@@ -1,8 +1,11 @@
 ---
-layout: projects
-title: "My Projects"
+layout: ecology
+title: "HRA Volunteers"
 category: etcetera
 body-class: category-index
+hero:
+  url: /assets/images/pexels-kevin-ku-577585.jpg
+
 ---
 The [Humane Rescue Alliance](http://humanerescuealliance.org) is the animal shelter for Washington, D.C.
 I spend a lot of my time volunteering there, and have a great group of people who cares a lot about the animals in our care and our community.
@@ -17,7 +20,6 @@ To make changes to this page, do one of the following:
 - Open a Pull Request on [github.com](https://github.com/electricjones/electricjones.github.io)
 - Email volunteer <at> humanerescuealliance.org
 - Email mwilson <at> electricjones.me
-<br /><br />
 
 By all of us working hard to follow these policies we can **keep our commnity safe**, **care for all the animals at the shelter**, and **end this incident much faster**!
 <br /><br />
@@ -49,13 +51,11 @@ Anytime it is over 85 degrees, you can wear a regular PPE gown instead of Tyvek 
 - Dogs at NYA are all levels 2, 3, or 4.
 - There are no puppies or other animals at NYA.
 - Volunteers can work with any dog you are qualified for at NYA
-<br /><br />
 
 ### Oglethorpe
-- The **front lobby** is a <span style="color: green">CLEAN ZONE</a>. If you are walking dogs, do not enter for any reason.
-- The **main dog room** is an <span style="color: maroon">EXPOSED ZONE</a>. Volunteers can work here. Follow biosecurity protocols.
-- The **small dog room** is an EXPOSED ZONE. Volunteers can work here. Follow biosecurity protocols.
-- The **dog holding** and **vestibule** near small dog room are EXPOSED ZONES. Volunteers can work here. Follow biosecurity protocols.
-- The **Dog Overflow** down the hilly by City Wildlife is an EXPOSED ZONE. Volunteers can work here. Follow biosecurity protocols.
-- The **Large Training Room** is a CLEAN ZONE. Volunteers can NOT work here.
-<br /><br />
+- The **front lobby** is a <span style="color: green">CLEAN ZONE</span>. If you are walking dogs, do not enter for any reason.
+- The **main dog room** is an <span style="color: maroon">EXPOSED ZONE</span>. Volunteers can work here.
+- The **small dog room** is an <span style="color: maroon">EXPOSED ZONE</span>. Volunteers can work here.
+- The **dog holding** and **vestibule** near small dog room are <span style="color: maroon">EXPOSED ZONES</span>. Volunteers can work here.
+- The **Dog Overflow** down the hilly by City Wildlife is an <span style="color: maroon">EXPOSED ZONE</span>. Volunteers can work here.
+- The **Large Training Room** is a <span style="color: green">CLEAN ZONE</span>. Volunteers can **NOT** work here.
