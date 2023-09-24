@@ -3,6 +3,8 @@ layout: projects
 title: "HRA Volunteers"
 category: ecology
 body-class: category-index
+hero:
+  url: /assets/images/pexels-kevin-ku-577585.jpg
 ---
 The [Humane Rescue Alliance](http://humanerescuealliance.org) is the animal shelter for Washington, D.C.
 I spend a lot of my time volunteering there, and have a great group of people who cares a lot about the animals in our care and our community.
@@ -50,12 +52,13 @@ Anytime it is over 85 degrees, you can wear a regular PPE gown instead of Tyvek 
 - Volunteers can work with any dog you are qualified for at NYA
 
 ### Oglethorpe
-- The **front lobby** is a <span style="color: green">CLEAN ZONE</span>. If you are walking dogs, do not enter for any reason.
+- The **front lobby** is a <span style="color: green">CLEAN ZONE</span>. If walking dogs, do not enter.
 - The **main dog room** is an <span style="color: maroon">EXPOSED ZONE</span>. Volunteers can work here.
 - The **small dog room** is an <span style="color: maroon">EXPOSED ZONE</span>. Volunteers can work here.
 - The **dog holding** and **vestibule** near small dog room are <span style="color: maroon">EXPOSED ZONES</span>. Volunteers can work here.
 - The **Dog Overflow** down the hilly by City Wildlife is an <span style="color: maroon">EXPOSED ZONE</span>. Volunteers can work here.
 - The **Large Training Room** is a <span style="color: green">CLEAN ZONE</span>. Volunteers can **NOT** work here.
+- The **Small Training Room** and **BRC Park** are <span style="color: green.">CLEAN ZONES</span>. Volunteers can **NOT** work here.
 
 ## Adoptions
 Adoptions happen at BOTH New York Avenue and Oglethorpe.
