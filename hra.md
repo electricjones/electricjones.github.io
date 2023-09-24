@@ -5,7 +5,6 @@ category: etcetera
 body-class: category-index
 hero:
   url: /assets/images/pexels-kevin-ku-577585.jpg
-
 ---
 The [Humane Rescue Alliance](http://humanerescuealliance.org) is the animal shelter for Washington, D.C.
 I spend a lot of my time volunteering there, and have a great group of people who cares a lot about the animals in our care and our community.
@@ -59,3 +58,32 @@ Anytime it is over 85 degrees, you can wear a regular PPE gown instead of Tyvek 
 - The **dog holding** and **vestibule** near small dog room are <span style="color: maroon">EXPOSED ZONES</span>. Volunteers can work here.
 - The **Dog Overflow** down the hilly by City Wildlife is an <span style="color: maroon">EXPOSED ZONE</span>. Volunteers can work here.
 - The **Large Training Room** is a <span style="color: green">CLEAN ZONE</span>. Volunteers can **NOT** work here.
+
+## Adoptions
+Adoptions happen at BOTH New York Avenue and Oglethorpe.
+<br /><br />
+
+New York Avenue is only dogs. Patrons look through the binder in the lobby, pick a dog to meet, and then wait to be escorted to the yard to meet the dog.
+<br /><br />
+
+Oglethorpe has adoptions for all animals.
+<br /><br />
+
+Cats follow normal procedures. They register and then walk around the cat room before deciding who to meet.
+<br /><br />
+
+Small Animals and Turtles follow normal procedures. They are assigned a representitive to walk with them to meet the animals.
+<br /><br />
+
+Dogs are back to walk-throughs. The patron must wear shoe covers and can browse Main Dog Room. When they find someone they want to meet,
+they return to the lobby to get a represetitive. Then, everyone wheres full PPE to meet the dog in the play yard.
+<br /><br />
+
+A few reminders:
+<br /><br />
+- Adoptions are all SAME DAY
+- Fees are waived at various times. Ask adoption staff.
+- Any Level 2, 3, or 4 level dog MUST be quarentined for 21-28 days after being adopted.
+- We ARE doing test drive again (yay).
+- Dogs currently on flu treatement will be sent home with medicine.
+- If someone wants to meet multiple species they must do it in order: Small Animals, Cats, Dogs.
