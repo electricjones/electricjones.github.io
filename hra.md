@@ -1,7 +1,7 @@
 ---
-layout: ecology
+layout: projects
 title: "HRA Volunteers"
-category: etcetera
+category: ecology
 body-class: category-index
 ---
 The [Humane Rescue Alliance](http://humanerescuealliance.org) is the animal shelter for Washington, D.C.
@@ -79,7 +79,8 @@ they return to the lobby to get a represetitive. Then, everyone wheres full PPE 
 
 A few reminders:
 <br /><br />
-- Adoptions are all SAME DAY
+- Adoptions are all SAME DAY.
+- There is a binder at the greeter desk with all the other available OGL dogs.
 - Fees are waived at various times. Ask adoption staff.
 - Any Level 2, 3, or 4 level dog MUST be quarentined for 21-28 days after being adopted.
 - We ARE doing test drive again (yay).
