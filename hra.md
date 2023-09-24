@@ -3,8 +3,6 @@ layout: ecology
 title: "HRA Volunteers"
 category: etcetera
 body-class: category-index
-hero:
-  url: /assets/images/pexels-kevin-ku-577585.jpg
 ---
 The [Humane Rescue Alliance](http://humanerescuealliance.org) is the animal shelter for Washington, D.C.
 I spend a lot of my time volunteering there, and have a great group of people who cares a lot about the animals in our care and our community.
