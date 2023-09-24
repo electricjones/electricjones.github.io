@@ -13,7 +13,8 @@ This page is a guide for the volunteers at HRA. It is meant to be an always-up-t
 <br /><br />
 
 To make changes to this page, do one of the following:
-- [Open a Pull Request](https://github.com/electricjones/electricjones.github.io) on github.com
+<br /><br />
+- Open a Pull Request on [github.com](https://github.com/electricjones/electricjones.github.io)
 - Email volunteer <at> humanerescuealliance.org
 - Email mwilson <at> electricjones.me
 <br /><br />
@@ -36,10 +37,25 @@ You must wear PPE in between each animal. The PPE you must wear is on their bios
 <br /><br />
 
 Anytime it is over 85 degrees, you can wear a regular PPE gown instead of Tyvek suit, if you want.
+<br /><br />
 
 - **Level 1**: Our naive population. Animals who have not been exposed.
 - **Level 2**: Dogs we know have been exposed, but are not currently showing symptoms.
 - **Level 3**: Dogs who are recovoring or have recovered from the flu.
 - **Level 4**: Dogs who are currently undergoing treatment for the flu.
 
+## Dog Housing Locations
+### New York Avenue
+- Dogs at NYA are all levels 2, 3, or 4.
+- There are no puppies or other animals at NYA.
+- Volunteers can work with any dog you are qualified for at NYA
+<br /><br />
 
+### Oglethorpe
+- The **front lobby** is a <span style="color: green">CLEAN ZONE</a>. If you are walking dogs, do not enter for any reason.
+- The **main dog room** is an <span style="color: maroon">EXPOSED ZONE</a>. Volunteers can work here. Follow biosecurity protocols.
+- The **small dog room** is an EXPOSED ZONE. Volunteers can work here. Follow biosecurity protocols.
+- The **dog holding** and **vestibule** near small dog room are EXPOSED ZONES. Volunteers can work here. Follow biosecurity protocols.
+- The **Dog Overflow** down the hilly by City Wildlife is an EXPOSED ZONE. Volunteers can work here. Follow biosecurity protocols.
+- The **Large Training Room** is a CLEAN ZONE. Volunteers can NOT work here.
+<br /><br />
