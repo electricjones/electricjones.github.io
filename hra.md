@@ -50,13 +50,13 @@ Anytime it is over 85 degrees, you can wear a regular PPE gown instead of Tyvek 
 - Volunteers can work with any dog you are qualified for at NYA
 
 ### Oglethorpe
-- The **front lobby** is a <span style="color: green">CLEAN ZONE</span>. If walking dogs, do not enter.
-- The **main dog room** is an <span style="color: maroon">EXPOSED ZONE</span>. Volunteers can work here.
-- The **small dog room** is an <span style="color: maroon">EXPOSED ZONE</span>. Volunteers can work here.
-- The **dog holding** and **vestibule** near small dog room are <span style="color: maroon">EXPOSED ZONES</span>. Volunteers can work here.
+- The **Front Lobby** is a <span style="color: green">CLEAN ZONE</span>. If walking dogs, do not enter.
+- The **Main Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>. Volunteers can work here.
+- The **Small Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>. Volunteers can work here.
+- The **Dog Holding** and **vestibule** near small dog room are <span style="color: maroon">EXPOSED ZONES</span>. Volunteers can work here.
 - The **Dog Overflow** down the hilly by City Wildlife is an <span style="color: maroon">EXPOSED ZONE</span>. Volunteers can work here.
-- The **Large Training Room** is a <span style="color: green">CLEAN ZONE</span>. Volunteers can **NOT** work here.
-- The **Small Training Room** and **BRC Park** are <span style="color: green.">CLEAN ZONES</span>. Volunteers can **NOT** work here.
+- The **Large Training Room** is a <span style="color: green">CLEAN ZONE</span>. Volunteers CAN work here BEFORE working with exposed dogs.
+- The **Small Training Room** and **BRC Park** are <span style="color: green.">CLEAN ZONES</span>. Volunteers CAN work here BEFORE working with exposed dogs.
 
 ## Adoptions
 Adoptions happen at BOTH New York Avenue and Oglethorpe.
@@ -85,5 +85,5 @@ A few reminders:
 - Fees are waived at various times. Ask adoption staff.
 - Any Level 2, 3, or 4 level dog MUST be quarentined for 21-28 days after being adopted.
 - We ARE doing test drive again (yay).
-- Dogs currently on flu treatement will be sent home with medicine.
+- Dogs currently on flu treatement (or any other medicine) will be sent home with medicine.
 - If someone wants to meet multiple species they must do it in order: Small Animals, Cats, Dogs.
