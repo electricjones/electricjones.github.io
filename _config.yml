@@ -1,9 +1,9 @@
 # Standard
 title: Electric Jones
-email: hey@electricjones.me
+email: mwilson@electricjones.me
 description: >- # this means to ignore newlines until "baseurl:"
+  A research blog about conservation, games, and related awesomeness.
   I thrive on creative collaboration with smart, passionate people solving complex problems using computer science. 
-  I also view life like an old school action rpg, and this site is the map I leave for others to join me on my journey.
 url: "https://electricjones.me" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  electricjones
 

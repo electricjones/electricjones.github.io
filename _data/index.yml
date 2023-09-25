@@ -16,13 +16,24 @@ etcetera:
   logo: "/assets/images/compassgear_etcetera.svg"
 
 # Project Pages
-awesome-quantum-computing:
+awesome-game-studies:
   color: purple
-  title: Awesome Quantum Computing
-  description: A Github "Awesome" list for Quantum Computing, plus a learning path and "kitchen sink" of resources.
+  title: Awesome Game Studies
+  description: A curated list of game studies resources.
   links:
     - text: Github Repository
-      url: https://github.com/electricjones/awesome-quantum-computing
+      url: https://github.com/electricjones/awesome-game-studies
+games-do-good:
+  color: purple
+  title: Games Do Good List
+  description: A curated list of resources that show the positive impact of games.
+  links:
+    - text: Github Repository
+      url: https://github.com/electricjones/games-do-good-list
+scininja:
+  color: purple
+  title: SciNinja
+  description: An open source citizen-science platform (coming soon).
 kaylee-vm:
   color: purple
   title: The Kaylee Virtual Machine
@@ -31,17 +42,6 @@ kaylee-vm:
   links:
     - text: Github Repository
       url: https://github.com/electricjones/kaylee
-mistletoe-php:
-  color: purple
-  title: Mistletoe
-  description: A powerful PHP tool for scheduling and running cron jobs.
-  links:
-    - text: Github Repository
-      url: https://github.com/electricjones/mistletoe
-scininja:
-  color: purple
-  title: SciNinja
-  description: An open source citizen-science platform (coming soon).
 
 # Tags
 rust:
@@ -51,37 +51,22 @@ programming-languages:
   color: yellow
   description: Design and reviews of programing language concepts, not relating to
     any specific language
-# vm:
-#   color: red
-#   description: Virtual Machines, Emulation, and Interpreters
+vm:
+  color: red
+  description: Virtual Machines, Emulation, and Interpreters
 citizen-science:
   color: green
   description: Projects and posts about citizen science and the tools to make it work
-# go-lang:
-#   color: blue
-#   description: Musings on a great programming language build for speed and concurrency
 resources:
   color: yellow
-  description: Resources for learning and building various tech projects
-# php:
-#   color: blue
-#   description: An underrated language that powers a huge swath of the internet. Let's make it better!
+  description: Resources for learning and building various tech projects.
 intro-posts:
   color: purple
   description: Introductions to topics I frequently cover. Think of these as maps to my blog.
 series:
   color: purple
   description: First posts in series.
-math:
-  color: red
-  description: Posts involving Math, usually Linear Algebra and Discrete Math
-# qiskit:
-#   color: red
-#   description: Posts and learning materials about IBM's Quantum Computing Toolkit
 conservation:
   color: green
   description: Topics related to ecological conservation, both using computing as
     a tool and not
-# ibm-certification:
-#   color: red
-#   description: My journey to the IBM Quantum Computing Certification
