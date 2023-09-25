@@ -15,42 +15,13 @@ etcetera:
   description: A mixed bag of programming languages, embedded computing, and whatever else strikes my fancy.
   logo: "/assets/images/compassgear_etcetera.svg"
 
-# Project Pages
-awesome-game-studies:
-  color: purple
-  title: Awesome Game Studies
-  description: A curated list of game studies resources.
-  links:
-    - text: Github Repository
-      url: https://github.com/electricjones/awesome-game-studies
-games-do-good:
-  color: purple
-  title: Games Do Good List
-  description: A curated list of resources that show the positive impact of games.
-  links:
-    - text: Github Repository
-      url: https://github.com/electricjones/games-do-good-list
-scininja:
-  color: purple
-  title: SciNinja
-  description: An open source citizen-science platform (coming soon).
-kaylee-vm:
-  color: purple
-  title: The Kaylee Virtual Machine
-  description: An educational/research virtual machine, assembly language, programming
-    language, and compiler.
-  links:
-    - text: Github Repository
-      url: https://github.com/electricjones/kaylee
-
 # Tags
 rust:
   color: blue
   description: Musings on a fantastic systems programming language
 programming-languages:
   color: yellow
-  description: Design and reviews of programing language concepts, not relating to
-    any specific language
+  description: Design and reviews of programing language concepts, not relating to any specific language
 vm:
   color: red
   description: Virtual Machines, Emulation, and Interpreters
@@ -68,5 +39,4 @@ series:
   description: First posts in series.
 conservation:
   color: green
-  description: Topics related to ecological conservation, both using computing as
-    a tool and not
+  description: Topics related to ecological conservation, both using computing as a tool and not

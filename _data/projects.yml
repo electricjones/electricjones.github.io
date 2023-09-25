@@ -2,7 +2,7 @@
   blurb: A Github "Awesome" list for game studies resources.
   hero:
     url: /assets/images/quantum-computer.jpg
-  url: /tag/awesome-game-studies
+  url: https://github.com/electricjones/awesome-game-studies 
   category: games
   tags:
     - resources
@@ -11,7 +11,7 @@
   blurb: A curated list of resources that show the positive impact of games.
   hero:
     url: /assets/images/colors.jpg
-  url: /tag/games-do-good
+  url: https://github.com/electricjones/games-do-good-list
   category: games
   tags:
     - resources
@@ -28,8 +28,10 @@
   blurb: An educational/research virtual machine, assembly language, programming language, and compiler.
   hero:
    url: /assets/images/pexels-kevin-ku-577585.jpg
-  url: /tag/kaylee-vm
+  url: https://github.com/electricjones/kaylee
   category: etcetera
   tags:
-   - programming-languages, rust, vm
+   - programming-languages
+   - rust
+   - vm
 
