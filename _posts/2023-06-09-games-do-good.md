@@ -5,7 +5,7 @@ blurb: A curated list of resources that show the positive impact of games.
 hero:
   url: /assets/images/colors.jpg
 category: games
-tags: intro-posts game-studies resources projects
+tags: game-studies resources projects
 author: Michael Wilson
 ---
 I am announcing the [Games Do Good List](https://github.com/electricjones/games-do-good-list), an open-source list of research documenting the positive impact of games.

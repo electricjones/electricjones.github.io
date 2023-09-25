@@ -1,7 +1,7 @@
 - title: Awesome Game Studies
   blurb: A Github "Awesome" list for game studies resources.
   hero:
-    url: /assets/images/quantum-computer.jpg
+    url: /assets/images/game-pieces.jpg
   url: https://github.com/electricjones/awesome-game-studies 
   category: games
   tags:
@@ -19,8 +19,8 @@
 - title:  SciNinja
   blurb: An open source citizen-science platform (coming soon).
   hero:
-   url: /assets/images/pexels-richard-segal-1618606.jpg
-  url: /tag/scininja
+   url: /assets/images/turtle.jpg
+  url: https://electricjones.me/ecology/2022/05/22/scininja/
   category: ecology
   tags:
    - citizen-science 

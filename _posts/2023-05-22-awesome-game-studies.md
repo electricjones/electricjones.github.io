@@ -5,7 +5,7 @@ blurb: A community-driven awesome list of resources for gaming scholarship, art,
 hero:
   url: /assets/images/game-pieces.jpg
 category: games
-tags: intro-posts game-studies resources projects
+tags: game-studies resources projects
 author: Michael Wilson
 ---
 I am thrilled to announce my latest project: [Awesome Game Studies](https://github.com/electricjones/awesome-game-studies).
