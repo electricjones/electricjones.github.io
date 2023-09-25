@@ -16,8 +16,8 @@ This page is a guide for the volunteers at HRA. It is meant to be an always-up-t
 To make changes to this page, do one of the following:
 <br /><br />
 - Open a Pull Request on [github.com](https://github.com/electricjones/electricjones.github.io)
-- Email volunteer <at> humanerescuealliance.org
-- Email mwilson <at> electricjones.me
+- Email volunteer [at] humanerescuealliance.org
+- Email mwilson [at] electricjones.me
 
 By all of us working hard to follow these policies we can **keep our commnity safe**, **care for all the animals at the shelter**, and **end this incident much faster**!
 <br /><br />
@@ -55,9 +55,8 @@ Anytime it is over 85 degrees, you can wear a regular PPE gown instead of Tyvek 
 - The **Main Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>. Volunteers can work here.
 - The **Small Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>. Volunteers can work here.
 - The **Dog Holding** and **vestibule** near small dog room are <span style="color: maroon">EXPOSED ZONES</span>. Volunteers can work here.
-- The **Dog Overflow** down the hilly by City Wildlife is an <span style="color: maroon">EXPOSED ZONE</span>. Volunteers can work here.
-- The **Large Training Room** is a <span style="color: green">CLEAN ZONE</span>. Volunteers CAN work here BEFORE working with exposed dogs.
-- The **Small Training Room** and **BRC Park** are <span style="color: green.">CLEAN ZONES</span>. Volunteers CAN work here BEFORE working with exposed dogs.
+- The **Dog Overflow** down the hill by City Wildlife is an <span style="color: maroon">EXPOSED ZONE</span>. Volunteers can work here.
+- The **Large Training Room**, **Small Training Room**, and **BRC Park** are <span style="color: green;">CLEAN ZONES</span>. Volunteers CAN work here BEFORE working with exposed dogs.
 
 ## Adoptions
 Adoptions happen at BOTH New York Avenue and Oglethorpe.
