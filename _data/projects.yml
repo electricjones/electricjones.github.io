@@ -1,34 +1,35 @@
-- title: Awesome Quantum Computing
-  blurb: A Github "Awesome" list for Quantum Computing, plus a learning path and "kitchen sink" of resources.
+- title: Awesome Game Studies
+  blurb: A Github "Awesome" list for game studies resources.
   hero:
-    url: /assets/images/pexels-kevin-ku-577585.jpg
-  url: /tag/awesome-quantum-computing
-  category: quantum
+    url: /assets/images/quantum-computer.jpg
+  url: /tag/awesome-game-studies
+  category: games
   tags:
     - resources
-    - awesome-quantum-computing
-#- title:  The Kaylee Virtual Machine
-#  blurb: An educational/research virtual machine, assembly language, programming
-#    language, and compiler.
-#  hero:
-#    url: /assets/images/pexels-kevin-ku-577585.jpg
-#  url: /tag/kaylee-vm
-#  category: etcetera
-#  tags:
-#    - programming-languages, rust, vm
-#- title:  Mistletoe
-#  blurb: A powerful PHP tool for scheduling and running cron jobs.
-#  hero:
-#    url: /assets/images/pexels-kevin-ku-577585.jpg
-#  url: /tag/mistletoe-php
-#  category: etcetera
-#  tags:
-#    - php
-#- title:  SciNinja
-#  blurb: An open source citizen-science platform (coming soon).
-#  hero:
-#    url: /assets/images/pexels-kevin-ku-577585.jpg
-#  url: /tag/scininja
-#  category: etcetera
-#  tags:
-#    - citizen-science, go-lang
+    - awesome-game-studies
+- title: Games Do Good
+  blurb: A curated list of resources that show the positive impact of games.
+  hero:
+    url: /assets/images/colors.jpg
+  url: /tag/games-do-good
+  category: games
+  tags:
+    - resources
+    - games-do-good
+- title:  SciNinja
+  blurb: An open source citizen-science platform (coming soon).
+  hero:
+   url: /assets/images/pexels-richard-segal-1618606.jpg
+  url: /tag/scininja
+  category: ecology
+  tags:
+   - citizen-science 
+- title:  The Kaylee Virtual Machine
+  blurb: An educational/research virtual machine, assembly language, programming language, and compiler.
+  hero:
+   url: /assets/images/pexels-kevin-ku-577585.jpg
+  url: /tag/kaylee-vm
+  category: etcetera
+  tags:
+   - programming-languages, rust, vm
+
