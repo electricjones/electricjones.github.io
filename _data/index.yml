@@ -25,6 +25,9 @@ programming-languages:
 vm:
   color: red
   description: Virtual Machines, Emulation, and Interpreters
+constantly-updated:
+  color: red
+  description: Posts that are updated often, not static. 
 citizen-science:
   color: green
   description: Projects and posts about citizen science and the tools to make it work
@@ -37,6 +40,12 @@ intro-posts:
 series:
   color: purple
   description: First posts in series.
+projects:
+  color: yellow
+  description: Posts about projects I lead or am involved in. Things people can get involved in.
 conservation:
   color: green
   description: Topics related to ecological conservation, both using computing as a tool and not
+game-studies:
+  color: blue
+  description: Research related to games outside of computer science and game design.
