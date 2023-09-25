@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: page
 title: "HRA Volunteers"
 category: ecology
 body-class: category-index
@@ -57,6 +57,12 @@ Anytime it is over 85 degrees, you can wear a regular PPE gown instead of Tyvek 
 - The **Dog Holding** and **vestibule** near small dog room are <span style="color: maroon">EXPOSED ZONES</span>. Volunteers can work here.
 - The **Dog Overflow** down the hill by City Wildlife is an <span style="color: maroon">EXPOSED ZONE</span>. Volunteers can work here.
 - The **Large Training Room**, **Small Training Room**, and **BRC Park** are <span style="color: green;">CLEAN ZONES</span>. Volunteers CAN work here BEFORE working with exposed dogs.
+<br />
+
+- Overlow is what used to be called the Warehouse. 
+- The small training room can be entered through the behaviour office off the Large Training Room 
+or through the BRC park.
+- Dog holding is what used to be the small animal room, and is through the door in the Small Dog Room.
 
 ## Adoptions
 Adoptions happen at BOTH New York Avenue and Oglethorpe.
