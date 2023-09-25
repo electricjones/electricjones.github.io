@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Citizen Conservation
-blurb: My consistently updated post about my Citizen Conservation research and activities
+blurb: My consistently updated post about my Citizen Conservation research and activities.
 hero:
-  url: /assets/images/pexels-kevin-ku-577585.jpg
+  url: /assets/images/jellyfish.jpg
 category: ecology
 tags:
   - intro-posts
