@@ -60,11 +60,12 @@ Anytime it is over 85 degrees, you can wear a regular PPE gown instead of Tyvek 
 - The **Small Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>. Volunteers can work here.
 - The **Dog Holding** and **vestibule** near small dog room are <span style="color: maroon">EXPOSED ZONES</span>. Volunteers can work here.
 - The **Dog Overflow** down the hill by City Wildlife is an <span style="color: maroon">EXPOSED ZONE</span>. Volunteers can work here.
+- When walking EXPOSED dogs (Level 2-4) get the radio/key at the back entrance.
 
 #### Training Rooms (Unexposed Dogs)
 - The **Large Training Room**, **Small Training Room**, and **BRC Park** are <span style="color: green">CLEAN ZONE</span>. 
 - Volunteers can work here FIRST.
-- Get your key card in the regular lockbox in the front lobby, which you can enter before you enter an exposed area.
+- Get your **radio** and **key card** from the lobby next to the Medical Center door. Return them when done with Level 1 dogs, then get a radio/key from around back for the rest of the dogs.
 - The Training Rooms are closed for the night earlier than the rest. If the lights are off, just leave everyone be for the night.
 - PPE is not required when working with Level 1 dogs in the Training Rooms, but its reccomended.
 
