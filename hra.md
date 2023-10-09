@@ -45,7 +45,7 @@ Anytime it is over 85 degrees, you can wear a regular PPE gown instead of Tyvek 
 
 - **Level 1**: Our naive population. Animals who have not been exposed.
 - **Level 2**: Dogs we know have been exposed, but are not currently showing symptoms.
-- **Level 3**: Dogs who are recovoring or have recovered from the flu.
+- **Level 3**: Dogs who are recovering or have recovered from the flu.
 - **Level 4**: Dogs who are currently undergoing treatment for the flu.
 
 ## Dog Housing Locations
