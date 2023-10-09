@@ -4,7 +4,7 @@ title: "HRA Volunteers"
 category: ecology
 body-class: category-index
 ---
-Last Updated: **Sept 26, 2023**.
+Last Updated: **October 9, 2023**.
 <br /><br />
 
 The [Humane Rescue Alliance](http://humanerescuealliance.org) is the animal shelter for Washington, D.C.
