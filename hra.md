@@ -4,7 +4,7 @@ title: "HRA Volunteers"
 category: ecology
 body-class: category-index
 ---
-Last Updated: **October 9, 2023**.
+Last Updated: **October 14, 2023**.
 <br /><br />
 
 The [Humane Rescue Alliance](http://humanerescuealliance.org) is the animal shelter for Washington, D.C.
@@ -56,18 +56,12 @@ Anytime it is over 85 degrees, you can wear a regular PPE gown instead of Tyvek 
 
 ### Oglethorpe
 - The **Front Lobby** is a <span style="color: green">CLEAN ZONE</span>. If walking dogs, do not enter.
-- The **Main Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>. Volunteers can work here.
-- The **Small Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>. Volunteers can work here.
-- The **Dog Holding** and **vestibule** near small dog room are <span style="color: maroon">EXPOSED ZONES</span>. Volunteers can work here.
-- The **Dog Overflow** down the hill by City Wildlife is an <span style="color: maroon">EXPOSED ZONE</span>. Volunteers can work here.
-- When walking EXPOSED dogs (Level 2-4) get the radio/key at the back entrance.
-
-#### Training Rooms (Unexposed Dogs)
-- The **Large Training Room**, **Small Training Room**, and **BRC Park** are <span style="color: green">CLEAN ZONE</span>. 
-- Volunteers can work here FIRST.
-- Get your **radio** and **key card** from the lobby next to the Medical Center door. Return them when done with Level 1 dogs, then get a radio/key from around back for the rest of the dogs.
-- The Training Rooms are closed for the night earlier than the rest. If the lights are off, just leave everyone be for the night.
-- PPE is not required when working with Level 1 dogs in the Training Rooms, but its reccomended.
+- The **Main Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>.
+- The **Small Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>.
+- The **Dog Holding** and **vestibule** near small dog room are <span style="color: maroon">EXPOSED ZONES</span>.
+- The **Dog Overflow** is an <span style="color: maroon">EXPOSED ZONE</span>.
+- The **Large Training Room**, **Small Training Room**, and **BRC Park** are <span style="color: green">EXPOSED ZONES</span>. Usually Level 2 dogs are here. 
+- Volunteers can currently work with all dogs, just follow the protocols.
 
 #### Locations
 - Overlow is what used to be called the Warehouse. 
