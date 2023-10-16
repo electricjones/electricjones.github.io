@@ -4,7 +4,7 @@ title: "HRA Volunteers"
 category: ecology
 body-class: category-index
 ---
-Last Updated: **October 14, 2023**.
+Last Updated: **October 16, 2023**.
 <br /><br />
 
 The [Humane Rescue Alliance](http://humanerescuealliance.org) is the animal shelter for Washington, D.C.
@@ -48,6 +48,8 @@ Anytime it is over 85 degrees, you can wear a regular PPE gown instead of Tyvek 
 - **Level 3**: Dogs who are recovering or have recovered from the flu.
 - **Level 4**: Dogs who are currently undergoing treatment for the flu.
 
+**Please only go to OGL or NYA in a single day. Don't go to both**
+
 ## Dog Housing Locations
 ### New York Avenue
 - Dogs at NYA are all levels 2, 3, or 4.
@@ -62,6 +64,7 @@ Anytime it is over 85 degrees, you can wear a regular PPE gown instead of Tyvek 
 - The **Dog Overflow** is an <span style="color: maroon">EXPOSED ZONE</span>.
 - The **Large Training Room**, **Small Training Room**, and **BRC Park** are <span style="color: green">EXPOSED ZONES</span>. Usually Level 2 dogs are here. 
 - Volunteers can currently work with all dogs, just follow the protocols.
+- Assume every dog is at least a Level 2
 
 #### Locations
 - Overlow is what used to be called the Warehouse. 
