@@ -4,7 +4,7 @@ title: "HRA Volunteers"
 category: ecology
 body-class: category-index
 ---
-Last Updated: **October 22, 2023**.
+Last Updated: **October 24, 2023**.
 <br /><br />
 
 The [Humane Rescue Alliance](http://humanerescuealliance.org) is the animal shelter for Washington, D.C.
@@ -57,18 +57,17 @@ You must wear PPE in between each animal. The PPE you must wear is on their bios
 
 ### Oglethorpe
 - All dogs at OGL are Level 2, 3, or 4.
-- OGL has puppies!
 - Volunteers can work in ANY and ALL of the areas where there are dogs. You can work with any dog you are qualified for.
+- The Small Training Room is for *Humane Hold** volunteers only. Do not enter unless an HH volunteer.
 - The front Lobby and Cat Room are clean zones. DO NOT enter once you have been in an EXPOSED zone.
-- Basically everything else at OGL is an EXPOSED zone.
 
 #### Locations
 - The **Main Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>.
 - The **Small Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>.
 - The **Dog Holding** and **vestibule** near small dog room are <span style="color: maroon">EXPOSED ZONES</span>.
 - The **Dog Overflow** (used to be the warehouse) is an <span style="color: maroon">EXPOSED ZONE</span>.
-- The **Large Training Room**, **Small Training Room**, and **BRC Park** are <span style="color: green">EXPOSED ZONES</span>. Usually Level 2 dogs are here. 
-- The Small and Large Training Rooms must be entered through the BRC Park and the Behavior Office.
+- The **Large Training Room** is an <span style="color: maroon">EXPOSED ZONE</span>. 
+- The **Small Training Room** is for Humane Hold Volunteers only. **<span style="color: red">DO NOT ENTER</span>.**
 
 ## Adoptions
 Adoptions happen at BOTH New York Avenue and Oglethorpe.
