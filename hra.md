@@ -4,7 +4,7 @@ title: "HRA Volunteers"
 category: ecology
 body-class: category-index
 ---
-Last Updated: **October 24, 2023**.
+Last Updated: **November 1, 2023**.
 <br /><br />
 
 The [Humane Rescue Alliance](http://humanerescuealliance.org) is the animal shelter for Washington, D.C.
@@ -32,20 +32,20 @@ By all of us working hard to follow these policies we can **keep our commnity sa
 Each animal in the shelter has a biosecurity level that tells us their relation to the flu.
 <br /><br />
 
-Work with animals in number order. Once you work with a 2, you can no longer work with 1.
-After a 4, no 3, 2, or 1. Etc.
-<br /><br />
-
-You can work with Level 3s and 4s together.
-<br /><br />
-
-You must wear PPE in between each animal. The PPE you must wear is on their biosecurity sign.
-<br /><br />
-
 - **Level 1**: Our naive population. Animals who have not been exposed.
 - **Level 2**: Dogs we know have been exposed, but are not currently showing symptoms.
 - **Level 3**: Dogs who are recovering or have recovered from the flu.
 - **Level 4**: Dogs who are currently undergoing treatment for the flu.
+<br /><br />
+
+Work with animals in number order.<br />
+First Level 1<br />
+Next Level 2<br />
+You can work with 3 and 4 together<br />
+<br />
+
+You must wear the PPE listing on their sign and switch between each animal.
+<br /><br />
 
 **Please only go to OGL or NYA in a single day. Don't go to both**
 
@@ -60,14 +60,16 @@ You must wear PPE in between each animal. The PPE you must wear is on their bios
 - Volunteers can work in ANY and ALL of the areas where there are dogs. You can work with any dog you are qualified for.
 - The Small Training Room is for *Humane Hold** volunteers only. Do not enter unless an HH volunteer.
 - The front Lobby and Cat Room are clean zones. DO NOT enter once you have been in an EXPOSED zone.
+- There are **temporarily** dogs on the Bridge. Take them out through managers area, NOT the front lobby.
 
 #### Locations
 - The **Main Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>.
 - The **Small Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>.
 - The **Dog Holding** and **vestibule** near small dog room are <span style="color: maroon">EXPOSED ZONES</span>.
-- The **Dog Overflow** (used to be the warehouse) is an <span style="color: maroon">EXPOSED ZONE</span>.
+- The **Dog Overflow** (used to be the warehouse) is an <span style="color: maroon">EXPOSED ZONE</span>. <i>There is construction there this week</i>
 - The **Large Training Room** is an <span style="color: maroon">EXPOSED ZONE</span>. 
 - The **Small Training Room** is for Humane Hold Volunteers only. **<span style="color: red">DO NOT ENTER</span>.**
+- The **Bridge** is an <span style="color: maroon">EXPOSED ZONE</span>. 
 
 ## Adoptions
 Adoptions happen at BOTH New York Avenue and Oglethorpe.
