@@ -58,14 +58,14 @@ You must wear the PPE listing on their sign and switch between each animal.
 - There are **temporarily** dogs on the Bridge. Take them out through managers area, NOT the front lobby.
 
 #### Locations
-- The **71 - Main Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>.
-- The **71 - Small Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>.
-- The **71 - Holding** and **vestibule** near small dog room are <span style="color: maroon">EXPOSED ZONES</span>.
-- The **71 - Overflow** (used to be the warehouse) is an <span style="color: maroon">EXPOSED ZONE</span>. <i>There is construction there this week</i>
-- The **15 - Intake Holding** is an <span style="color: maroon">EXPOSED ZONE</span>. 
-- The **15 - Small Training Room** is an <span style="color: maroon">EXPOSED ZONE</span>. 
-- The **15 - BRC Park** (by the training rooms) is an <span style="color: maroon">EXPOSED ZONE</span>.
-- The **71 - Bridge** is an <span style="color: maroon">EXPOSED ZONE</span>. 
+- The 71 - **Main Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>.
+- The 71 - **Small Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>.
+- The 71 - **Holding** and **vestibule** near small dog room are <span style="color: maroon">EXPOSED ZONES</span>.
+- The 71 - **Overflow** (formerly warehouse) is an <span style="color: maroon">EXPOSED ZONE</span>. <i>There is construction there this week</i>
+- The 15 - **Intake Holding** (formerly Large Training Room) is a <span style="color: red">CLOSED TO VOLUNTEERS</span>. 
+- The 15 - **Small Training Room** is an <span style="color: maroon">EXPOSED ZONE</span>. Enter through BRC park. 
+- The 15 - **BRC Park** (by the training rooms) is an <span style="color: maroon">EXPOSED ZONE</span>.
+- The 71 - **Bridge** is an <span style="color: maroon">EXPOSED ZONE</span>. 
 
 ## Adoptions
 Adoptions happen at BOTH New York Avenue and Oglethorpe.
