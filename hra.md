@@ -4,7 +4,7 @@ title: "HRA Volunteers"
 category: ecology
 body-class: category-index
 ---
-Last Updated: **November 5, 2023**.
+Last Updated: **November 8, 2023**.
 <br /><br />
 
 The [Humane Rescue Alliance](http://humanerescuealliance.org) is the animal shelter for Washington, D.C.
@@ -17,7 +17,7 @@ Learn more about [cainine influenza](https://www.humanerescuealliance.org/blog/p
 To request a change to this page, 
 <br /><br />
 - Email mwilson [at] electricjones.me
-- Or post on the Humane Rescue Alliance Volunteers website
+- Or post on the Humane Rescue Alliance Volunteers Facebook
 
 By all of us working hard to follow these policies we can **keep our commnity safe**, **care for all the animals at the shelter**, and **end this incident much faster**!
 <b>Thank you all for everything you do!!!!!!</b>
@@ -49,6 +49,7 @@ You must wear the PPE listing on their sign and switch between each animal.
 - Dogs at NYA are all levels 2, 3, or 4.
 - There are no puppies or other animals at NYA.
 - Volunteers can work with any dog you are qualified for at NYA.
+- There are only 18 dogs currently. We are trying to clear it out.
 
 ### Oglethorpe
 - All dogs at OGL are Level 2, 3, or 4.
@@ -57,14 +58,14 @@ You must wear the PPE listing on their sign and switch between each animal.
 - There are **temporarily** dogs on the Bridge. Take them out through managers area, NOT the front lobby.
 
 #### Locations
-- The **Main Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>.
-- The **Small Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>.
-- The **Dog Holding** and **vestibule** near small dog room are <span style="color: maroon">EXPOSED ZONES</span>.
-- The **Dog Overflow** (used to be the warehouse) is an <span style="color: maroon">EXPOSED ZONE</span>. <i>There is construction there this week</i>
-- The **Large Training Room** is an <span style="color: maroon">EXPOSED ZONE</span>. 
-- The **Small Training Room** is an <span style="color: maroon">EXPOSED ZONE</span>. 
-- The **BRC Park** (by the training rooms) is an <span style="color: maroon">EXPOSED ZONE</span>.
-- The **Bridge** is an <span style="color: maroon">EXPOSED ZONE</span>. 
+- The **71 - Main Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>.
+- The **71 - Small Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>.
+- The **71 - Holding** and **vestibule** near small dog room are <span style="color: maroon">EXPOSED ZONES</span>.
+- The **71 - Overflow** (used to be the warehouse) is an <span style="color: maroon">EXPOSED ZONE</span>. <i>There is construction there this week</i>
+- The **15 - Intake Holding** is an <span style="color: maroon">EXPOSED ZONE</span>. 
+- The **15 - Small Training Room** is an <span style="color: maroon">EXPOSED ZONE</span>. 
+- The **15 - BRC Park** (by the training rooms) is an <span style="color: maroon">EXPOSED ZONE</span>.
+- The **71 - Bridge** is an <span style="color: maroon">EXPOSED ZONE</span>. 
 
 ## Adoptions
 Adoptions happen at BOTH New York Avenue and Oglethorpe.
@@ -95,7 +96,7 @@ A few reminders:
 - Adoptions are all SAME DAY.
 - There is a binder at the greeter desk with all the other available OGL dogs.
 - Fees are waived at various times. Ask adoption staff.
-- Any Level 2, 3, or 4 level dog MUST be quarentined for 21-28 days after being adopted.
+- Any Level 2, 3, or 4 level dog MUST be quarentined for 21-28 days from OUTSIDE dogs.
 - We ARE doing test drive again (yay).
 - Dogs currently on flu treatement (or any other medicine) will be sent home with medicine.
 - If someone wants to meet multiple species they must do it in order: Small Animals and Cats, then Dogs.
