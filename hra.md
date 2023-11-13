@@ -4,7 +4,7 @@ title: "HRA Volunteers"
 category: ecology
 body-class: category-index
 ---
-Last Updated: **November 8, 2023**.
+Last Updated: **November 13, 2023**.
 <br /><br />
 
 The [Humane Rescue Alliance](http://humanerescuealliance.org) is the animal shelter for Washington, D.C.
@@ -61,11 +61,14 @@ You must wear the PPE listing on their sign and switch between each animal.
 - The 71 - **Main Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>.
 - The 71 - **Small Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>.
 - The 71 - **Holding** and **vestibule** near small dog room are <span style="color: maroon">EXPOSED ZONES</span>.
-- The 71 - **Overflow** (formerly warehouse) is <span style="color: red">CLOSED TO VOLUNTEERS</span>. 
-- The 15 - **Intake Holding** (formerly Large Training Room) is <span style="color: red">CLOSED TO VOLUNTEERS</span>. 
+- The 71 - **Overflow** (formerly warehouse) is an <span style="color: maroon">EXPOSED ZONE</span>. 
+- The 15 - **Intake Holding** (formerly Large Training Room) is an <span style="color: maroon">EXPOSED ZONE</span>. 
 - The 15 - **Small Training Room** is an <span style="color: maroon">EXPOSED ZONE</span>. Enter through BRC park. 
 - The 15 - **BRC Park** (by the training rooms) is an <span style="color: maroon">EXPOSED ZONE</span>.
 - The 71 - **Bridge** is an <span style="color: maroon">EXPOSED ZONE</span>. 
+<br /><br />
+<b>NOTE</b>: There is a Parvo Exposure in various places <span style="color: red">NEVER</span> walk or interact with Parvo Exposed Dogs!!
+<br /><br />
 
 ## Adoptions
 Adoptions happen at BOTH New York Avenue and Oglethorpe.
