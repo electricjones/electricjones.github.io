@@ -28,7 +28,7 @@ We are making progress! Together we have cleared New York Avenue, which is now a
 - **Level 2**: Dogs we know have been exposed, but are not currently showing symptoms.
 - **Level 3**: Dogs who are recovering or have recovered from the flu.
 - **Level 4**: Dogs who are currently undergoing treatment for the flu.
-<br /><br />
+<br />
 
 Work with animals in number order.<br />
 First Level 1<br />
@@ -37,12 +37,12 @@ You can work with 3 and 4 together<br />
 <br />
 
 You must wear the PPE listing on their sign and switch between each animal.
-<br /><br />
+<br />
 
 ## Two Locations and MOST Imoportant Notes
-New York Avenue is a <span style="color: green">CLEAN ZONE</span>.
+<b>New York Avenue</b> is a <span style="color: green">CLEAN ZONE</span>.
 <br />
-Oglethorpe is an <span style="color: maroon">EXPOSED ZONE</span>.
+<b>Oglethorpe</b> is an <span style="color: maroon">EXPOSED ZONE</span>.
 <br /><br />
 
 IMPORTANT - There will need to be NO movement of people between OGL and NYA on the same day. Period. Only go to one location per day.
@@ -91,7 +91,7 @@ This is a totally <span style="color: maroon">EXPOSED ZONE</span>
 <br /><br />
 
 <b>NOTE</b>: There is a Parvo Exposure in various places <span style="color: red">NEVER</span> walk or interact with Parvo Exposed Dogs!!
-<br /><br />
+<br />
 
 ## Adoptions
 Adoptions happen at BOTH New York Avenue and Oglethorpe.
