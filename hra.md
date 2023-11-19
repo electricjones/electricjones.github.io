@@ -37,7 +37,7 @@ You can work with 3 and 4 together<br />
 <br />
 
 You must wear the PPE listing on their sign and switch between each animal.
-<br />
+<br /><br />
 
 ## Two Locations and MOST Imoportant Notes
 <b>New York Avenue</b> is a <span style="color: green">CLEAN ZONE</span>.
@@ -88,10 +88,10 @@ This is a totally <span style="color: maroon">EXPOSED ZONE</span>
 - The 15 - **Small Training Room**
 - The 15 - **BRC Park** (by the training rooms)
 - The 71 - **Bridge**
-<br /><br />
+<br />
 
 <b>NOTE</b>: There is a Parvo Exposure in various places <span style="color: red">NEVER</span> walk or interact with Parvo Exposed Dogs!!
-<br />
+<br /><br />
 
 ## Adoptions
 Adoptions happen at BOTH New York Avenue and Oglethorpe.
