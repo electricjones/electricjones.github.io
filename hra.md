@@ -4,7 +4,7 @@ title: "HRA Volunteers"
 category: ecology
 body-class: category-index
 ---
-Last Updated: **November 13, 2023**.
+Last Updated: **November 19, 2023**.
 <br /><br />
 
 The [Humane Rescue Alliance](http://humanerescuealliance.org) is the animal shelter for Washington, D.C.
@@ -19,14 +19,11 @@ To request a change to this page,
 - Email mwilson [at] electricjones.me
 - Or post on the Humane Rescue Alliance Volunteers Facebook
 
-By all of us working hard to follow these policies we can **keep our commnity safe**, **care for all the animals at the shelter**, and **end this incident much faster**!
+We are making progress! Together we have cleared New York Avenue, which is now a clean  zone!
 <b>Thank you all for everything you do!!!!!!</b>
 <br /><br />
 
 ## Biosecurity Levels
-Each animal in the shelter has a biosecurity level that tells us their relation to the flu.
-<br /><br />
-
 - **Level 1**: Our naive population. Animals who have not been exposed.
 - **Level 2**: Dogs we know have been exposed, but are not currently showing symptoms.
 - **Level 3**: Dogs who are recovering or have recovered from the flu.
@@ -42,31 +39,57 @@ You can work with 3 and 4 together<br />
 You must wear the PPE listing on their sign and switch between each animal.
 <br /><br />
 
-**Please only go to OGL or NYA in a single day. Don't go to both**
+## Two Locations and MOST Imoportant Notes
+New York Avenue is a <span style="color: green">CLEAN ZONE</span>.
+<br />
+Oglethorpe is an <span style="color: maroon">EXPOSED ZONE</span>.
+<br /><br />
 
-## Dog Housing Locations
+IMPORTANT - There will need to be NO movement of people between OGL and NYA on the same day. Period. Only go to one location per day.
+<br /><br />
+
+EQUALLY IMPORTANT - Clothing must be washed after working one location before moving to the other. 
+<br /><br />
+
+INCREDIBLY IMPORTANT - PPE protocols at OGL will stay the same. At NYA, we will revert to "pre-pandemic" biosecurity, which includes wearing and changing gloves between each animal and frequent hand-washing. Gowns must be worn for animals under 6 months of age and any animals exhibiting upper respiratory symptoms. Read the manuals for guidence. 
+<br /><br />
+
+PERHAPS MOST IMPORTANT - Clothing and shoes aren't the only things that spread germs. Equipment, tools, treatbags, etc. can and do spread disease. Please do not move them between locations!
+<br /><br />
+
+Staff and volunteers who use personal equipment, like treat bags, must not use them at both locations. 
+<br /><br />
+
 ### New York Avenue
-- Dogs at NYA are all levels 2, 3, or 4.
-- There are no puppies or other animals at NYA.
+This is a totally <span style="color: green">CLEAN ZONE</span>.
+<br /><br />
+
 - Volunteers can work with any dog you are qualified for at NYA.
-- There are only 18 dogs currently. We are trying to clear it out.
+- PPE required for URI, diarrhea, and puppies.
+- Gloves and hand sanatizer always and forever.
+- NEVER go to OGL and NYA on the same day.
+- Let's keep this place clean!
 
 ### Oglethorpe
+This is a totally <span style="color: maroon">EXPOSED ZONE</span>
+<br /> <br />
+
 - All dogs at OGL are Level 2, 3, or 4.
 - Volunteers can work in ANY and ALL of the areas where there are dogs.
 - The front Lobby and Cat Room are clean zones. DO NOT enter once you have been in an EXPOSED zone.
 - There are **temporarily** dogs on the Bridge. Take them out through managers area, NOT the front lobby.
 
 #### Locations
-- The 71 - **Main Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>.
-- The 71 - **Small Dog Room** is an <span style="color: maroon">EXPOSED ZONE</span>.
-- The 71 - **Holding** and **vestibule** near small dog room are <span style="color: maroon">EXPOSED ZONES</span>.
-- The 71 - **Overflow** (formerly warehouse) is an <span style="color: maroon">EXPOSED ZONE</span>. 
-- The 15 - **Intake Holding** (formerly Large Training Room) is an <span style="color: maroon">EXPOSED ZONE</span>. 
-- The 15 - **Small Training Room** is an <span style="color: maroon">EXPOSED ZONE</span>. Enter through BRC park. 
-- The 15 - **BRC Park** (by the training rooms) is an <span style="color: maroon">EXPOSED ZONE</span>.
-- The 71 - **Bridge** is an <span style="color: maroon">EXPOSED ZONE</span>. 
+- The 71 - **Main Dog Room**
+- The 71 - **Small Dog Room**
+- The 71 - **Holding** and **vestibule** near small dog room
+- The 71 - **Overflow** (formerly warehouse)
+- The 15 - **Intake Holding** (formerly Large Training Room)
+- The 15 - **Small Training Room**
+- The 15 - **BRC Park** (by the training rooms)
+- The 71 - **Bridge**
 <br /><br />
+
 <b>NOTE</b>: There is a Parvo Exposure in various places <span style="color: red">NEVER</span> walk or interact with Parvo Exposed Dogs!!
 <br /><br />
 
