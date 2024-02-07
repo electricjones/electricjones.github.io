@@ -26,8 +26,7 @@ To make sure we contain any other instances, the following protocols are now in 
 - We are continuing in-shelter adoptions.
 - We are continuing our offsite adoption events only with pets currently in foster.
 - We are adding a waiver to any dogs that go into a home, whether through adoption, foster, or Return-to-Owner.
-
-Dog walking will continue, and gloves should be worn and changed between each dog.
+- Dog walking will continue, and gloves should be worn and changed between each dog.
 - Dogs in 15 OGL should only be walked down the hill.
 - 71 OGL dogs should only be walked up the hill.
 
