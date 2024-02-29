@@ -5,13 +5,11 @@ blurb: A proposed framework for genuine, messy, and transparent learning and pla
 hero:
   url: /assets/images/megaphone.jpg
 category: etcetera
-tags: musings open-source out-loud constantly-updated
+tags: musings out-loud constantly-updated
 author: Michael
 ---
 
-Last Updated: February 28, 2024 -- [See Changes](https://github.com/electricjones/electricjones.github.io/commits/main/_posts/2024-01-03-learning-out-loud.md)
-
-<i>"If we all carry each other, all get stronger."</i>
+<b><i>"If we all carry each other, all get stronger."</i></b>
 {: .article_paragraph }
 
 I'm not sure where I first heard that quote -- probably for my grandfather like most of the quotes that wring constantly in my mind.
@@ -113,4 +111,11 @@ There are a number of projects that I will be "Planning Out Loud", namely [Scini
 
 <br />
 <a href="http://www.freepik.com">Post Image Designed by macrovector / Freepik</a>
+{: .article_paragraph }
+
+Last Updated: February 28, 2024 -- [See Changes](https://github.com/electricjones/electricjones.github.io/commits/main/_posts/2024-01-03-learning-out-loud.md)
+{: .article_paragraph }
+
+<br />
+
 
