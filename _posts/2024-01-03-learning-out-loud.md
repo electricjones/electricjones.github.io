@@ -4,12 +4,15 @@ title: Learning Out Loud
 blurb: A proposed framework for genuine, messy, and transparent learning and planning. 
 hero:
   url: /assets/images/megaphone.jpg
-category: games
-tags: musings education open-source out-loud
+category: etcetera
+tags: musings open-source out-loud constantly-updated
 author: Michael
 ---
 
+Last Updated: February 28, 2024 -- [See Changes](https://github.com/electricjones/electricjones.github.io/commits/main/_posts/2024-01-03-learning-out-loud.md)
+
 <i>"If we all carry each other, all get stronger."</i>
+{: .article_paragraph }
 
 I'm not sure where I first heard that quote -- probably for my grandfather like most of the quotes that wring constantly in my mind.
 {: .article_paragraph }
@@ -46,12 +49,15 @@ So, what follows is a short framework  with justifications and benefits. This is
 
 ## Benefits
 <b>To the Learner</b> have been discussed, but let's formalize it a bit.
+{: .article_paragraph }
+
 1. A large collection of resources that may not have otherwise been collected
 2. An example of a path through the learning forest
 3. A genuine picture of the struggle of learning the concept
 4. Potentially active feedback in the learning process
 
 <b>To the Teacher</b> are also interesting. We know best what we can teach. By including synthesis and presentation in our own learning experience, we solidify what we are learning. We also get to challenge our understanding and have others provide us feedback. And, then, there's the satisfaction of helping others.
+{: .article_paragraph }
 
 ## The Beginnings of a Framework
 These are my initial thoughts on learning out loud in general. They are currently disorganized. That's part of the process.
@@ -59,6 +65,8 @@ These are my initial thoughts on learning out loud in general. They are currentl
 
 ### Distinctions of Learning Out Loud
 I am not proposing a "stream of conciousness" or "complaint" journal. Both of those have their place, but Learning Out Loud is different. The <b>intent</b> is still to produce high quality resources for others to use. The main differences between conventional learning material and Learning Out Loud are:
+{: .article_paragraph }
+
 - Learning Out Loud is developed in real time. The "teacher" does not know how the journey will end.
 - Learning Out Loud explicitly includes some casual component with which others can engage (a journal or such)
 - Learning Out Loud focuses on exploration over presciption. It's more like drawing a map as you make it, with winding branches and paths. The learner can follow those in the same or different order.
@@ -72,7 +80,7 @@ The individual "chapters" are clean while the overall "plot" is still being deci
 ### The Components for Learning Out Loud
 - <b>Resource Library</b>: Learning on your own means collecting lots of articles, videos, books, etc. The resource library is where you share what you have found. But not as a page of ugly links. Share your notes, reviews, and summaries. Draw connections between the resources. Present them with excellence.
 - <b>Lessons / Tutorials</b>: Once you have a good understanding of a concept, solidify it into some teaching material. Maybe a video or blog series, or tutorial.
-- <b>Journal<b>: This is the less formal component where you more casually share your feelings and revelations in the learning process.
+- <b>Journal</b>: This is the less formal component where you more casually share your feelings and revelations in the learning process.
 - <b>Live Streams / Chats</b>: An opportunity to engage with other learners.
 
 ### Setting Expectations
@@ -101,8 +109,8 @@ I am not sure where the distinction is between Planning and Learning out loud. B
 
 ## My Learning Out Loud
 There are a number of projects that I will be "Planning Out Loud", namely [Scininja]() and [Kadoo](). I will also be "Learning Out Load" a graduate-level introduction to Game Studies. In all cases, I will tag the posts with an "out-loud" tag as well as the topic, series, and type of post (lesson, resource, journal, etc).
-
 {: .article_paragraph }
 
+<br />
 <a href="http://www.freepik.com">Post Image Designed by macrovector / Freepik</a>
 

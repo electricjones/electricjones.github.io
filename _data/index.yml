@@ -49,3 +49,9 @@ conservation:
 game-studies:
   color: blue
   description: Research related to games outside of computer science and game design.
+musings:
+  color: blue
+  description: Semi-random thoughts about life, the universe, and everything. 
+out-loud:
+  color: green
+  description: My projects and education experiences where I am learning in a transparent way. See index post. 
