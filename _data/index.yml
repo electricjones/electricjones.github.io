@@ -55,3 +55,12 @@ musings:
 out-loud:
   color: green
   description: My projects and education experiences where I am learning in a transparent way. See index post. 
+data:
+  color: red
+  description: Posts and projects about data management, engineering, and analysis
+animal-sheltering:
+  color: yellow
+  description: Thoughts and research around domestic (adoptable) animal shelters and related rescues.
+wildlife:
+  color: yellow
+  description: Thoughts and research around wild (non-adoptable) animal welfare rescues and organizations.
