@@ -1,3 +1,13 @@
+- title:  Kadoo
+  blurb: A world-class, cutting edge, Animal Data Management System. 
+  hero:
+   url: /assets/images/kadoo.webp
+  url: https://electricjones.me/conservation/2024-02-25-kadoo
+  category: ecology
+  tags:
+   - data 
+   - animal-sheltering 
+   - wildlife 
 - title: Awesome Game Studies
   blurb: A Github "Awesome" list for game studies resources.
   hero:
