@@ -178,12 +178,12 @@ h4 {
 }
 
 ul {
-  margin-bottom: 3em;
+  margin-bottom: 2em;
   font-size: 1.4em;
 }
 
 ol {
-  margin-bottom: 3em;
+  margin-bottom: 2em;
   font-size: 1.4em;
 }
 
@@ -1564,7 +1564,7 @@ input[type="submit"] {
 }
 
 .article-index .article_body .article_paragraph {
-  margin-bottom: 2.3em;
+  margin-bottom: 2.0em;
   font-size: 1.5em;
 }
 
