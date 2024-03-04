@@ -6,17 +6,16 @@ category: ecology
 pagination:
   enabled: true
 ---
-I am a researcher who thrives on creative collaboration with passionate people solving complex problems. 
+I'm a researcher who thrives on creative collaboration with passionate people solving complex problems. 
 My interests lie at the many intersections of Computer Science, Anthropology, Game Sciences, and Conservation. 
 <br /><br />
 
 I started programming in fourth grade (thanks Meadowbrook Elementary for a one-computer lab). 
 Since then I have worked in just about every area of computer science. 
-I have always viewed software as a <b>tool</b> to solve some of our most challenging problems. 
 As with many, making games has been a powerful expression of my computer science interest.
 <br /><br />
 
-While software has been a big part of my journey, most of my education is in social science. 
+Most of my education is actually in social science, though. 
 I have a Masters in Anthropology and an M.Ed. in Educational Psychology. 
 My academic research focused around Educational Storytelling, Fan Communities, Narrative Identity, and Folklore. 
 I love people and am addicted to stories.
