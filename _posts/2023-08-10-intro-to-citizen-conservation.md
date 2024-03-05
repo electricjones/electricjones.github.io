@@ -9,7 +9,7 @@ tags: intros citizen-science wildlife animal-sheltering
 author: Michael
 ---
 This blog ([Electric Jones](http://electricjones.me)) is divided into three major categories: [Game Studies](http://electricjones.me/games), [Etcetera](http://electricjones.me/etcetera), and **[Citizen Conservation](http://electricjones.me/ecology)**. Game Studies may be self explanatory (if not take a look at its intro post), and etcetera is just a grab bag of things I'm interested in. Buy what is Citizen Conservation? Here, I take a quick look at what I mean by Citizen Conservation and explore a few topics I'm interested in.
-{: .article_paragraph }
+<br />
 
 First, a little bit about my background. For the full story, take a look at the rest of this blog. In short, I have spent the last 30+years at the interesection of computer science, community service, and animal care. In that time, I have volunteered at dozens of site cleanups, restoration projects, conservation initiatives, and rescues. I currently spend a lot of my "free" time at the [Humane Rescue Alliance](http://humanerescuealliance.org) in Washington, D.C. as a beharior assistant, adoptions counselor, and volunteer trainer.
 {: .article_paragraph }
@@ -20,8 +20,18 @@ I am a computer scientist for sure, but really recharge by being outside and esp
 When first laying this research blog out, I considered a lot of titles for this category: Conservation, Ecology, Nature, etc. But none of them felt entirely right. What I really wanted to focus on is the democratization of research. Empowering everyone to engage meaningfully in conservation, both in research and in action. So, I went with "Citizen Conservation" and divide my work into some broad topics.
 {: .article_paragraph }
 
+- One
+- Two
+- Three
+
+<br /> 
+
+- four
+- five
+- six
+{: .article_paragraph }
+
 ## Ecology
-{: .article_subtitle }
 I am certainly interested in, and do ameture research concerning, **the relationships between organisms and other organisms and their environment**. I like to investigate agent-cause relationships where an intelligent agent (human or non-human) alters an environment and causes systemic changes in that environment. Everything from ant colonies to beaver dams to human construction projects. I am not a biologist and not as interested as the individual as I am the system. That probably comes from my decades in software design.
 {: .article_paragraph }
 
