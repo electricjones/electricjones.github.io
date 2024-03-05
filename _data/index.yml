@@ -31,7 +31,7 @@ citizen-science:
 resources:
   color: yellow
   description: Resources for learning and building various tech projects.
-intro-posts:
+intros:
   color: purple
   description: Introductions to topics I frequently cover. Think of these as maps to my blog.
 series:
