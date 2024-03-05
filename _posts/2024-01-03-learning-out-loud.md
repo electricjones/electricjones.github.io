@@ -46,6 +46,7 @@ So, what follows is a short framework  with justifications and benefits. This is
 {: .article_paragraph }
 
 ## Benefits
+{: .article_subtitle }
 <b>To the Learner</b> have been discussed, but let's formalize it a bit.
 {: .article_paragraph }
 
@@ -58,10 +59,12 @@ So, what follows is a short framework  with justifications and benefits. This is
 {: .article_paragraph }
 
 ## The Beginnings of a Framework
+{: .article_subtitle }
 These are my initial thoughts on learning out loud in general. They are currently disorganized. That's part of the process.
 {: .article_paragraph }
 
 ### Distinctions of Learning Out Loud
+{: .article_subtitle }
 I am not proposing a "stream of conciousness" or "complaint" journal. Both of those have their place, but Learning Out Loud is different. The <b>intent</b> is still to produce high quality resources for others to use. The main differences between conventional learning material and Learning Out Loud are:
 {: .article_paragraph }
 
@@ -76,36 +79,44 @@ The individual "chapters" are clean while the overall "plot" is still being deci
 {: .article_paragraph }
 
 ### The Components for Learning Out Loud
+{: .article_subtitle }
 - <b>Resource Library</b>: Learning on your own means collecting lots of articles, videos, books, etc. The resource library is where you share what you have found. But not as a page of ugly links. Share your notes, reviews, and summaries. Draw connections between the resources. Present them with excellence.
 - <b>Lessons / Tutorials</b>: Once you have a good understanding of a concept, solidify it into some teaching material. Maybe a video or blog series, or tutorial.
 - <b>Journal</b>: This is the less formal component where you more casually share your feelings and revelations in the learning process.
 - <b>Live Streams / Chats</b>: An opportunity to engage with other learners.
 
 ### Setting Expectations
+{: .article_subtitle }
 It is important to set expectations about each component. What does the resource library entail? What difficulty are the tutorials? How casual is the journal?
 {: .article_paragraph }
 
 ### Gathering Resources
+{: .article_subtitle }
 TODO: Detail my notes for gathering, annotating, and sharing resources. Include some tools.
 {: .article_paragraph }
 
 ### Keeping Track of Revisions
+{: .article_subtitle }
 One of the best parts about sharing your work before its fully complete is that others get to see the process of creation. This works best when the learners can see previous revisions of the various components. This could be a changelog or revisions document. I plan to just use git (as on this page)
 {: .article_paragraph }
 
 ### Publishing Polished Material
+{: .article_subtitle }
 While Learning Out Loud is certainly less of a polished experience, its still important for the published material to be coherent and clean. 
 {: .article_paragraph }
 
 ### Publishing Genuine Experiences
+{: .article_subtitle }
 The material published should be genuine. Do not shy away from sharing where you struggled, what you don't understand, and where you plan to go from here.
 {: .article_paragraph }
 
 ### Planning Out Loud
+{: .article_subtitle }
 I am not sure where the distinction is between Planning and Learning out loud. But for my case, Planning (or Building?) Out Loud is about gathering resources, notes, and ideas for projects in the open and inviting others to participate. This is a cornerstone of (some forms of) open source software.
 {: .article_paragraph }
 
 ## My Learning Out Loud
+{: .article_subtitle }
 There are a number of projects that I will be "Planning Out Loud", namely [Scininja]() and [Kadoo](). I will also be "Learning Out Load" a graduate-level introduction to Game Studies. In all cases, I will tag the posts with an "out-loud" tag as well as the topic, series, and type of post (lesson, resource, journal, etc).
 {: .article_paragraph }
 
