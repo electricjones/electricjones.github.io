@@ -11,7 +11,7 @@ author: Michael
 This blog ([Electric Jones](http://electricjones.me)) is divided into three major categories: [Game Studies](http://electricjones.me/games), [Etcetera](http://electricjones.me/etcetera), and **[Citizen Conservation](http://electricjones.me/ecology)**. Game Studies may be self explanatory (if not take a look at its intro post), and etcetera is just a grab bag of things I'm interested in. Buy what is Citizen Conservation? Here, I take a quick look at what I mean by Citizen Conservation and explore a few topics I'm interested in.
 {: .article_paragraph }
 
-First, a little bit about my background. For the full story, take a look at the rest of this blog. In short, I have spent the last 30+years at the interesection of computer science, community service, and animal care. In that time, I have volunteered at dozens of site cleanups, restoration projects, conservation initiatives, and rescues. I currently spend a lot of my "free" time at the [Humane Rescue Alliance](http://humanerescuealliance.org) in Washington, D.C. as a behavior assistant, adoptions counselor, and volunteer trainer.
+First, a little bit about my background. For the full story, take a look at the rest of this blog. In short, I have spent the last 30+years at the intersection of computer science, community service, and animal care. In that time, I have volunteered at dozens of site cleanups, restoration projects, conservation initiatives, and rescues. I currently spend a lot of my "free" time at the [Humane Rescue Alliance](http://humanerescuealliance.org) in Washington, D.C. as a behavior assistant, adoptions counselor, and volunteer trainer.
 {: .article_paragraph }
 
 I am a computer scientist for sure, but really recharge by being outside and especially in the company of non-human animals.
@@ -47,12 +47,12 @@ The democratization of this work is important to me, but not in a "if we all jus
 
 ## Intersections
 {: .article_subtitle }
-Life is messy and my interests don't have clearly defined lines. My other main interest is in [Game Science](http://electricjones.me/games), and can't help but intersect here. I am especially interested in the History and Design of Environmental Gaming (and I plan to do an entire series on the topic soon). Environmental Gaming is a proposed sister to Environmental Filmmaking which encompasses everything from sustainable game production to games with environmental themes and games with mechanics specifically designed to teach environmental practices.
+Life is messy and my interests don't have clearly defined lines. My other main interest is in [Game Science](http://electricjones.me/games), and can't help but intersect here. I am especially interested in the History and Design of Environmental Gaming (and I plan to do an entire series on the topic soon). Environmental Gaming is a proposed sister to Environmental Film Making which encompasses everything from sustainable game production to games with environmental themes and games with mechanics specifically designed to teach environmental practices.
 {: .article_paragraph }
 
 ## Rescues and Shelters
 {: .article_subtitle }
-I spend a lot of my time working in municipal animal shelters and rescues. This work is primarily working with adoptable animals like cats, dogs, rabbits, etc. I am very interested in how we can enhance that work: more adoptions, better community support, stronger behavior protocols, and [enhanced techology](http://electricjones.me/ecology/2024/02/25/kadoo/) for the shelters. You will hear a lot more about this as time goes on.
+I spend a lot of my time working in municipal animal shelters and rescues. This work is primarily working with adoptable animals like cats, dogs, rabbits, etc. I am very interested in how we can enhance that work: more adoptions, better community support, stronger behavior protocols, and [enhanced technology](http://electricjones.me/ecology/2024/02/25/kadoo/) for the shelters. You will hear a lot more about this as time goes on.
 {: .article_paragraph }
 
 ## A Personal Note

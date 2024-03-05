@@ -11,12 +11,12 @@ author: Michael Wilson
 I am thrilled to announce my latest project: [Awesome Game Studies](https://github.com/electricjones/awesome-game-studies).
 {: .article_paragraph }
 
-People play games. A lot of games. It is one of the most fundemental human experiences.
+People play games. A lot of games. It is one of the most fundamental human experiences.
 Humanity has even been called [Homo Ludens](https://en.wikipedia.org/wiki/Homo_Ludens).
 {: .article_paragraph }
 
 Game Studies is the field of research that asks all the questions about why and how we play games.
-It's a broad network of disciplines ranging all across social science, computer science, and the hummanities.
+It's a broad network of disciplines ranging all across social science, computer science, and the humanities.
 Anthropologists study the meaning derived from games and the social significance of play.
 Psychologists investigate how individuals and groups react to different gameplay experiences.
 Historians document our long story of game play throughout the ages. Everywhere we look, we see people interested in games.
@@ -44,7 +44,7 @@ The list is divided into a few sections:
 - Community: Conferences, Schools, Research Organizations
 - Other Lists
 
-And there are various tags to describe the content level, liscencing and other things.
+And there are various tags to describe the content level, licensing and other things.
 {: .article_subtitle }
 
 ## Contributing

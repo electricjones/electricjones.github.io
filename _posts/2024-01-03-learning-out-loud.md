@@ -42,7 +42,7 @@ So that is what Learning Out Loud means to me. It is openly documenting the lear
 You DO end with a list of resources, guidance on how to get from one place to the other, and notes about the topic. But you also get to someone else working through the same problem. You get to learn in real time from their mistakes. Beyond that, it has a lot of value to the person learning out loud. 
 {: .article_paragraph }
 
-So, what follows is a short framework  with justifications and benefits. This is an ongoing work in progress. Just like dog-fooding your own software, I am Learning Out Loud while I learn to Learn Lut Loud.
+So, what follows is a short framework  with justifications and benefits. This is an ongoing work in progress. Just like dog-fooding your own software, I am Learning Out Loud while I learn to Learn Out Loud.
 {: .article_paragraph }
 
 ## Benefits
@@ -70,7 +70,7 @@ I am not proposing a "stream of conciousness" or "complaint" journal. Both of th
 
 - Learning Out Loud is developed in real time. The "teacher" does not know how the journey will end.
 - Learning Out Loud explicitly includes some casual component with which others can engage (a journal or such)
-- Learning Out Loud focuses on exploration over presciption. It's more like drawing a map as you make it, with winding branches and paths. The learner can follow those in the same or different order.
+- Learning Out Loud focuses on exploration over prescription. It's more like drawing a map as you make it, with winding branches and paths. The learner can follow those in the same or different order.
 
 BOTH are produced to the highest quality. (With the exception maybe of a journal) Learning Out Loud Lessons and resources are edited, coherent, and polished. 
 {: .article_paragraph }
@@ -117,7 +117,7 @@ I am not sure where the distinction is between Planning and Learning out loud. B
 
 ## My Learning Out Loud
 {: .article_subtitle }
-There are a number of projects that I will be "Planning Out Loud", namely [Scininja]() and [Kadoo](). I will also be "Learning Out Load" a graduate-level introduction to Game Studies. In all cases, I will tag the posts with an "out-loud" tag as well as the topic, series, and type of post (lesson, resource, journal, etc).
+There are a number of projects that I will be "Planning Out Loud". Just look for the "out-loud" tag. I will also be "Learning Out Load" a graduate-level introduction to Game Studies. In all cases, I will tag the posts with an "out-loud" tag as well as the topic, series, and type of post (lesson, resource, journal, etc).
 {: .article_paragraph }
 
 <br />

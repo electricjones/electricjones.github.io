@@ -14,7 +14,7 @@ I am announcing the [Games Do Good List](https://github.com/electricjones/games-
 We often hear of potentials dangers games: people getting lost in fantasy, encouraging violence, loss of ambition, addiction, and on and on.
 {: .article_paragraph }
 
-This list represents evidence-based and powerful voices on the other side -- a collection of articles, stories, and research studies that show positive effects of videogames.
+This list represents evidence-based and powerful voices on the other side -- a collection of articles, stories, and research studies that show positive effects of video games.
 {: .article_paragraph }
 
 It is not a comprehensive list. It is not meant to be a full literature review. It is not authoritative. It does not claim to be unbiased.
@@ -31,7 +31,7 @@ We all knew it.
 The list is in two categories.
 {: .article_paragraph }
 
-**Peer Reviewed Research**: These are scientific papers and can be fairly technical. They run the gammit of scientific disciplines.
+**Peer Reviewed Research**: These are scientific papers and can be fairly technical. They run the gamut of scientific disciplines.
 {: .article_paragraph }
 
 **Non Academic**: These are more accessible resource from newspapers and other well-respected individuals and organizations.
