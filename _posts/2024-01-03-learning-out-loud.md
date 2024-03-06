@@ -74,6 +74,7 @@ Note that this framework itself is a work-in-progress. I am "Learning Out Loud" 
 ### Quality
 {: .article_subtitle }
 Learning Out Loud is about open sourcing the messy journey of discover, but NOT about sharing messy work. The articles you write, the collections you present, the journal you keep should be of high quality. They should be edited, structured, and clear. The journal can be more "stream of conciousness" but the rest should be useful for others to follow your path.
+{: .article_paragraph }
 
 ### The Components for Learning Out Loud
 {: .article_subtitle }
