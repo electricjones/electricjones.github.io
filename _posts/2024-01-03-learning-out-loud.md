@@ -9,78 +9,76 @@ tags: musings out-loud constantly-updated
 author: Michael
 ---
 
-<b><i>"If we all carry each other, all get stronger."</i></b>
+<b><i>"If we all carry each other, we all get stronger."</i></b>
 {: .article_paragraph }
 
-I'm not sure where I first heard that quote -- probably for my grandfather like most of the quotes that wring constantly in my mind.
+<i>Note: This is not about the excellent [Learning Out Loud](https://www.youtube.com/watch?v=XV6hClxfeeM) educational framework.</i>
 {: .article_paragraph }
 
-I have been ruminating the idea of "Learning Out Loud" or "Planning Out Loud" for quite awhile. This is not the [Learning Out Loud](https://www.youtube.com/watch?v=XV6hClxfeeM) educational framework. And it may be this concept has another, more appropriate, name I have yet to find. 
+*Learning Out Loud*, as I define it, is "open sourcing the process of discovering, planning, researching, and learning."
+It is going through the educational adventure transparently and in real time, with highs and lows visible to all. 
 {: .article_paragraph }
 
-"Learning Out Loud" is simply going through the educational process transparently and in real time, highs and lows together. 
+This is different then the educational content we are used to. We often use -- and I dearly love -- well crafted and polished learning experiences. These include strategically designed curriculum, well thought out learning paths, and intentionally curated resources. All of these things have their place. Learning out loud is not a concept to supplant or replace these valuable tools. 
 {: .article_paragraph }
 
-This is different then the educational content we are used to. We often find -- and I dearly love -- well crafted and polished learning experiences: Strategically designed curriculum, well thought out learning paths, and intentionally curated resources. All of these things have their place. Learning out loud is not a concept to supplant or replace these valuable tools. 
+Instead learning out loud is intentionally messy. 
 {: .article_paragraph }
 
-Instead learning out loud is intentionally messy. How many times have you been learning something -- a new language or programming skill or recipe -- only to fail the first dozen times. Even more, I often set my sights on a big and complex concept with seemingly no end. Those learning experiences are painful. We all know the frustration of floundering in too little or too many resources. We all feel the pain going in the wrong direction. What we don't often enough get to see while becoming "youtube certified" is that <b>everyone</b> has this experience. Everyone gathers their own resources and creates their own map. At best we see the end result of that map, after it has been published and polished and edited. 
+We have all set out to learn some new skill or master some knew bit of knowledge, and gotten lost in too few or too many resources. We've all had to forge our own path: cobbling together various books, videos, and experiences. We've all been lost. 
 {: .article_paragraph }
 
-But the journey has often been more valuable to me then the destination. (Shout out to fellow [Knights Radiants](https://en.wikipedia.org/wiki/The_Stormlight_Archive))
+But, we never get to see this winding path. We only ever seen the end. I believe the journey is often more valuable to me then the destination. (Shout out to fellow [Knights Radiants](https://en.wikipedia.org/wiki/The_Stormlight_Archive)). Learning Out Loud is an attempt to celebrate journey.
 {: .article_paragraph }
 
-I spent nearly a year using all of my free time to learn about and build Quantum Computing tools and languages. I bounced around from concept to concept, from book to book, and from of sub-discipline to some-discipline. In the end, I came to the conclusion that quantum computing (for me) was best a hobby. However, all of that ambling and blundering gave me new skills and new knowledge that I use every day.
+## A Brief Example
+{: .article_subtitle }
+I spent a year using all my free time to learn about and build Quantum Computing tools and languages. I bounced around from concept to concept, from book to book, and from of sub-discipline to some-discipline. I did not know exactly where I wanted to go and couldn't find the perfect curriculum. So, I made my own collection of youtube videos, college lectures, books, and tutorials. I started a discord server to find others. I kept a journal of my work. I looked at graduate school requirements and crafted my very own plan.
 {: .article_paragraph }
 
-And I regret that I never shared that journey. That no one else will get to learn from my path, share my resources, and commiserate at the overwhelming choices in self-teaching.
+In the end, I came to the conclusion that quantum computing (for me) was best a hobby. However, all of that ambling and blundering gave me new skills and new knowledge that I use every day.
 {: .article_paragraph }
 
-So that is what Learning Out Loud means to me. It is openly documenting the learning process, sharing resources along the way, and presenting the side-steps not as mistakes but as crucial steps long the path. 
+I regret never sharing that journey, and I wish I had been able to see others have the same journey. I could not have been alone.
 {: .article_paragraph }
 
-You DO end with a list of resources, guidance on how to get from one place to the other, and notes about the topic. But you also get to someone else working through the same problem. You get to learn in real time from their mistakes. Beyond that, it has a lot of value to the person learning out loud. 
+## A Framework 
+{: .article_subtitle }
+Learning Out Loud is openly documenting the learning process, sharing resources along the way, and presenting the side-steps not as mistakes, but as crucial steps long the path. You DO end with a list of resources, a path, and notes about the topic. But you also experience the joys, pains, and branching paths in real time.
 {: .article_paragraph }
 
-So, what follows is a short framework  with justifications and benefits. This is an ongoing work in progress. Just like dog-fooding your own software, I am Learning Out Loud while I learn to Learn Out Loud.
+Note that this framework itself is a work-in-progress. I am "Learning Out Loud" what it means to "Learn Out Loud".
 {: .article_paragraph }
 
 ## Benefits
 {: .article_subtitle }
-<b>To the Learner</b> have been discussed, but let's formalize it a bit.
+<b>Benefits to the Learner</b> have been discussed, but let's formalize it a bit.
 {: .article_paragraph }
 
 1. A large collection of resources that may not have otherwise been collected
 2. An example of a path through the learning forest
 3. A genuine picture of the struggle of learning the concept
 4. Potentially active feedback in the learning process
+5. A "tech tree" of different paths one can take and different "regions" of the discipline
 
-<b>To the Teacher</b> are also interesting. We know best what we can teach. By including synthesis and presentation in our own learning experience, we solidify what we are learning. We also get to challenge our understanding and have others provide us feedback. And, then, there's the satisfaction of helping others.
+<b>Benefits to the Teacher</b> are also interesting. 
 {: .article_paragraph }
 
-## The Beginnings of a Framework
+1. You learn best what you teach. Synthesizing your learning helps cement the knowledge
+2. You can have active feedback from the community
+3. Journaling has been shown to be cathartic and thereputic
+4. There is extra motivation to keep going
+5. It forces you to think more formally and intentionally about your path
+{: .article_paragraph }
+
+### Quality
 {: .article_subtitle }
-These are my initial thoughts on learning out loud in general. They are currently disorganized. That's part of the process.
-{: .article_paragraph }
-
-### Distinctions of Learning Out Loud
-{: .article_subtitle }
-I am not proposing a "stream of conciousness" or "complaint" journal. Both of those have their place, but Learning Out Loud is different. The <b>intent</b> is still to produce high quality resources for others to use. The main differences between conventional learning material and Learning Out Loud are:
-{: .article_paragraph }
-
-- Learning Out Loud is developed in real time. The "teacher" does not know how the journey will end.
-- Learning Out Loud explicitly includes some casual component with which others can engage (a journal or such)
-- Learning Out Loud focuses on exploration over prescription. It's more like drawing a map as you make it, with winding branches and paths. The learner can follow those in the same or different order.
-
-BOTH are produced to the highest quality. (With the exception maybe of a journal) Learning Out Loud Lessons and resources are edited, coherent, and polished. 
-{: .article_paragraph }
-
-The individual "chapters" are clean while the overall "plot" is still being decided. 
-{: .article_paragraph }
+Learning Out Loud is about open sourcing the messy journey of discover, but NOT about sharing messy work. The articles you write, the collections you present, the journal you keep should be of high quality. They should be edited, structured, and clear. The journal can be more "stream of conciousness" but the rest should be useful for others to follow your path.
 
 ### The Components for Learning Out Loud
 {: .article_subtitle }
-- <b>Resource Library</b>: Learning on your own means collecting lots of articles, videos, books, etc. The resource library is where you share what you have found. But not as a page of ugly links. Share your notes, reviews, and summaries. Draw connections between the resources. Present them with excellence.
+
+- <b>Resource Library</b>: A collection of the articles, books, videos, etc that you use. Not just a dump of links. Share your notes, reviews, and summaries. Draw connections between the resources. Present them with excellence.
 - <b>Lessons / Tutorials</b>: Once you have a good understanding of a concept, solidify it into some teaching material. Maybe a video or blog series, or tutorial.
 - <b>Journal</b>: This is the less formal component where you more casually share your feelings and revelations in the learning process.
 - <b>Live Streams / Chats</b>: An opportunity to engage with other learners.
@@ -97,12 +95,7 @@ TODO: Detail my notes for gathering, annotating, and sharing resources. Include 
 
 ### Keeping Track of Revisions
 {: .article_subtitle }
-One of the best parts about sharing your work before its fully complete is that others get to see the process of creation. This works best when the learners can see previous revisions of the various components. This could be a changelog or revisions document. I plan to just use git (as on this page)
-{: .article_paragraph }
-
-### Publishing Polished Material
-{: .article_subtitle }
-While Learning Out Loud is certainly less of a polished experience, its still important for the published material to be coherent and clean. 
+One of the best parts about sharing your work before its fully complete is that others get to see the process of creation. This works best when learners can see previous revisions. This could be a changelog or revisions document. I plan to just use git (as on this page).
 {: .article_paragraph }
 
 ### Publishing Genuine Experiences
@@ -112,19 +105,19 @@ The material published should be genuine. Do not shy away from sharing where you
 
 ### Planning Out Loud
 {: .article_subtitle }
-I am not sure where the distinction is between Planning and Learning out loud. But for my case, Planning (or Building?) Out Loud is about gathering resources, notes, and ideas for projects in the open and inviting others to participate. This is a cornerstone of (some forms of) open source software.
+I am not sure where the distinction is between Planning and Learning Out Loud. But for my case, Planning Out Loud is about gathering resources, notes, and ideas for projects.
 {: .article_paragraph }
 
 ## My Learning Out Loud
 {: .article_subtitle }
-There are a number of projects that I will be "Planning Out Loud". Just look for the "out-loud" tag. I will also be "Learning Out Load" a graduate-level introduction to Game Studies. In all cases, I will tag the posts with an "out-loud" tag as well as the topic, series, and type of post (lesson, resource, journal, etc).
+There are a number of projects that I will be "Planning Out Loud".I will also be "Learning Out Load" a graduate-level introduction to Game Studies.  Just look for the "out-loud" tag as well as the topic, series, and type of post (lesson, resource, journal, etc) tags.
 {: .article_paragraph }
 
 <br />
 <a href="http://www.freepik.com">Post Image Designed by macrovector / Freepik</a>
 {: .article_paragraph }
 
-Last Updated: February 28, 2024 -- [See Changes](https://github.com/electricjones/electricjones.github.io/commits/main/_posts/2024-01-03-learning-out-loud.md)
+Last Updated: March 6, 2024 -- [See Changes](https://github.com/electricjones/electricjones.github.io/commits/main/_posts/2024-01-03-learning-out-loud.md)
 {: .article_paragraph }
 
 <br />
