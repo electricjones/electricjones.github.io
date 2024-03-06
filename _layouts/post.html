@@ -38,7 +38,7 @@ layout: default
           <a href="/{{ page.category }}" class="article_tag category {{ page.category }}"> </a>
 
           {% for tag_name in page.tags %}
-            <a href="" class="tag {{ site.data.index[tag_name].color }}">{{ tag_name }}</a>
+          <a href="http://electricjones.me/tag/{{ tag_name }}" class="tag {{ site.data.index[tag_name].color }}">{{ tag_name }}</a>
           {% endfor %}
         </div>
         <div class="article_nav">
@@ -49,14 +49,14 @@ layout: default
             &nbsp;
           </div>
           <div class="social-icons">
-            <a href="https://twitter.com/intent/tweet?text={{ post.url }}" class="social-icons_link"
+            <a href="https://twitter.com/intent/tweet?text={{ page.url }}" class="social-icons_link"
             ><img
                     src="/assets/images/twitter-logo-fill.svg"
                     alt=""
                     class="social-icons_link_icon"
             /></a>
 
-            <a href="https://www.facebook.com/sharer/sharer.php?u={{ post.url }}" class="social-icons_link"
+            <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url }}" class="social-icons_link"
             ><img
                     src="/assets/images/facebook-circular-logo.svg"
                     alt=""
@@ -90,7 +90,7 @@ layout: default
           </div>
 
           <div class="social-icons">
-            <a href="" class="social-icons_link"
+            <a href="http://github.com/electricjones" class="social-icons_link"
             ><img
                     src="/assets/images/github-logo-fill.svg"
                     alt=""
@@ -110,7 +110,7 @@ layout: default
             <!--         alt="" -->
             <!--         class="social-icons_link_icon" -->
             <!-- /></a> -->
-            <a href="" class="social-icons_link"
+            <a href="mailto:mwilson@electricjones.me" class="social-icons_link"
             ><img
                     src="/assets/images/email-solid.svg"
                     alt=""
