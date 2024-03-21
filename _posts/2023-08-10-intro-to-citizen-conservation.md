@@ -8,7 +8,7 @@ category: ecology
 tags: intros citizen-science wildlife animal-sheltering 
 author: Michael
 ---
-This blog ([Electric Jones](http://electricjones.me)) is divided into three major categories: [Game Studies](http://electricjones.me/games), [Etcetera](http://electricjones.me/etcetera), and **[Citizen Conservation](http://electricjones.me/ecology)**. Game Studies may be self explanatory (if not take a look at its intro post), and etcetera is just a grab bag of things I'm interested in. Buy what is Citizen Conservation? Here, I take a quick look at what I mean by Citizen Conservation and explore a few topics I'm interested in.
+This blog ([Electric Jones](http://electricjones.me)) is divided into three major categories: [Game Studies](http://electricjones.me/games), [Etcetera](http://electricjones.me/etcetera), and **[Citizen Conservation](http://electricjones.me/ecology)**. Game Studies may be self explanatory (if not take a look at its intro post), and etcetera is just a grab bag of things I'm interested in. But what is Citizen Conservation? Here, I take a quick look at what I mean by Citizen Conservation and explore a few topics I'm interested in.
 {: .article_paragraph }
 
 First, a little bit about my background. For the full story, take a look at the rest of this blog. In short, I have spent the last 30+years at the intersection of computer science, community service, and animal care. In that time, I have volunteered at dozens of site cleanups, restoration projects, conservation initiatives, and rescues. I currently spend a lot of my "free" time at the [Humane Rescue Alliance](http://humanerescuealliance.org) in Washington, D.C. as a behavior assistant, adoptions counselor, and volunteer trainer.

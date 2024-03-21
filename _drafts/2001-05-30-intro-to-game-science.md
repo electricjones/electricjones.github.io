@@ -1,27 +1,36 @@
 ---
 layout: post
-title:  "My IBM Qiskit Certification Journey | Part 3"
-blurb: Building a foundation in Linear Algebra and Quantum Mechanics
+title: Introduction to Game Sciences
+blurb: What to expect from my blog about game sciences. 
 hero:
-    url: /assets/images/pexels-kevin-ku-577585.jpg
-category: quantum
-tags: resources qiskit ibm-certification math
-author: Michael Wilson
-# next_url: "hello"
-# previous_url: "goodbye"
+    url: /assets/images/game-science.jpg
+category: games
+tags: intros game-studies  
+author: Michael
 ---
-Math and physics were never my strong suit, but with these resources I got up to speed pretty quickly.
+
+This blog ([Electric Jones](http://electricjones.me)) is divided into three major categories: [Game Studies](http://electricjones.me/games), [Etcetera](http://electricjones.me/etcetera), and **[Citizen Conservation](http://electricjones.me/ecology)**. Citizen Conservation is my musings and projects around ecology, animal welfare, and citizen science.Etcetera is just a grab bag of things I'm interested in. Game Science is an eclectic mix of my interests in game design, development, studies, and history. Let's explore that.
 {: .article_paragraph }
 
-### Series Outline
+First, let me clarify what "game" means here. This blog casts a very wide net around the concept of "game" to include puzzles, interactive play, video games, card games, and table top games. Specific articles may define game more specifically.
+
+## Game Studies Disciplines
 {: .article_subtitle }
 
-1. Introduction and Outline
-2. Prologue and Quantum Computing Exploration
-3. **Foundations** (Theory, Math, and Computer Science) <-- You are here
-4. Qiskit Part A: Qbits, Gates, and Circuits
-5. Qiskit Part B: Algorithms and All the Rest
-6. The Missing Pieces
-7. Perparing for the Exam
-8. My Exam Experience and Conclusion
-{: .article_paragraph }
+## Gaming History
+{: .article_subtitle }
+
+## Game Studies Disciplines
+{: .article_subtitle }
+
+## Games for Education 
+{: .article_subtitle }
+
+## Games for Therapy 
+{: .article_subtitle }
+
+## Environmental Gaming 
+{: .article_subtitle }
+
+## Tangible Play 
+{: .article_subtitle }
