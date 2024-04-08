@@ -97,6 +97,19 @@ Enough chatter. Let's make a list!
 
 - [Person](#): Describes all people including staff/volunteers, partners, fosters, adopters, etc.
 - [Animal](#): The primary resource for a specific animal in care or contact.
+- [Behavior](#): Blah.
+- [Medical](#): Blah.
+- [Intake](#): Blah.
+- [Outcome](#): Blah.
+- [Event](#): Blah.
+- [Group](#): Blah.
+- [A](#): Blah.
+- [A](#): Blah.
+- [A](#): Blah.
+- [A](#): Blah.
+- [A](#): Blah.
+- [A](#): Blah.
+- [A](#): Blah.
 {: .article_paragraph }
 
 ### Person
