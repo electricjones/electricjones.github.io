@@ -129,13 +129,12 @@ So, let's start building our example of a `Behavior` resource:
    // The location the procedure took place
    // This is a configurable list
    location: {
-       "site": "main-campus",
-       "subsite": "play-yards",
-       "unit": "2"
+       site: "main-campus",
+       subsite: "play-yards",
+       unit: "2"
    }, 
 }
 ```
-{: .article_paragraph }
 
 ### Flexability Through Types
 {: .article_subtitle }
@@ -144,6 +143,7 @@ I will start by saying I do not like the term "type" and have toyed with "instan
 {: .article_paragraph }
 
 Flexability happens thanks to "types" which do not have special ids, and are not directly exposed to the public. A "type" would be those "fearful fido tests" or "vaccination prodcedure"s. They specific type defines the schema that makes that individual instance of a resource unique. For example, the "vaccine procedure" type of the `Medical` resource would define data points for the vaccine(s) used, maker, and revaccination date.
+{: .article_paragraph }
 
 Building onto our Behavior Resource, a type may look like:
 {: .article_paragraph }
@@ -158,8 +158,8 @@ Building onto our Behavior Resource, a type may look like:
    // This data would be different for different kinds of types
    // The type of data presented is configurable. You can edit the schema.
    data: {
-      "duration_in_minutes": 30,
-      "concerns": ["Barking", "Jumping", "Nipping"],
+      duration-in-minutes: 30,
+      concerns: ["Barking", "Jumping", "Nipping"],
    }
 ```
 
@@ -172,18 +172,17 @@ Building onto our Behavior Resource, a type may look like:
 ```jsonc
 {
     // Some core data shared by all persons
-    "id": "P-18X3",
-    "name": "Kayla Colman",
-    "sort_name": "Colman",
+    id: "P-18X3",
+    name: "Kayla Colman",
+    sort-name: "Colman",
    
     // The auth data here is shown for clarity, but would not be shared through public apis.
     // This data is locked down behind permissions
-    "authentication": {
-        "login_key": "kcolman@somegreatrescue.org"
+    authentication: {
+        login_key: "kcolman@somegreatrescue.org"
     }
 }
 ```
-{: .article_paragraph }
 
 **Notes** are the other core resource. Notes are anything you want to be known. Notes form the basis of timelines, reports, and all entries. Other resources have relationship with notes, but the notes are unique. We will see why in a bit.
 {: .article_paragraph }
@@ -191,14 +190,13 @@ Building onto our Behavior Resource, a type may look like:
 ```jsonc
 {
     // Some core data shared by all persons
-    "id": "N-O7",
-    "owner": "P-881"
-    "text": "This is some cool note that allows **markdown** and [redact]annotations[/redact]",
-    "created_at": "12-10-2024",
-    "updated_at": "2-1-2025",
+    id: "N-O7",
+    owner: "P-881"
+    text: "This is some cool note that allows **markdown** and [redact]annotations[/redact]",
+    created_at: "12-10-2024",
+    updated_at: "2-1-2025",
 }
 ```
-{: .article_paragraph }
 
 ## Relationships
 {: .article_paragraph }
@@ -207,6 +205,9 @@ What makes data interesting are the relationships between resources. This is als
 {: .article_paragraph }
 
 For example, the behavior from above may have these notes added via relationships:
+{: .article_paragraph }
+
+
 ```jsonc
 {
    // This ID for the Behavior Resource
@@ -276,9 +277,9 @@ This would be the default view with no expansions. Just using the ids to define 
    // The location the procedure took place
    // This is a configurable list
    location: {
-       "site": "main-campus",
-       "subsite": "play-yards",
-       "unit": "2"
+       site: "main-campus",
+       subsite: "play-yards",
+       unit: "2"
    },
 
   
@@ -288,7 +289,7 @@ This would be the default view with no expansions. Just using the ids to define 
    // Any notes specific to an animal in the procedure
    animal_notes: {
       // This note is for the animal A-9, which is also referenced in the animals field
-      "A-9": "N-D10",
+      A-9: "N-D10",
    },
 
    // This is the type of type (type of procedure) it is
@@ -300,8 +301,8 @@ This would be the default view with no expansions. Just using the ids to define 
    // This data would be different for different kinds of types
    // The type of data presented is configurable. You can edit the schema.
    data: {
-      "duration_in_minutes": 30,
-      "concerns": ["Barking", "Jumping", "Nipping"],
+      duration-in-minutes": 30,
+      concerns: ["Barking", "Jumping", "Nipping"],
    }
 }
 ```
@@ -316,29 +317,29 @@ And, if we wanted to see a view on that data, it may look like:
 {
     id: "B-2J3K",
     owner: {
-        "id": "P-3J",
-        "name": "Kayla Coleman"
+        id: "P-3J",
+        name: "Kayla Coleman"
     },
     persons: ["P-3J", "P-K2I9"],
     animals: [
         {
-            "id": "A-9", 
-            "name": "Quin"
+            id: "A-9", 
+            name: "Quin"
         },
         {
-            "id": "A-7AJK", 
-            "name": "Kadoo"
+            id: "A-7AJK", 
+            name: "Kadoo"
         }
     ]
     date: "2020-01-01",
     session_notes: {
-        "id": "N-4CL0",
-        "text": "These are the notes for the behavior session in general"
+        id: "N-4CL0",
+        text: "These are the notes for the behavior session in general"
     },
     type: "Play Date",
     data: {
-        "duration_in_minutes": 30,
-        "concerns": ["Barking", "Jumping", "Nipping"],
+        duration-in-minutes: 30,
+        concerns: ["Barking", "Jumping", "Nipping"],
     }
 
     // Notice that we left out location, and animal notes entirely
