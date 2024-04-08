@@ -24,7 +24,7 @@ With the basic dream-list of an [animal welfare data management platform](https:
 When designing systems like Kadoo, I like to start from the bottom up. I'm a data monkey. So, as we continue the daydream, we won't decide on every type of resource, field, or data point. We would need a lot more expert input and iteration to even think about that. What I want to do here is build a skeleton onto which we can add muscle and skin.
 {: .article_paragraph }
 
-## Data Standards
+## The Shape of Data 
 {: .article_subtitle }
 
 How we organize data is more important than the actual data. The data must be well structured, predictable, and flexible. We will build this data model with some aims in mind:
@@ -159,7 +159,7 @@ Building onto our Behavior Resource, a type may look like:
    // This data would be different for different kinds of types
    // The type of data presented is configurable. You can edit the schema.
    data: {
-      duration-in-minutes: 30,
+      "duration-in-minutes": 30,
       concerns: ["Barking", "Jumping", "Nipping"],
    }
 ```
@@ -178,7 +178,8 @@ Building onto our Behavior Resource, a type may look like:
     name: "Kayla Colman",
     sort-name: "Colman",
    
-    // The auth data here is shown for clarity, but would not be shared through public apis.
+    // The auth data here is shown for clarity, 
+    // but would not be shared through public apis.
     // This data is locked down behind permissions
     authentication: {
         login_key: "kcolman@somegreatrescue.org"
@@ -214,17 +215,13 @@ For example, the behavior from above may have these notes added via relationship
 
 ```jsonc
 {
-   // This ID for the Behavior Resource
    id: "B-2J3K",
 
    // . . . All the other stuff shown above
 
-   // The Note for the behavior session itself, includes all the animals
    session_notes: "N-4CL0",
 
-   // Any notes specific to an animal in the procedure
    animal_notes: {
-      // This note is for the animal A-9, which is also referenced in the animals field
       "A-9": "N-D10",
    },
 }
@@ -293,7 +290,7 @@ This would be the default view with no expansions. Just using the ids to define 
    animal_notes: {
       // This note is for the animal A-9, 
       // which is also referenced in the animals field
-      A-9: "N-D10",
+      "A-9": "N-D10",
    },
 
    // This is the type of type (type of procedure) it is
@@ -305,7 +302,7 @@ This would be the default view with no expansions. Just using the ids to define 
    // This data would be different for different kinds of types
    // The type of data presented is configurable. You can edit the schema.
    data: {
-      duration-in-minutes": 30,
+      "duration-in-minutes": 30,
       concerns: ["Barking", "Jumping", "Nipping"],
    }
 }
@@ -341,7 +338,7 @@ And, if we wanted to see a view on that data, it may look like:
     },
     type: "Play Date",
     data: {
-        duration-in-minutes: 30,
+        "duration-in-minutes": 30,
         concerns: ["Barking", "Jumping", "Nipping"],
     }
 
