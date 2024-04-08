@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kadoo -- Data Model and Standards 
+title: Kadoo: Data Model 
 blurb: An exploration about how to better model Animal Welfare Data
 hero:
   url: /assets/images/kadoo.webp
@@ -13,7 +13,7 @@ author: Michael
 {: .article_subtitle }
 
 1. [Kadoo, Animal Welfare Data Platform](https://electricjones.me/ecology/2024/02/25/kadoo/)
-2. [Data Model and Standards](#) < -- You are here
+2. [Data Model](#) < -- You are here
 
 <b><i>"Reaveal unto me the secrets of your universe."</i></b>
 {: .article_paragraph }
@@ -135,6 +135,7 @@ So, let's start building our example of a `Behavior` resource:
    }, 
 }
 ```
+<br />
 
 ### Flexability Through Types
 {: .article_subtitle }
@@ -162,6 +163,7 @@ Building onto our Behavior Resource, a type may look like:
       concerns: ["Barking", "Jumping", "Nipping"],
    }
 ```
+<br />
 
 ### Notes and Persons at the Heart
 {: .article_subtitle }
@@ -183,6 +185,7 @@ Building onto our Behavior Resource, a type may look like:
     }
 }
 ```
+<br />
 
 **Notes** are the other core resource. Notes are anything you want to be known. Notes form the basis of timelines, reports, and all entries. Other resources have relationship with notes, but the notes are unique. We will see why in a bit.
 {: .article_paragraph }
@@ -192,11 +195,12 @@ Building onto our Behavior Resource, a type may look like:
     // Some core data shared by all persons
     id: "N-O7",
     owner: "P-881"
-    text: "This is some cool note that allows **markdown** and [redact]annotations[/redact]",
+    text: "Notes with **markdown** and [redact]annotations[/redact]",
     created_at: "12-10-2024",
     updated_at: "2-1-2025",
 }
 ```
+<br />
 
 ## Relationships
 {: .article_paragraph }
@@ -225,6 +229,7 @@ For example, the behavior from above may have these notes added via relationship
    },
 }
 ```
+<br />
 
 In this way, all the resources build a powerful graph that can be traversed. You can explore (walk) the graph from a vaccine event to an animal to their behavior to an outcome to that adopter to the pet pantry events that adopter was a part of.
 {: .article_paragraph }
@@ -250,12 +255,10 @@ Views are also related to permissions. When an adopter views an Animal resource,
 So, let's put that together with some examples. Let's look at a json representation of a behavior resource.
 {: .article_paragraph }
 
-`GET /behaviors/B-2J3K`
-{: .article_paragraph }
-
 This would be the default view with no expansions. Just using the ids to define relationships
 {: .article_paragraph }
 
+`GET /behaviors/B-2J3K`
 ```jsonc
 {
    // This ID for the Behavior Resource
@@ -288,7 +291,8 @@ This would be the default view with no expansions. Just using the ids to define 
 
    // Any notes specific to an animal in the procedure
    animal_notes: {
-      // This note is for the animal A-9, which is also referenced in the animals field
+      // This note is for the animal A-9, 
+      // which is also referenced in the animals field
       A-9: "N-D10",
    },
 
@@ -306,13 +310,12 @@ This would be the default view with no expansions. Just using the ids to define 
    }
 }
 ```
+<br />
 
 And, if we wanted to see a view on that data, it may look like:
 {: .article_paragraph }
 
 `GET /behaviors/B-2J3K/V-289CL`
-{: .article_paragraph }
-
 ```jsonc
 {
     id: "B-2J3K",
@@ -345,7 +348,7 @@ And, if we wanted to see a view on that data, it may look like:
     // Notice that we left out location, and animal notes entirely
 }
 ```
-{: .article_paragraph }
+<br />
 
 ## Overview Again 
 {: .article_subtitle }
