@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kadoo: Data Model 
+title: Kadoo -- Data Model 
 blurb: An exploration about how to better model Animal Welfare Data
 hero:
   url: /assets/images/kadoo.webp
