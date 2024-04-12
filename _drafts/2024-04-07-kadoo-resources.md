@@ -96,17 +96,20 @@ Enough chatter. Let's make a list!
 {: .article_paragraph }
 
 - [Person](#): Describes all people including staff/volunteers, partners, fosters, adopters, etc.
+- [Group](#): Collections of people like families, organizations. 
 - [Animal](#): The primary resource for a specific animal in care or contact.
-- [Behavior](#): Blah.
-- [Medical](#): Blah.
-- [Intake](#): Blah.
-- [Outcome](#): Blah.
-- [Event](#): Blah.
-- [Group](#): Blah.
-- [A](#): Blah.
-- [A](#): Blah.
-- [A](#): Blah.
-- [A](#): Blah.
+- [Behavior](#): Tests, assessments, and procedures.
+- [Medical](#): Tests, assessments, and procedures.
+- [Intake](#): Various ways an animal enters care. 
+- [Outcome](#): Various ways an animal exits care.
+- [Event](#): Organization events like adoption events, fundraisers, or education. 
+- [Partner](#): Analagous to Persons, but organizations. Other rescues, etc. 
+- [Media](#): Videos, photos, documents.
+- [Study](#): Blah.
+- [DataSet](#): Blah.
+- [Opportunity](#): Volunteer Opportunity. 
+- [Communication](#): Newsletter, Email Blast, Etc.
+- [Funding](#): Grant, scholarship, dontation . . .
 - [A](#): Blah.
 - [A](#): Blah.
 - [A](#): Blah.
@@ -139,7 +142,7 @@ Some common core data for Persons would includ:
 - Notes (via a relationship to one or more `N-` resources)
 {: .article_paragraph }
 
-For those with authentication, it would also include an `Authentication` record and various `Roles` and `Permissions`.
+:or those with authentication, it would also include an `Authentication` record and various `Roles` and `Permissions`.
 {: .article_paragraph }
 
 **Example**
@@ -164,11 +167,15 @@ For those with authentication, it would also include an `Authentication` record 
     // Includes Roles and Permissions
     authentication: {},
 
-   type: "Staff",
-
-   data: {
-        department: "Medical",
-   }
+    // some resources are allowed multiple types. Person is one of them
+    types: {
+        staff: {
+            department: "Medical"
+        },
+        foster: {
+            animals: ["cats", "dogs"]
+        }
+    }
 }
 ```
 <br />
