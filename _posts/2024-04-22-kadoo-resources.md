@@ -200,6 +200,146 @@ Groups are collections of Persons. Think families, clubs, schools, partner rescu
 ```
 <br />
 
+### Animal
+{: .article_subtitle }
+
+Animals are all non-human animals. Those in care, alumni, community, etc.
+The species would be considered "types" and each have their own data schema.
+There would be, however, common datapoints like age, name, weight, location, status, stage, etc.
+{: .article_paragraph }
+
+**Example**
+`GET /Animal/A-IKB`
+```jsonc
+{
+    name: "Kadoo",
+    age: 7,
+    weight: 11.6,
+    weight_measure: "lbs",
+    location: {
+       site: "main-campus",
+       subsite: "play-yards",
+       unit: "2"
+    },
+
+
+    // Totally fluid, tags are developed by each individual institution
+    // These could include AI generated tags
+    tags: ["behavior:active", "medical:healthy"]
+
+    // Yeah, animals can have socials. Why not?
+    socials: [
+        {platform: "facebook", identifier: "@citykitties", "url": "facebook.com/citykitties"},
+    ],
+
+    // This is where we get species
+    types: {
+        cat: {
+            breed: "domestic short hair",
+            declawed: false // Let's just end this
+        },
+    },
+
+    // These are the general notes about the animal. Basic Memos. 
+    // Each note also has a type so you can differentiate between observations, warnings, etc.
+    // It is important to note (lol) that most "notes" actually belong elsewhere.
+    // An observation about some behavior (maybe jumpy-mouthiness) would probably be best as a behavior resource, for example
+    notes: ["N-281H", "N-7KKH1"],
+
+    // And now for all the other relationships to all the other resources
+    behaviors: ["B-123", "B-8J2"],
+    medicals: ["M-U82"],
+    // And a lot more
+}
+```
+<br />
+
+### Behavior
+{: .article_subtitle }
+
+Any assessment, intervention, or observation about behavior.
+{: .article_paragraph }
+
+**Example**
+`GET /Behavior/B-861`
+```jsonc
+    // This ID for the Behavior Resource
+    id: "B-2J3K",
+
+    // Relationship to the Person Resource
+    // The Staff Person who first created this animal record
+    owner: "P-3J",
+
+    // Relationships to the Person Resource
+    // Other people who were involved
+    persons: ["P-3J", "P-K2I9"],
+
+    animals: ["A-9", "A-7AJK"]
+
+    // The date of the behavior resource
+    date: "2020-01-01",
+
+    // The location the procedure took place
+    // This is a configurable list
+    location: {
+       site: "main-campus",
+       subsite: "play-yards",
+       unit: "2"
+    },
+
+  
+    // The Note for the behavior session itself, includes all the animals
+    session_notes: "N-4CL0",
+
+    // Any notes specific to an animal in the procedure
+    animal_notes: {
+      // This note is for the animal A-9, 
+      // which is also referenced in the animals field
+      "A-9": "N-D10",
+    },
+
+    // some examples would be "Play Date", "Treatment", "Intake Assessment"
+    types: {
+        "play_date": {
+            duration_in_minutes: 30,
+            concerns: ["Barking", "Jumping", "Nipping"],
+        }
+    }
+}
+<br />
+
+### Medical
+{: .article_subtitle }
+
+Any medical intervention, treatment, assessment, vaccination, or other.
+{: .article_paragraph }
+
+**Example**
+`GET /Medical/M-441B`
+```jsonc
+{
+    persons: ["P-2817", "P-6YS"],
+    animals: ["A-7716", "A-1126"],
+    location: {
+       site: "main-campus",
+       subsite: "play-yards",
+       unit: "2"
+    },
+
+    types: {
+        vaccination: {
+            maker: "Novibram",
+            dosage: 33,
+        },
+        exam: {
+            type: "intake",
+            bcs: 5,
+        }
+    }
+}
+```
+<br />
+
 ## Conclusion and Next Steps
 {: .article_subtitle }
 This has been a messy (and hopefully not too confusing) exploration of what a data model for Animal Welfare Data could look like. This is not at all a complete example, but a simple discover of a system that could be used. 
