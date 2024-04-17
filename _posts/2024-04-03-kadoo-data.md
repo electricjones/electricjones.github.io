@@ -153,14 +153,13 @@ Building onto our Behavior Resource, a type may look like:
    // This is the type of type (type of procedure) it is
    // This is configurable
    // some examples would be "Play Date", "Treatment", "Intake Assessment"
-   type: "Play Date",
-
-   // The data is specific to the Play Date type
    // This data would be different for different kinds of types
    // The type of data presented is configurable. You can edit the schema.
-   data: {
-      "duration-in-minutes": 30,
-      concerns: ["Barking", "Jumping", "Nipping"],
+   types: {
+      play_date: {
+         duration_in_minutes: 30,
+         concerns: ["Barking", "Jumping", "Nipping"],
+      }
    }
 ```
 <br />
@@ -296,15 +295,15 @@ This would be the default view with no expansions. Just using the ids to define 
    // This is the type of type (type of procedure) it is
    // This is configurable
    // some examples would be "Play Date", "Treatment", "Intake Assessment"
-   type: "Play Date",
-
-   // The data is specific to the Play Date type
-   // This data would be different for different kinds of types
-   // The type of data presented is configurable. You can edit the schema.
-   data: {
-      "duration-in-minutes": 30,
-      concerns: ["Barking", "Jumping", "Nipping"],
-   }
+   types: {
+        "play_date": {
+            // The data is specific to the Play Date type
+            // This data would be different for different kinds of types
+            // The type of data presented is configurable. You can edit the schema.
+            duration_in_minutes: 30,
+            concerns: ["Barking", "Jumping", "Nipping"],
+        }
+    }
 }
 ```
 <br />
@@ -336,10 +335,11 @@ And, if we wanted to see a view on that data, it may look like:
         id: "N-4CL0",
         text: "These are the notes for the behavior session in general"
     },
-    type: "Play Date",
-    data: {
-        "duration-in-minutes": 30,
-        concerns: ["Barking", "Jumping", "Nipping"],
+    types: {
+        "play_date": {
+            duration_in_minutes: 30,
+            concerns: ["Barking", "Jumping", "Nipping"],
+        }
     }
 
     // Notice that we left out location, and animal notes entirely

@@ -103,13 +103,11 @@ Enough chatter. Let's make a list!
 - [Intake](#): Various ways an animal enters care. 
 - [Outcome](#): Various ways an animal exits care.
 - [Event](#): Organization events like adoption events, fundraisers, or education. 
-- [Partner](#): Analagous to Persons, but organizations. Other rescues, etc. 
-- [Media](#): Videos, photos, documents.
-- [Study](#): Blah.
-- [DataSet](#): Blah.
 - [Opportunity](#): Volunteer Opportunity. 
+- [Study](#): Research study involving people and/or animals.
+- [DataSet](#): External data set pulled in and merged or aggregated with internal data.
 - [Communication](#): Newsletter, Email Blast, Etc.
-- [Funding](#): Grant, scholarship, dontation . . .
+- [Media](#): Videos, photos, documents.
 - [A](#): Blah.
 - [A](#): Blah.
 - [A](#): Blah.
@@ -130,19 +128,7 @@ Persons are all human beings. They include (but are not limited to)
 - Any other human
 {: .article_paragraph }
 
-Each of those types of persons would have their own "type" with its own schema.
-{: .article_paragraph }
-
-Some common core data for Persons would includ:
-{: .article_paragraph }
-
-- Name, Sort Name, Nick Name, and handle (@kcolman)
-- Email Addresses, Phone Numbers, and Social Media Handles
-- Profile
-- Notes (via a relationship to one or more `N-` resources)
-{: .article_paragraph }
-
-:or those with authentication, it would also include an `Authentication` record and various `Roles` and `Permissions`.
+For those with authentication, it would also include an `Authentication` record and various `Roles`, `Permissions`, and `Teams`.
 {: .article_paragraph }
 
 **Example**
@@ -153,6 +139,7 @@ Some common core data for Persons would includ:
     sort_name: "Colman",
     nick_name: "Kayla",
     profile: "This is kayla's short profile about herself."
+    tags: ["long-time", "fear-free-certified"]
     emails: [
         {email: "kcolman@rescue.org", primary: true, verified_on: "12-02-24"},
         {email: "kayla@gmail.com", primary: false, verified_on: null},
@@ -167,14 +154,47 @@ Some common core data for Persons would includ:
     // Includes Roles and Permissions
     authentication: {},
 
-    // some resources are allowed multiple types. Person is one of them
+    // some resources are allowed multiple types. Person is one of them.
     types: {
         staff: {
-            department: "Medical"
+            department: "Medical" // data according to `staff` schema
         },
         foster: {
-            animals: ["cats", "dogs"]
+            animals: ["cats", "dogs"] // data according to `foster` schema
         }
+    }
+}
+```
+<br />
+
+### Group
+{: .article_subtitle }
+
+Groups are collections of Persons. Think families, clubs, schools, partner rescues, etc.
+{: .article_paragraph }
+
+**Example**
+`GET /Group/G-Z93`
+```jsonc
+{
+    name: "City Kitties Rescue",
+    profile: "A short profile about the rescue."
+    tags: ["transfer-partner", "adoptions-partner"]
+    emails: [
+        {email: "admin@citykitties.org", primary: true, verified_on: "12-02-24"},
+    ],
+    phones: [
+        {phone: "+1 555-666-7777", primary: true, verified_on: null},
+    ],
+    socials: [
+        {platform: "facebook", identifier: "@citykitties", "url": "facebook.com/citykitties"},
+    ],
+    notes: ["N-281H", "N-7KKH1"],
+
+    types: {
+        partner: {
+            // data according to `partner` schema
+        },
     }
 }
 ```
