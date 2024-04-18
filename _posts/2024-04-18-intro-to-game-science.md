@@ -34,13 +34,13 @@ You can also look at my ever-growing [Awesome Game Studies List](https://github.
 To make things a little simpler for me, I have divided Game Science into 5 P's. These categories are circles in a [Venn Diagrams](https://en.wikipedia.org/wiki/Venn_diagram) with many overlapping points. I think of them like **lenses** through which a topic comes into focus, or like **tags**. In fact, tags is exactly how I will use them. Each heading leads to its own tag.
 {: .article_paragraph }
 
-### Play [[gs-play]](https://electricjones.me/tag/gs-play/)
+### [Play](https://electricjones.me/tag/gs-play/) [gs-play]
 {: .article_subtitle }
 
 The Play Lens focuses on the game itself. What are the rules, mechanics, themes, experiences, and such? This would include game analysis, reviews, experiments, and play tests. Look here for articles on game design, game testing, and game taxonomy.
 {: .article_paragraph }
 
-### Production [[gs-production]](https://electricjones.me/tag/gs-production/)
+### [Production](https://electricjones.me/tag/gs-production/) [gs-production]
 {: .article_subtitle }
 
 Production focuses on the craft of actually making games. This would include everything from impromptu games of tag to party card games to triple-A video games. This is the "how do you find the assets", "programming concepts", "game balancing", and all the craft concerns that are part of making games.
