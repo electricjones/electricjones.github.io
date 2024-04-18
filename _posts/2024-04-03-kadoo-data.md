@@ -15,7 +15,7 @@ author: Michael
 1. [Kadoo, Animal Welfare Data Platform](https://electricjones.me/ecology/2024/02/25/kadoo/)
 2. [Data Model](#) < -- You are here
 
-<b><i>"Reaveal unto me the secrets of your universe."</i></b>
+<b><i>"Reveal unto me the secrets of your universe."</i></b>
 {: .article_paragraph }
 
 With the basic dream-list of an [animal welfare data management platform](https://electricjones.me/ecology/2024/02/25/kadoo/) in our pocket, let's turn our attention to what that might actually look like.
@@ -33,7 +33,7 @@ How we organize data is more important than the actual data. The data must be we
 1. Express relationships well. Build a graph so that multiple resources are connected.
 2. Allow for precise querying and updating (get exactly what you want).
 3. Have multiple entry points to any relationship graph (start your search anywhere and walk the graph).
-4. Have easily sharable and expressable ids for use in busy in-person settings.
+4. Have easily shareable and expressible ids for use in busy in-person settings.
 5. Be fit for data exchange standards. 
 {: .article_paragraph }
 
@@ -46,10 +46,10 @@ As I said, I will explore this potential standards format (with current examples
 ## Overview
 {: .article_subtitle }
 
-The core compoenets are **Resources**, which are all top level. So, a single `Animal` resource doesn't have a field on it called "vaccinations", but instead has a relationship to a top-level `Medical` resource that describes the vaccinations.
+The core components are **Resources**, which are all top level. So, a single `Animal` resource doesn't have a field on it called "vaccinations", but instead has a relationship to a top-level `Medical` resource that describes the vaccinations.
 {: .article_paragraph }
 
-Since many kinds of resources can have different shapes (medical vacinations, medical treatment, medical assesment), we have "types" to differantiate them. These types define what is special about each kind of the resource. 
+Since many kinds of resources can have different shapes (medical vaccinations, medical treatment, medical assessment), we have "types" to differentiate them. These types define what is special about each kind of the resource. 
 {: .article_paragraph }
 
 `Notes` are text notes that are their own top-level resource. `Persons` are also special top-level resources. Some of those persons also have `Authentication` records that let them login. Persons with authentications also have roles and permissions that define what they can see, update, and create. Remember that in Kadoo, many more people have Authentication than the typical staff/volunteers.
@@ -82,7 +82,7 @@ And many, many more. The purpose here is to outline the shape of the data, not i
 ### Resource IDs
 {: .article_subtitle }
 
-Each individual resource (like a specific animal or a single medical vaccination) has a unique id that is a prefix and a human readable, easily sharable id (in base36, meaning all numbers and english letters). 
+Each individual resource (like a specific animal or a single medical vaccination) has a unique id that is a prefix and a human readable, easily shareable id (in base36, meaning all numbers and English letters). 
 {: .article_paragraph }
 
 - Animal: A-2JK, A-19L, A-P688KA
@@ -92,13 +92,13 @@ Each individual resource (like a specific animal or a single medical vaccination
 I can't tell you how many times I've been working in a busy area, trying to talk about some specific animal and saying a long, complicated number or trying to spell some bizarre name. To remedy this, we use ids like the above. 
 {: .article_paragraph }
 
-This base 36 scheme allows for litterally billions of resources in only a few characters (6).
+This base 36 scheme allows for literally billions of resources in only a few characters (6).
 {: .article_paragraph }
 
 ### Core Data
 {: .article_subtitle }
 
-You'll notice that a single `Behavior` resource (for example) includes all possible behavior tests, assessments, and interventions. But a "Fearful Fido" procedure is not at all the same as an "Intake Assessment", and what's more, those protocols evolve with new research. We will discuss that flexability next, but first let's focus on what they have in common.
+You'll notice that a single `Behavior` resource (for example) includes all possible behavior tests, assessments, and interventions. But a "Fearful Fido" procedure is not at all the same as an "Intake Assessment", and what's more, those protocols evolve with new research. We will discuss that flexibilty next, but first let's focus on what they have in common.
 {: .article_paragraph }
 
 All resource have some system-wide data attached to them like the id, the resource owner, and timestamps. Beyond that, each resource will have some common, core data specific to its resource. For behavior (for example) it would include the animals involved, the people involved, and a note. More on persons and notes in a bit.
@@ -137,13 +137,13 @@ So, let's start building our example of a `Behavior` resource:
 ```
 <br />
 
-### Flexability Through Types
+### Flexibility Through Types
 {: .article_subtitle }
 
 I will start by saying I do not like the term "type" and have toyed with "instance" and "kind" but neither is quite right.
 {: .article_paragraph }
 
-Flexability happens thanks to "types" which do not have special ids, and are not directly exposed to the public. A "type" would be those "fearful fido tests" or "vaccination prodcedure"s. They specific type defines the schema that makes that individual instance of a resource unique. For example, the "vaccine procedure" type of the `Medical` resource would define data points for the vaccine(s) used, maker, and revaccination date.
+Flexibility happens thanks to "types" which do not have special ids, and are not directly exposed to the public. A "type" would be those "fearful fido tests" or "vaccination procedure"s. They specific type defines the schema that makes that individual instance of a resource unique. For example, the "vaccine procedure" type of the `Medical` resource would define data points for the vaccine(s) used, maker, and revaccination date.
 {: .article_paragraph }
 
 Building onto our Behavior Resource, a type may look like:
@@ -167,7 +167,7 @@ Building onto our Behavior Resource, a type may look like:
 ### Notes and Persons at the Heart
 {: .article_subtitle }
 
-**Persons** are (of course) people. This includes persons with authentications privelages (users like staff and volunteers) and those without. Its worth noting that in Kadoo, many more people have authentication privelages than in most systems. Because of its open nature, this includes adopters, community members, fosters, etc. Each with their own authentication, but with limited permissions.
+**Persons** are (of course) people. This includes persons with authentications privilege (users like staff and volunteers) and those without. Its worth noting that in Kadoo, many more people have authentication privilege than in most systems. Because of its open nature, this includes adopters, community members, fosters, etc. Each with their own authentication, but with limited permissions.
 {: .article_paragraph }
 
 ```jsonc
@@ -353,7 +353,7 @@ And, if we wanted to see a view on that data, it may look like:
 That was a lot. Let's just go through the overview one more time.
 {: .article_paragraph }
 
-- The core compoenets are Resources, which are all top level.
+- The core components are Resources, which are all top level.
 - Resources have "core" data that is shared by all resources of that kind (Behavior, Medical, Animal, Person)
 - Resource have "types" for the specific sub-resource kind that we're talking about (Vaccinations, Behavior Treatment, etc)
 - Notes and Persons are important resources.
