@@ -11,18 +11,18 @@ author: Michael
 This blog ([Electric Jones](http://electricjones.me)) is divided into three major categories: [Game Studies](http://electricjones.me/games), [Etcetera](http://electricjones.me/etcetera), and **[Citizen Conservation](http://electricjones.me/ecology)**. Game Studies may be self explanatory (if not take a look at its intro post), and etcetera is just a grab bag of things I'm interested in. But what is Citizen Conservation? Here, I take a quick look at what I mean by Citizen Conservation and explore a few topics I'm interested in.
 {: .article_paragraph }
 
-First, a little bit about my background. For the full story, take a look at the rest of this blog. In short, I have spent the last 30+years at the intersection of computer science, community service, and animal care. In that time, I have volunteered at dozens of site cleanups, restoration projects, conservation initiatives, and rescues. I currently spend a lot of my "free" time at the [Humane Rescue Alliance](http://humanerescuealliance.org) in Washington, D.C. as a behavior assistant, adoptions counselor, and volunteer trainer.
+First, a little bit about my background. For the full story, take a look at the rest of this blog. In short, I have spent the last 30+ years at the intersection of computer science, community service, and animal care. In that time, I have volunteered at dozens of site cleanups, restoration projects, conservation initiatives, and rescues. I currently spend a lot of my "free" time at the [Humane Rescue Alliance](http://humanerescuealliance.org) in Washington, D.C. as a behavior assistant, adoptions counselor, and volunteer trainer.
 {: .article_paragraph }
 
-I am a computer scientist for sure, but really recharge by being outside and especially in the company of non-human animals.
+I am a computer scientist for sure, but really recharge by working with human and non-human animals to improve and conserve the natural world.
 {: .article_paragraph }
 
-When first laying this research blog out, I considered a lot of titles for this category: Conservation, Ecology, Nature, etc. But none of them felt entirely right. What I really wanted to focus on is the democratization of research. Empowering everyone to engage meaningfully in conservation, both in research and in action. So, I went with "Citizen Conservation" and divide my work into some broad topics.
+When first laying this research blog out, I considered a lot of titles for this category: Conservation, Ecology, Nature, etc. But none of them felt entirely right. What I really wanted to focus on is the democratization of research and practice. Empowering everyone to engage meaningfully in conservation, both in research and in action. So, I went with "Citizen Conservation" and divide my work into some broad topics.
 {: .article_paragraph }
 
 ## Ecology
 {: .article_subtitle }
-I am certainly interested in, and do amature research concerning, **the relationships between organisms and other organisms and their environment**. I like to investigate agent-cause relationships where an intelligent agent (human or non-human) alters an environment and causes systemic changes in that environment. Everything from ant colonies to beaver dams to human construction projects. I am not a biologist and not as interested as the individual as I am the system. That probably comes from my decades in software design.
+I am certainly interested in, and do amature research concerning, **the relationships between organisms and other organisms and their environment**. I like to investigate agent-cause relationships where an intelligent agent (human or non-human) alters an environment and causes systemic changes in that environment. Everything from ant colonies to beaver dams to human construction projects. I am not a biologist. I am not as interested in the individual as I am the system. That probably comes from my decades in software design.
 {: .article_paragraph }
 
 ## Intelligence and Play
@@ -37,12 +37,12 @@ Less research and more practical, my interest in conservation is mostly in effic
 
 ## Technology
 {: .article_subtitle }
-I cannot leave technology out of this -- it is too much a part of who I am. In this case, I am interested primarily in using technology as tools for conservationist and researchers. I am not as interested in the important work of making technology more sustainable in itself.
+I cannot leave technology out of this -- it is too much a part of who I am. In this case, I am interested primarily in creating tools for conservationist and researcher. I am not as interested in the important work of making technology more sustainable in itself.
 {: .article_paragraph }
 
 ## Citizen Science
 {: .article_subtitle }
-The democratization of this work is important to me, but not in a "if we all just pitch in, it'll be fine" way. Yes, we each have a personal responsability for our interactions (both direct and indirect) with the environment, but we cannot simply "recycle" our way out of the unstastainable mess we've gotten ourselves into. My interest in [Citizen Science](http://electricjones.me/ecology/2022/05/22/scininja/) is more about the democratization of **research** than action. It allows individuals w/o full-time professions or advanced degrees to participate meaningfully in the research process. When we all take ownership of bettering our understanding of these systems, we all benefit from that knowledge and have better tools to enhance our conservation efforts.
+The democratization of this work is important to me, but not in a "we should just all pitch in" way. Yes, we each have a personal responsability for our interactions (both direct and indirect) with the environment, but we cannot simply "recycle" our way out of the unstastainable mess we've gotten ourselves into. My interest in [Citizen Science](http://electricjones.me/ecology/2022/05/22/scininja/) is more about the democratization of **research** than action. It allows individuals w/o full-time research professions or advanced degrees to participate meaningfully in the research process. When we all take ownership of bettering our understanding of these systems, we all benefit from that knowledge and have better tools to enhance our conservation efforts.
 {: .article_paragraph }
 
 ## Intersections
@@ -57,12 +57,12 @@ I spend a lot of my time working in municipal animal shelters and rescues. This 
 
 ## A Personal Note
 {: .article_subtitle }
-On a personal note, this work is very important to me. I enjoy my work in game studies and computer science because it is intellectually interesting. I enjoy my citizen conservation work because it is emotionally powerful. It is the reason I wake up most mornings, it is how I develop most of my friendships, and it is the legacy I most want to leave.
+On a personal note, this work is very important to me. I enjoy my work in game studies and computer science because it is intellectually interesting. I enjoy my citizen conservation work because it is emotionally powerful. It is the reason I wake up most mornings, how I develop most of my friendships, and is the legacy I most want to leave.
 {: .article_paragraph }
 
 On an even more personal (and fun) note, my favorite past times involve Back Country Camping and Scuba Diving.
 {: .article_paragraph }
 
-Last Updated: March 5, 2024 -- [See Changes](https://github.com/electricjones/electricjones.github.io/commits/main/_posts/2023-08-10-intro-to-citizen-conservation.md)
+Last Updated: January 19, 2025 -- [See Changes](https://github.com/electricjones/electricjones.github.io/commits/main/_posts/2023-08-10-intro-to-citizen-conservation.md)
 {: .article_paragraph }
 <br />

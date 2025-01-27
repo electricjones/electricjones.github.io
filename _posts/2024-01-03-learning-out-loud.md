@@ -44,7 +44,7 @@ I regret never sharing that journey, and I wish I had been able to see others ha
 
 ## A Framework 
 {: .article_subtitle }
-Learning Out Loud is openly documenting the learning process, sharing resources along the way, and presenting the side-steps not as mistakes, but as crucial steps long the path. You DO end with a list of resources, a path, and notes about the topic. But you also experience the joys, pains, and branching paths in real time.
+Learning Out Loud means openly documenting the learning process, sharing resources along the way, and presenting the side-steps not as mistakes, but as crucial steps long the path. You DO end with a list of resources, a path, and notes about the topic. But you also experience the joys, pains, and branching paths in real time.
 {: .article_paragraph }
 
 Note that this framework itself is a work-in-progress. I am "Learning Out Loud" what it means to "Learn Out Loud".

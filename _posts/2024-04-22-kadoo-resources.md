@@ -99,19 +99,19 @@ Enough chatter. Let's make a list!
 - [Group](#): Collections of people like families, organizations. 
 - [Animal](#): The primary resource for a specific animal in care or contact.
 - [Behavior](#): Tests, assessments, and procedures.
-- [Medical](#): Tests, assessments, and procedures.
-- [Intake](#): Various ways an animal enters care. 
-- [Outcome](#): Various ways an animal exits care.
-- [Event](#): Organization events like adoption events, fundraisers, or education. 
-- [Opportunity](#): Volunteer Opportunity. 
-- [Study](#): Research study involving people and/or animals.
-- [DataSet](#): External data set pulled in and merged or aggregated with internal data.
-- [Communication](#): Newsletter, Email Blast, Etc.
-- [Media](#): Videos, photos, documents.
-- [A](#): Blah.
-- [A](#): Blah.
-- [A](#): Blah.
+- Medical: Tests, assessments, and procedures.
+- Intake: Various ways an animal enters care. 
+- Outcome: Various ways an animal exits care.
+- Event: Organization events like adoption events, fundraisers, or education. 
+- Opportunity: Volunteer Opportunity. 
+- Study: Research study involving people and/or animals.
+- DataSet: External data set pulled in and merged or aggregated with internal data.
+- Communication: Newsletter, Email Blast, Etc.
+- Media: Videos, photos, documents.
 {: .article_paragraph }
+
+## Examples
+From here, let's detail out a few (4) resources to illustrate how these will look and how they relate. These are just examples. And it will certainly not be exhaustive.
 
 ### Person
 {: .article_subtitle }
@@ -348,10 +348,13 @@ This has been a messy (and hopefully not too confusing) exploration of what a da
 In any case, as I mentioned before, this is NOT a proposal or pitch or business plan. This is not a document about implementation. This is a space to dream.
 {: .article_paragraph }
 
+I will probably leave this hear for now. I think the next step would be to look more concretely at a development plan.
+{: .article_paragraph }
+
 <br />
 <a href="https://openai.com/research/dall-e">Post Image Created with DALLE. Temporary logo.</a>
 {: .article_paragraph }
 
-Last Updated: April 8, 2024 -- [See Changes](https://github.com/electricjones/electricjones.github.io/commits/main/_posts/2024-02-25-kadoo.md)
+Last Updated: June 30, 2024 -- [See Changes](https://github.com/electricjones/electricjones.github.io/commits/main/_posts/2024-7-30-kadoo-resources.md)
 {: .article_paragraph }
 <br />

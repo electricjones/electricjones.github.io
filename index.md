@@ -15,7 +15,7 @@ Since then I have worked in just about every area of computer science.
 As with many, making games has been a powerful expression of my computer science interest.
 <br /><br />
 
-Most of my education is actually in social science, though. 
+Most of my education is actually in social science. 
 I have a Masters in Anthropology and an M.Ed. in Educational Psychology. 
 My academic research focused around Educational Storytelling, Fan Communities, Narrative Identity, and Folklore. 
 I love people and am addicted to stories.

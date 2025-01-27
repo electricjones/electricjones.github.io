@@ -12,7 +12,7 @@ author: Michael
 This blog is divided into three major categories: [Game Studies](http://electricjones.me/games), [Citizen Conservation](http://electricjones.me/ecology), and [Etcetera](http://electricjones.me/etcetera). Let's explore what to expect from the **Game Science** section.
 {: .article_paragraph }
 
-First, let me clarify what "game" means here. I a very wide net to include puzzles, interactive play, video games, card games, and table top games. Specific articles may define game differently.
+First, let me clarify what "game" means here: a very wide net to include puzzles, interactive play, video games, card games, and table top games. Specific articles may define "game" differently.
 {: .article_paragraph }
 
 ## Game Science
@@ -43,16 +43,16 @@ The Play Lens focuses on the game itself. What are the rules, mechanics, themes,
 ### [Production](https://electricjones.me/tag/gs-production/) [gs-production]
 {: .article_subtitle }
 
-Production focuses on the craft of actually making games. This would include everything from impromptu games of tag to party card games to triple-A video games. This is the "how do you find the assets", "programming concepts", "game balancing", and all the craft concerns that are part of making games.
+Production focuses on the craft of actually making games. This would include everything from impromptu games of tag to party card games to triple-A video games. This is the "how do you find the assets", "programming concepts", "graph walking", and all the craft concerns that are part of making games.
 {: .article_paragraph }
 
 ### [People](https://electricjones.me/tag/gs-people/) [gs-people]
 {: .article_subtitle }
 
-Games are never played in a vacuum. At least by my definition they are always played by people (or sometimes non-human animals). So, the People Lens focuses on the social, cultural, and community aspects of a game. This would include indirect gaming culture like conventions, cosplay, and discussions. We look at games as ritual, games as performance, and games as folklore.
+Games are never played in a vacuum. At least by my definition, they are always played by people (or sometimes non-human animals). So, the People Lens focuses on the social, cultural, and community aspects of a game. This would include indirect gaming culture like conventions, cosplay, and discussions. We look at games as ritual, games as performance, and games as folklore.
 {: .article_paragraph }
 
-In order to separate People from the next one (Philosophy), People is more tied to the social experiences of games and less to the psychological. It looks at things from a third-person omniscient point of view, interrogating social structures and external performances. Anthropology and folklore feel at home here.
+People is more tied to the social experiences of games and less to the psychological. It looks at things from a third-person omniscient point of view, interrogating social structures and external performances. Anthropology and folklore feel at home here.
 {: .article_paragraph }
 
 ### [Philosophy](https://electricjones.me/tag/gs-philosophy/) [gs-philosophy]
@@ -102,3 +102,12 @@ This is another area that I haven't seen others speak about it quite the same wa
 
 This really ties all of the others together. Gaming is a deeply human experience. I am interested in the various ways people of various abilities have throughout time and currently experience games. This means accessibility around individual physical differences, cognitive differences, and emotional/social differences. Here I am constantly asking the question, "how can we help more people experience more games". 
 {: .article_paragraph }
+
+## A Personal Note
+{: .article_subtitle }
+Game Studies and Game Sciences are important to me. I can't even count the number of hours I have spent engaging in games or the number of friendships I have fostered around a board game. We as a society treat games as either childish or a diversion, but they allow us so much more if we just let them.
+{: .article_paragraph }
+
+Last Updated: January 19, 2025 -- [See Changes](https://github.com/electricjones/electricjones.github.io/commits/main/_posts/2024-4-18-intro-to-game-science.md)
+{: .article_paragraph }
+<br />
