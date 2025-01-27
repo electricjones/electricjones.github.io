@@ -51,7 +51,7 @@ autopages:
     # the pagination permalink path is then appended to this permalink structure
     permalink: '/:cat'
     # Optional, when true logging related to category pages will be supressed.
-    silent: true
+    silent: false
     slugify:
       mode: 'default'   # :cat is slugified. Modes: default, raw, pretty, ascii, latin
       case: true       # Whether to replace all uppercase letters with their lowercase counterparts
