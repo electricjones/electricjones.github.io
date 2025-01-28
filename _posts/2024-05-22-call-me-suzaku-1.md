@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "Narrative Identity and Anime | Part 1"
+blurb: Building a foundation in Linear Algebra and Quantum Mechanics
+hero:
+    url: /assets/images/pexels-kevin-ku-577585.jpg
+category: games
+tags: original-research narrative anime fandom popular-culture
+author: Michael
+---
+
+## Series Contents
+{: .article_subtitle }
+
+1. [Narrative Identity and Anime](#) < -- You are here
+2. [Part 2](https://electricjones.me/ecology/2024/04/03/kadoo-data/)
+
+*She sits on his knee, eyes as wide as silver dollars, full of breath caged in her tiny chest. The  girl dares not move. She dares not breathe. The story isn't over. Her father's voice is low and hushed  as he continues the tale, an ancient epic passed down through the centuries. He's heard it many  times. She's experiencing it for the first time. Her hands tremble and her heart beats fast. The chase  is on - down the streets of the kingdom and through the woods.*
+{: .article_paragraph }
+
+*Then the story ends. The glass slipper fits. The girl is saved.*
+{: .article_paragraph }
+
+*The child’s tense muscles loosen and her smile grows. Her dad laughs when she starts asking  question after question about Cinderella. She will dream about being a fairy princess. And she will  never forget the first time she heard.* 
+{: .article_paragraph }
+
+Stories hold power. They captivate our imaginations, transport us to places unseen, and let  us explore parts of ourselves otherwise forever hidden. They are great fun. But can stories be more?  Do they teach us how to act, what not to say, and how to be us? Are some narratives examples to live by, and pictures of what to avoid. Can stories effectively be used to teach, heal and  transform lives? 
+{: .article_paragraph }
+
+In this series, I share a summary of my Master's Thesis "Call Me Suzaku: An Analysis of Fandom, Narrative, and the Performance of Identity". It may not be directly related to games, but I think a lot of the proposed concepts are useful. We will explore Personal Narrative, Shared Narrative Resources, and Performative Identity -- together a proposed **Triad of Narrative Identity**. I was fortunate enough to work with an Anime Fan Club at the University of Houston to flesh out this framework. The ethographic work I did was the basis for my thesis.
+{: .article_paragraph }
+
+## Why Study Anime Fandom?
+{: .article_subtitle }
+
+Fandom offers a unique lens for studying narrative identity because it amplifies storytelling's effects. Fans celebrate narratives -— whether books, movies, or anime -— by engaging deeply with their themes, characters, and worlds. This engagement often transforms into more than admiration; it becomes a part of who they are.
+{: .article_paragraph }
+
+Anime fandom, in particular, provides a fascinating case study. Anime itself is a transcultural medium: a Japanese interpretation of Western animation that has been reabsorbed by global audiences. Fans in the United States create their own subcultures around anime, complete with unique rules, language, and rituals. They don costumes, create fan art, and form tight-knit communities, often finding a sense of belonging they might not experience elsewhere.
+{: .article_paragraph }
+
+And last, anime is just fun!
+{: .article_paragraph }
+
+## What Is Narrative Identity?
+{: .article_subtitle }
+
+Building on the work of theorists like Linde and Wertsch, I define narrative identity as the process by which individuals use stories to construct and perform their sense of self. In simpler terms, it’s how we weave elements of stories—whether fictional or real—into our own life narratives.
+{: .article_paragraph }
+
+This process involves three interconnected aspects, which form the basis of the Triad of Narrative Identity:
+{: .article_paragraph }
+
+- Narrative Resources: The elements of a story (characters, archetypes, themes) that individuals draw from.
+- Personal Identity Narratives: How individuals integrate these resources into their understanding of themselves.
+- Performative Identities: How individuals express or "perform" these identities in social contexts.
+{: .article_paragraph }
+
+Anime fans offer a rich example of this triad in action. By adopting anime archetypes or aesthetics, fans craft personal identities that they then perform at conventions, online forums, or even in their daily lives.
+{: .article_paragraph }
+
+## The Road Ahead
+{: .article_subtitle }
+
+We will go down the road a bit at a time. Here’s what to expect in future posts:
+{: .article_paragraph }
+
+- A basic review of theories of narrative.
+- A closer look at how anime fans incorporate story elements into their personal identities.
+- The performative aspect of fandom, from cosplay to online interactions.
+- Reflections on how these findings could apply beyond anime fandom, to other communities and contexts.
+{: .article_paragraph }
+
+<br />
+
+Last Updated: May 22, 2024 -- [See Changes](https://github.com/electricjones/electricjones.github.io/commits/main/_posts/2024-02-25-kadoo.md)
+{: .article_paragraph }
+<br />
