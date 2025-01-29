@@ -5,14 +5,14 @@ blurb: "A look at the first hand ethnographic experiences of anime fans."
 hero:
     url: /assets/images/anime-banner.jpg
 category: games
-tags: original-research narrative anime fandom popular-culture
+tags: original-research narrative anime fandom ethnography
 author: Michael
 ---
 
 ## Series Contents
 {: .article_subtitle }
 
-This series is a summary of my Master's Thesis [The Triad of Narrative Identity](/assets/images/Triad-of-Narrative-Identity.pdf).
+This series is a summary of my Master's Thesis [The Triad of Narrative Identity](/assets/Triad-of-Narrative-Identity.pdf) (Full Text).
 {: .article_paragraph }
 
 1. [Anime, Stories, and Identity](https://electricjones.me/games/2024/05/22/call-me-suzaku-1/)
@@ -21,11 +21,12 @@ This series is a summary of my Master's Thesis [The Triad of Narrative Identity]
 4. [Anime and the Narrative Triad](https://electricjones.me/games/2024/10/10/call-me-suzaku-4/)
 5. [Anime, Stories, and Identity Conclusion](https://electricjones.me/games/2024/12/09/call-me-suzaku-5/)
 
-<b><i>"“We are forever composing impression of ourselves, projecting a  
-definition of who we are, and making claims about ourselves and  
-the world that we test and negotiate in social interaction.” 
--- Riessman 1990:1190 "</i></b>
+<center><b><i>"Anything that’s shared is more enjoyable than alone.”</i></b></center>
 {: .article_paragraph }
+
+<p style="text-align: right;">-- Participant Katy</p>
+{: .article_paragraph }
+<hr>
 
 When we study anime fandom, we step into a vibrant world full of shared stories, creativity, and connection. This ethnographic section explores the lived experiences of anime fans, offering insight into how they "do anime" and build identities through their shared passion. 
 {: .article_paragraph }
@@ -33,31 +34,19 @@ When we study anime fandom, we step into a vibrant world full of shared stories,
 Over a year and a half of immersive fieldwork in Houston, Texas, I engaged deeply with anime fans across various settings. This included formal interviews, casual conversations, conventions, and informal gatherings. As an insider-outsider — a fan myself but not deeply entrenched — I sought to give fans a platform to tell their own stories, challenging stereotypes and highlighting the diversity of their experiences. I joined fans at conventions, meetups, casual gatherings, and clubs to understand how anime shapes their social worlds and personal narratives.  
 {: .article_paragraph }
 
-# TODO
-## Typologies of Fans  
-{: .article_subtitle }
-
-Anime fans defy easy categorization, but certain patterns emerge:  
-1. **Casual Fans**: These individuals enjoy anime but rarely engage in fan culture beyond consuming content.  
-2. **Committed Fans**: They embrace fandom as a significant part of their identity, often attending events and participating in community activities.  
-3. **Creators**: These fans take their passion further, producing fan art, fanfiction, or even cosplay designs that contribute to the broader fandom.  
-
-These categories are not rigid. Fans may shift along this spectrum, influenced by life circumstances, new discoveries, or deeper engagement with anime culture.  
-# TODO
-
 ## Social Arenas of Fandom  
 {: .article_subtitle }
 
 Anime fandom thrives in a variety of social spaces, both formal and informal. These arenas highlight the communal and performative aspects of fandom.  
 {: .article_paragraph }
 
-### 1. **Informal Gatherings**  
+### 1. Informal Gatherings  
 {: .article_subtitle }
 
 Anime happens anywhere fans connect. Conversations might start casually over a shared interest, like Robin’s chance encounter about a *Soul Eater* cosplay, or Jason’s gatherings to watch subtitled *Robotech* in the 1980s. These spontaneous interactions often deepen into broader discussions about anime culture and storytelling, with fans swapping recommendations and experiences.  
 {: .article_paragraph }
 
-### 2. **Meetups and Clubs**  
+### 2. Meetups and Clubs  
 {: .article_subtitle }
 
 Organized fan meetups bring together like-minded individuals, often through platforms like Meetup.com. For fans like Alex, these gatherings provided a lifeline during periods of transition, offering not only anime-related discussions but also a supportive community.  
@@ -66,7 +55,7 @@ Organized fan meetups bring together like-minded individuals, often through plat
 Student-led clubs, like the University of Houston’s *Anime No Kai*, combine activities like viewing parties, creative showcases, and social events. These groups also take on larger missions, such as fundraising for disaster relief, showcasing the communal and altruistic spirit within fandom.  
 {: .article_paragraph }
 
-### 3. **Conventions**  
+### 3. Conventions  
 {: .article_subtitle }
 
 Conventions represent the pinnacle of anime fandom, offering a mix of merchandise, panels, and social interaction. Fans flock to these events to "geek out without judgment," celebrate shared interests, and connect with creators and celebrities.  

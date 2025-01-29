@@ -5,14 +5,14 @@ blurb: "Conclusions and next steps for the Triad of Narrative Identity"
 hero:
     url: /assets/images/anime-banner.jpg
 category: games
-tags: original-research narrative anime fandom popular-culture
+tags: original-research narrative anime fandom ethnography
 author: Michael
 ---
 
 ## Series Contents
 {: .article_subtitle }
 
-This series is a summary of my Master's Thesis [The Triad of Narrative Identity](/assets/images/Triad-of-Narrative-Identity.pdf).
+This series is a summary of my Master's Thesis [The Triad of Narrative Identity](/assets/Triad-of-Narrative-Identity.pdf) (Full Text).
 {: .article_paragraph }
 
 1. [Anime, Stories, and Identity](https://electricjones.me/games/2024/05/22/call-me-suzaku-1/) 
@@ -21,11 +21,10 @@ This series is a summary of my Master's Thesis [The Triad of Narrative Identity]
 4. [Anime and the Narrative Triad](https://electricjones.me/games/2024/10/10/call-me-suzaku-4/)
 5. **Anime, Stories, and Identity Conclusion** < -- You are here
 
-<b><i>"“We are forever composing impression of ourselves, projecting a  
-definition of who we are, and making claims about ourselves and  
-the world that we test and negotiate in social interaction.” 
--- Riessman 1990:1190 "</i></b>
+<center><b><i>“John D. Niles called human kind Homo Narrans, or 'storytelling man.' (Niles 2010) I have
+never been more convinced of that,.”</i></b></center>
 {: .article_paragraph }
+<hr>
 
 After exploring the connections between anime, narrative, and identity, we reach the final chapter of this journey. In this post, I’ll share key conclusions from the ethnography, insights about how narrative identity functions, and reflections on the analytical framework itself. We’ll also discuss the broader applications of this work and where future exploration might take us.  
 {: .article_paragraph }

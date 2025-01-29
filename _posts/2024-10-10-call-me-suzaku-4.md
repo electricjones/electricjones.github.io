@@ -5,14 +5,14 @@ blurb: "Using the Narrative Identity Triad with anime fans."
 hero:
     url: /assets/images/anime-banner.jpg
 category: games
-tags: original-research narrative anime fandom popular-culture
+tags: original-research narrative anime fandom ethnography
 author: Michael
 ---
 
 ## Series Contents
 {: .article_subtitle }
 
-This series is a summary of my Master's Thesis [The Triad of Narrative Identity](/assets/images/Triad-of-Narrative-Identity.pdf).
+This series is a summary of my Master's Thesis [The Triad of Narrative Identity](/assets/Triad-of-Narrative-Identity.pdf) (Full Text).
 {: .article_paragraph }
 
 1. [Anime, Stories, and Identity](https://electricjones.me/games/2024/05/22/call-me-suzaku-1/)
@@ -21,11 +21,11 @@ This series is a summary of my Master's Thesis [The Triad of Narrative Identity]
 4. **Anime and the Narrative Triad** < -- You are here
 5. [Anime, Stories, and Identity Conclusion](https://electricjones.me/games/2024/12/09/call-me-suzaku-5/)
 
-<b><i>"“We are forever composing impression of ourselves, projecting a  
-definition of who we are, and making claims about ourselves and  
-the world that we test and negotiate in social interaction.” 
--- Riessman 1990:1190 "</i></b>
+<center><b><i>“Sometimes I have to say 'it’s an anime thing', but if you are one fo us, you know!.””</i></b></center>
 {: .article_paragraph }
+
+<p style="text-align: right;">-- Participant Robin</p>
+<hr>
 
 What does it mean to live through stories? For anime fans, it’s not just about watching their favorite shows—it’s about weaving elements of those stories into their personal and social identities. In this post, we’ll dive into how anime fans draw on narrative resources, build personal identity narratives, and perform these identities in social settings.  
 {: .article_paragraph }

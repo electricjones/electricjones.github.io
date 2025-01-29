@@ -12,7 +12,7 @@ author: Michael
 ## Series Contents
 {: .article_subtitle }
 
-This series is a summary of my Master's Thesis [The Triad of Narrative Identity](/assets/images/Triad-of-Narrative-Identity.pdf).
+This series is a summary of my Master's Thesis [The Triad of Narrative Identity](/assets/Triad-of-Narrative-Identity.pdf) (Full Text).
 {: .article_paragraph }
 
 1. **Anime, Stories, and Identity** < -- You are here
@@ -21,10 +21,14 @@ This series is a summary of my Master's Thesis [The Triad of Narrative Identity]
 4. [Anime and the Narrative Triad](https://electricjones.me/games/2024/10/10/call-me-suzaku-4/)
 5. [Anime, Stories, and Identity Conclusion](https://electricjones.me/games/2024/12/09/call-me-suzaku-5/)
 
-*She sits on his knee, eyes as wide as silver dollars, full of breath caged in her chest. The  girl dares not move. She dares not breathe. The story isn't over. 
+<center><b><i>"We are the stories we tell."</i></b></center>
+{: .article_paragraph }
+<hr>
+
+*She sits on his knee, eyes as wide as silver dollars, full of breath caged in her chest. The  girl dares not move. She dares not breathe. The story isn't over.* 
 {: .article_paragraph }
 
-Her father's voice is low and hushed  as he continues the tale, an ancient epic passed down through the centuries. He's heard it many  times. She's experiencing it for the first. Her hands tremble and her heart beats fast. The chase  is on - down the streets of the kingdom and through the woods.*
+*Her father's voice is low and hushed  as he continues the tale, an ancient epic passed down through the centuries. He's heard it many  times. She's experiencing it for the first. Her hands tremble and her heart beats fast. The chase  is on - down the streets of the kingdom and through the woods.*
 {: .article_paragraph }
 
 *Then the story ends. The glass slipper fits. The girl is saved.*
@@ -42,7 +46,7 @@ In this series, I share a summary of my Master's Thesis "Call Me Suzaku: An Anal
 ## Why Study Anime Fandom?
 {: .article_subtitle }
 
-*I first want to note that anytime I refer to "Anime Fans", I am speaking of the ethographic work I conducted with a specific fan club in Houston, Texas. Many of the priniples can be generalized, but it is never fair to paint such a broad and diverse group with such a simple brush.*
+I first want to note that anytime I refer to "Anime Fans", I am speaking of the ethographic work I conducted with a specific fan club in Houston, Texas. Many of the priniples can be generalized, but it is never fair to paint such a broad and diverse group with such a simple brush.
 {: .article_subtitle }
 
 Fandom offers a unique lens for studying narrative identity because it amplifies storytelling's effects. Fans celebrate narratives -— whether books, movies, or anime -— by engaging deeply with their themes, characters, and worlds. This engagement often transforms into more than admiration; it becomes a part of who they are.
@@ -57,7 +61,7 @@ And last, anime is just fun!
 ## What Is Narrative Identity?
 {: .article_subtitle }
 
-Building on the work of theorists like **Linde** and **Wertsch**, I define narrative identity as the process by which individuals use stories to construct and perform their sense of self. In simpler terms, it’s how we weave elements of stories—whether fictional or real—into our own life narratives.
+Building on the work of theorists like [**Linde**](#footnotes) and [**Wertsch**](#footnotes), I define narrative identity as the process by which individuals use stories to construct and perform their sense of self. In simpler terms, it’s how we weave elements of stories—whether fictional or real—into our own life narratives.
 {: .article_paragraph }
 
 This process involves three interconnected aspects, which form the basis of the Triad of Narrative Identity:
@@ -81,5 +85,21 @@ We will go down the road a bit at a time. Here’s what to expect in future post
 - A closer look at how anime fans incorporate story elements into their personal identities.
 - The performative aspect of fandom, from cosplay to online interactions.
 - Reflections on how these findings could apply beyond anime fandom, to other communities and contexts.
+{: .article_paragraph }
+
+## Footnotes
+<a name="footnotes"></a>
+**Wertsch, James V.**
+{: .article_paragraph }
+
+- 2000 Narratives as Cultural Tools in Sociocultural Analysis: Official History in Soviet and PostSoviet Russia. Ethos 28(4): 511–533.
+- 2008 The Narrative Organization of Collective Memory. Ethos 36(1): 120–135.
+{: .article_paragraph }
+
+**Linde, Charlotte**
+{: .article_paragraph }
+
+- 2000 The Acquisition of a Speaker by a Story: How History Becomes Memory and Identity. Ethos 28(4): 608–632.
+- 2003 Narrative in Institutions. In Handbook of Discourse Analysis. 1st edition. D. Schiffrin, D. Tannen, and H. Hamilton, ed. Blackwell Publishing Ltd.
 {: .article_paragraph }
 <br />

@@ -5,14 +5,14 @@ blurb: A proposed framework for analyzing Narrative and Identity, with an ethnog
 hero:
     url: /assets/images/anime-banner.jpg
 category: games
-tags: original-research narrative anime fandom popular-culture
+tags: original-research narrative anime fandom ethnography
 author: Michael
 ---
 
 ## Series Contents
 {: .article_subtitle }
 
-This series is a summary of my Master's Thesis [The Triad of Narrative Identity](/assets/images/Triad-of-Narrative-Identity.pdf).
+This series is a summary of my Master's Thesis [The Triad of Narrative Identity](/assets/Triad-of-Narrative-Identity.pdf) (Full Text).
 {: .article_paragraph }
 
 1. [Anime, Stories, and Identity](https://electricjones.me/games/2024/05/22/call-me-suzaku-1/) 
@@ -21,12 +21,12 @@ This series is a summary of my Master's Thesis [The Triad of Narrative Identity]
 4. [Anime and the Narrative Triad](https://electricjones.me/games/2024/10/10/call-me-suzaku-4/)
 5. [Anime, Stories, and Identity Conclusion](https://electricjones.me/games/2024/12/09/call-me-suzaku-5/)
 
-
-<b><i>"“We are forever composing impression of ourselves, projecting a  
-definition of who we are, and making claims about ourselves and  
-the world that we test and negotiate in social interaction.” 
--- Riessman 1990:1190 "</i></b>
+<center><b><i>"“We are forever composing impression of ourselves, projecting a definition of who we are, and making claims about ourselves and the world that we test and negotiate in social interaction.”</i></b></center>
 {: .article_paragraph }
+
+<p style="text-align: right;">-- Riessman 1990:1190</p>
+{: .article_paragraph }
+<hr>
 
 Our identities are shaped by the stories we tell ourselves, the narratives we adopt from the world around us, and the ways we perform those identities in our social circles. In this post, we’ll explore the Triad of Narrative Identity, an analytical framework that connects personal identity, performance, and shared narrative resources. Using examples from anime fandom, this framework reveals how stories not only reflect who we are but also shape how we present ourselves to others.
 {: .article_paragraph }
