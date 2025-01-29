@@ -26,7 +26,7 @@ This series is a summary of my Master's Thesis [The Triad of Narrative Identity]
 
 <p style="text-align: right;">-- Participant Katy</p>
 {: .article_paragraph }
-<hr>
+<hr><br>
 
 When we study anime fandom, we step into a vibrant world full of shared stories, creativity, and connection. This ethnographic section explores the lived experiences of anime fans, offering insight into how they "do anime" and build identities through their shared passion. 
 {: .article_paragraph }
@@ -114,4 +114,6 @@ This post only scratches the surface of the rich ethnographic data gathered duri
 
 I may also return to this topic in future posts, breaking down specific aspects of the ethnography—such as cosplay or conventions—for further exploration.  
 {: .article_paragraph }
+
+**Next up** is [Anime and the Narrative Triad](https://electricjones.me/games/2024/10/10/call-me-suzaku-4/)
 <br />

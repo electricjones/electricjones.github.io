@@ -21,11 +21,11 @@ This series is a summary of my Master's Thesis [The Triad of Narrative Identity]
 4. **Anime and the Narrative Triad** < -- You are here
 5. [Anime, Stories, and Identity Conclusion](https://electricjones.me/games/2024/12/09/call-me-suzaku-5/)
 
-<center><b><i>“Sometimes I have to say 'it’s an anime thing', but if you are one fo us, you know!.””</i></b></center>
+<center><b><i>“Sometimes I have to say 'it’s an anime thing', but if you are one fo us, you know!””</i></b></center>
 {: .article_paragraph }
 
 <p style="text-align: right;">-- Participant Robin</p>
-<hr>
+<hr><br>
 
 What does it mean to live through stories? For anime fans, it’s not just about watching their favorite shows—it’s about weaving elements of those stories into their personal and social identities. In this post, we’ll dive into how anime fans draw on narrative resources, build personal identity narratives, and perform these identities in social settings.  
 {: .article_paragraph }
@@ -140,4 +140,7 @@ Anime fandom is more than a hobby; it’s a dynamic space where stories and iden
 
 If you’re a game designer, educator, or storyteller, consider how your narratives might serve as resources for identity construction. The symbols you create could help someone find themselves—or even find each other.  
 {: .article_paragraph }
+
+**The conclusion** is [Anime, Stories, and Identity Conclusion](https://electricjones.me/games/2024/12/09/call-me-suzaku-5/)
+
 <br />

@@ -21,10 +21,10 @@ This series is a summary of my Master's Thesis [The Triad of Narrative Identity]
 4. [Anime and the Narrative Triad](https://electricjones.me/games/2024/10/10/call-me-suzaku-4/)
 5. **Anime, Stories, and Identity Conclusion** < -- You are here
 
-<center><b><i>“John D. Niles called human kind Homo Narrans, or 'storytelling man.' (Niles 2010) I have
+<center><b><i>“Anthropologist John Niles called human kind Homo Narrans, or 'storytelling man.' I have
 never been more convinced of that,.”</i></b></center>
 {: .article_paragraph }
-<hr>
+<hr><br>
 
 After exploring the connections between anime, narrative, and identity, we reach the final chapter of this journey. In this post, I’ll share key conclusions from the ethnography, insights about how narrative identity functions, and reflections on the analytical framework itself. We’ll also discuss the broader applications of this work and where future exploration might take us.  
 {: .article_paragraph }

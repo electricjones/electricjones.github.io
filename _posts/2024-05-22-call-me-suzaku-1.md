@@ -23,7 +23,7 @@ This series is a summary of my Master's Thesis [The Triad of Narrative Identity]
 
 <center><b><i>"We are the stories we tell."</i></b></center>
 {: .article_paragraph }
-<hr>
+<hr><br>
 
 *She sits on his knee, eyes as wide as silver dollars, full of breath caged in her chest. The  girl dares not move. She dares not breathe. The story isn't over.* 
 {: .article_paragraph }
@@ -47,7 +47,7 @@ In this series, I share a summary of my Master's Thesis "Call Me Suzaku: An Anal
 {: .article_subtitle }
 
 I first want to note that anytime I refer to "Anime Fans", I am speaking of the ethographic work I conducted with a specific fan club in Houston, Texas. Many of the priniples can be generalized, but it is never fair to paint such a broad and diverse group with such a simple brush.
-{: .article_subtitle }
+{: .article_paragraph }
 
 Fandom offers a unique lens for studying narrative identity because it amplifies storytelling's effects. Fans celebrate narratives -— whether books, movies, or anime -— by engaging deeply with their themes, characters, and worlds. This engagement often transforms into more than admiration; it becomes a part of who they are.
 {: .article_paragraph }
@@ -86,6 +86,8 @@ We will go down the road a bit at a time. Here’s what to expect in future post
 - The performative aspect of fandom, from cosplay to online interactions.
 - Reflections on how these findings could apply beyond anime fandom, to other communities and contexts.
 {: .article_paragraph }
+
+**Next up** is [Triad of Narrative Identity](https://electricjones.me/games/2024/07/01/call-me-suzaku-2/)
 
 ## Footnotes
 <a name="footnotes"></a>

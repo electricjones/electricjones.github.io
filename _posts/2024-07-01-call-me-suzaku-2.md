@@ -26,7 +26,7 @@ This series is a summary of my Master's Thesis [The Triad of Narrative Identity]
 
 <p style="text-align: right;">-- Riessman 1990:1190</p>
 {: .article_paragraph }
-<hr>
+<hr><br>
 
 Our identities are shaped by the stories we tell ourselves, the narratives we adopt from the world around us, and the ways we perform those identities in our social circles. In this post, we’ll explore the Triad of Narrative Identity, an analytical framework that connects personal identity, performance, and shared narrative resources. Using examples from anime fandom, this framework reveals how stories not only reflect who we are but also shape how we present ourselves to others.
 {: .article_paragraph }
@@ -43,9 +43,9 @@ At its core, narrative identity is the interplay between storytelling and identi
 Anthropologist Erving Goffman described how individuals use “symbolic clues,” like conduct, clothing, and speech, to express themselves and influence how others perceive them. This idea forms the basis of the Triad of Narrative Identity, which consists of three interconnected elements:
 {: .article_paragraph }
 
-- Narrative Resources: The shared stories, symbols, and archetypes that we draw from.
-- Personal Identity Narratives: The internal stories we tell ourselves about who we are.
-- Performative Identities: The outward expressions of identity that others observe and interpret.
+- **Narrative Resources**: The shared stories, symbols, and archetypes that we draw from.
+- **Personal Identity Narratives**: The internal stories we tell ourselves about who we are.
+- **Performative Identities**: The outward expressions of identity that others observe and interpret.
 {: .article_paragraph }
 
 Together, these elements create a feedback loop: we draw on narrative resources to shape our personal identity, which influences how we perform that identity in social settings. The reactions we receive then shape how we refine and adapt our personal narrative.
@@ -126,3 +126,6 @@ We are all storytellers, crafting narratives to make sense of our lives. Whether
 The next time you see someone donning a cosplay outfit, performing a gesture, or telling a story, remember: they’re not just expressing themselves—they’re participating in the ongoing process of narrative identity.
 {: .article_paragraph }
 <br />
+
+**Next up** is [Ethnography of Anime Fans](https://electricjones.me/games/2024/08/13/call-me-suzaku-3/)
+
