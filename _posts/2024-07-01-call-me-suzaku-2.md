@@ -1,73 +1,130 @@
 ---
 layout: post
-title:  "Narrative Identity and Anime | Part 1"
-blurb: Building a foundation in Linear Algebra and Quantum Mechanics
+title:  "The Triad of Narrative Identity | Thesis Part 2"
+blurb: A proposed framework for analyzing Narrative and Identity, with an ethnograpy of an Anime Fan Club.
 hero:
     url: /assets/images/pexels-kevin-ku-577585.jpg
 category: games
 tags: original-research narrative anime fandom popular-culture
 author: Michael
-
 ---
 
 ## Series Contents
 {: .article_subtitle }
 
-1. [Narrative Identity and Anime](#) < -- You are here
-2. [Part 2](https://electricjones.me/ecology/2024/04/03/kadoo-data/)
-
-<b><i>"A paw, a feather, a fin, and a friend."</i></b>
+This series is a summary of my Master's Thesis [The Triad of Narrative Identity](/assets/images/Triad-of-Narrative-Identity.pdf).
 {: .article_paragraph }
 
-Stories captivate us. They take us on journeys, help us imagine new possibilities, and sometimes even change how we see ourselves. But can stories do more? Can they teach us how to act, how to be, and even who to become? This is the foundation of my exploration into narrative identity, a concept that examines how stories shape, guide, and reflect who we are.
+1. [Anime, Stories, and Identity](https://electricjones.me/games/2024/05/22/call-me-suzaku-1/) 
+2. **Triad of Narrative Identity** < -- You are here
+3. [Ethnography of Anime Fans](https://electricjones.me/games/2024/08/13/call-me-suzaku-3/)
+4. [Anime and the Narrative Triad](https://electricjones.me/games/2024/10/10/call-me-suzaku-4/)
+5. [Anime, Stories, and Identity Conclusion](https://electricjones.me/games/2024/12/09/call-me-suzaku-5/)
 
-In this series, we’ll look at how anime fandom serves as a vibrant example of narrative identity in action. Using ethnographic methods and an analytical framework I call the Triad of Narrative Identity, I explore how fans of Japanese animation incorporate elements of anime into their personal narratives and perform those identities in everyday life.
 
-Let’s start with some key ideas.
+<b><i>"“We are forever composing impression of ourselves, projecting a  
+definition of who we are, and making claims about ourselves and  
+the world that we test and negotiate in social interaction.” 
+-- Riessman 1990:1190 "</i></b>
+{: .article_paragraph }
 
-## The Power of Stories
-Stories have been a part of humanity since before we had written language. Anthropologist John Niles famously called us Homo Narrans—the storytelling species. Stories give meaning to our world. They are more than entertainment; they can teach us, shape our behavior, and help us manage our identities.
+Our identities are shaped by the stories we tell ourselves, the narratives we adopt from the world around us, and the ways we perform those identities in our social circles. In this post, we’ll explore the Triad of Narrative Identity, an analytical framework that connects personal identity, performance, and shared narrative resources. Using examples from anime fandom, this framework reveals how stories not only reflect who we are but also shape how we present ourselves to others.
+{: .article_paragraph }
 
-The idea that stories guide us isn’t new. Thinkers like Joseph Campbell and Carl Jung emphasized the importance of mythic archetypes as blueprints for behavior and transformation. Charlotte Linde took this further, showing how narratives shape identity in her study of an American insurance company. Similarly, James Wertsch explored how narratives are carried within a group’s collective memory, becoming shared tools for making sense of the world.
+Let’s break it down.
+{: .article_paragraph }
 
-These scholars laid the groundwork for understanding how stories influence personal and social identity. But how does this work in practice?
+## What is Narrative Identity?
+{: .article_subtitle }
 
-## Why Study Anime Fandom?
-Fandom offers a unique lens for studying narrative identity because it amplifies storytelling's effects. Fans celebrate narratives—whether books, movies, or anime—by engaging deeply with their themes, characters, and worlds. This engagement often transforms into more than admiration; it becomes a part of who they are.
+At its core, narrative identity is the interplay between storytelling and identity. It’s the process by which we use narratives—whether fictional or real—to construct and project who we are. In this context, identity isn’t fixed; it’s fluid, socially constructed, and shaped by the stories we embrace.
+{: .article_paragraph }
 
-Anime fandom, in particular, provides a fascinating case study. Anime itself is a transcultural medium: a Japanese interpretation of Western animation that has been reabsorbed by global audiences. Fans in the United States create their own subcultures around anime, complete with unique rules, language, and rituals. They don costumes, create fan art, and form tight-knit communities, often finding a sense of belonging they might not experience elsewhere.
+Anthropologist Erving Goffman described how individuals use “symbolic clues,” like conduct, clothing, and speech, to express themselves and influence how others perceive them. This idea forms the basis of the Triad of Narrative Identity, which consists of three interconnected elements:
+{: .article_paragraph }
 
-For many, anime fandom is more than a hobby; it’s an identity.
+- Narrative Resources: The shared stories, symbols, and archetypes that we draw from.
+- Personal Identity Narratives: The internal stories we tell ourselves about who we are.
+- Performative Identities: The outward expressions of identity that others observe and interpret.
+{: .article_paragraph }
 
-## What Is Narrative Identity?
-Building on the work of theorists like Linde and Wertsch, I define narrative identity as the process by which individuals use stories to construct and perform their sense of self. In simpler terms, it’s how we weave elements of stories—whether fictional or real—into our own life narratives.
+Together, these elements create a feedback loop: we draw on narrative resources to shape our personal identity, which influences how we perform that identity in social settings. The reactions we receive then shape how we refine and adapt our personal narrative.
+{: .article_paragraph }
 
-This process involves three interconnected aspects, which form the basis of the Triad of Narrative Identity:
+### Narrative Resources: The Tools of Identity
+{: .article_subtitle }
 
-- Narrative Resources: The elements of a story (characters, archetypes, themes) that individuals draw from.
-- Personal Identity Narratives: How individuals integrate these resources into their understanding of themselves.
-- Performative Identities: How individuals express or "perform" these identities in social contexts.
+Imagine a toolbox filled with symbols, gestures, archetypes, and cultural references. These are narrative resources—the raw materials we use to construct and perform our identities. They are shared within a group, forming a common language for interpreting and expressing identity.
+{: .article_paragraph }
 
-Anime fans offer a rich example of this triad in action. By adopting anime archetypes or aesthetics, fans craft personal identities that they then perform at conventions, online forums, or even in their daily lives.
+For example, anime fans might draw on visual tropes like vibrant hair colors or exaggerated gestures, as well as archetypes like the “hero” or “free spirit,” to signal their connection to anime culture. These resources don’t just represent ideas; they carry symbolic weight that both performers and audiences understand.
+{: .article_paragraph }
 
-## The Role of Globalization
-Anime’s journey from Japan to the West highlights the power of narrative as a cultural bridge. Originally influenced by Western animation, Japanese anime evolved into a distinct art form characterized by vibrant visuals, exaggerated expressions, and rich storytelling. Over time, it was reintroduced to global audiences, sparking a cultural exchange that continues to thrive.
+Brands, too, serve as narrative resources. In advertising, products are imbued with symbolic meaning. A consumer doesn’t just buy a pair of sneakers—they buy into a narrative of athleticism or creativity. Similarly, anime fans adopt symbols from the medium to align themselves with specific characters, genres, or values.
+{: .article_paragraph }
 
-This back-and-forth flow of influence makes anime fandom a prime example of how narratives transcend borders and create new, hybrid identities. Fans often see themselves not just as consumers but as participants in this cultural exchange.
+### Personal Identity Narratives: The Stories We Tell Ourselves
+{: .article_subtitle }
 
-## The Road Ahead
-In this series, I’ll use anime fandom as a case study to explore the relationship between storytelling and identity. Specifically, we’ll examine how anime narratives provide resources for fans to construct and perform their identities. Along the way, I’ll share ethnographic insights and test the Triad of Narrative Identity framework to see how well it explains these phenomena.
+Our personal identity narratives are the internal stories we use to make sense of who we are. These narratives are deeply influenced by the cultural and symbolic resources we encounter.
+{: .article_paragraph }
 
-Here’s what to expect in future posts:
+Take Taylor, an anime fan who identifies with the archetype of the “Creative Free Spirit Girl” — a common character type in anime. This archetype represents someone who is imaginative, independent, and resourceful. Taylor incorporates this archetype into her personal narrative, seeing herself as creative, fun, and problem-solving.
+{: .article_paragraph }
 
-- A closer look at how anime fans incorporate story elements into their personal identities.
-- The performative aspect of fandom, from cosplay to online interactions.
-- Reflections on how these findings could apply beyond anime fandom, to other communities and contexts.
+This isn’t just a passive process. Taylor actively selects elements from the narrative resources available to her and integrates them into her self-concept. This internal narrative shapes how she thinks about herself and how she wants to be perceived by others.
+{: .article_paragraph }
+
+### Performative Identities: What We Show Others
+{: .article_subtitle }
+
+If personal identity is the story we tell ourselves, then performative identity is the story we tell the world. Performative identity involves expressing who we are through actions, symbols, and behaviors that others can interpret.
+{: .article_paragraph }
+
+Returning to Taylor, she doesn’t just think of herself as a creative free spirit; she performs it. One way she does this is through a specific gesture known as the “slide-in surprised” movement — a dramatic, exaggerated entrance common in anime. When Taylor performs this gesture, complete with a sound effect, she sends a clear message to fellow anime fans: “I’m one of you.”
+{: .article_paragraph }
+
+Even when Taylor is around non-anime fans, her performative identity doesn’t disappear. She explains the gesture as “an anime thing,” subtly signaling her fandom while adjusting for an audience unfamiliar with the context. This highlights how performative identity adapts based on social context while still drawing on the same narrative resources.
+{: .article_paragraph }
+
+## The Feedback Loop
+{: .article_subtitle }
+
+The Triad of Narrative Identity operates as a dynamic, iterative process:
+{: .article_paragraph }
+
+1. Drawing from Resources: Narrative resources provide the raw material for identity construction.
+2. Constructing Personal Narratives: Individuals create internal stories about who they are.
+3. Performing Identity: These narratives are expressed through actions, symbols, and behaviors.
+4. Audience Feedback: Others interpret the performance and provide feedback, either reinforcing or challenging the narrative.
+5. Adapting the Narrative: This feedback influences how individuals refine their personal and performative identities.
+{: .article_paragraph }
+
+This process is ongoing, with each stage shaping and reshaping the others.
+{: .article_paragraph }
 
 ## Why It Matters
-Stories aren’t just a way to escape reality; they’re tools for shaping it. By understanding how narratives influence identity, we can unlock their potential for education, therapy, and social transformation. Whether you’re a game designer crafting immersive worlds or an academic studying cultural exchange, the principles of narrative identity can offer fresh perspectives and insights.
+{: .article_subtitle }
 
-So, how do stories shape you? And how can you use them to shape others? Stay tuned as we explore the fascinating interplay of narrative, identity, and performance through the lens of anime fandom.
+The Triad of Narrative Identity isn’t just an abstract concept. It has real-world implications for understanding how people navigate identity in social contexts. For example:
+{: .article_paragraph }
+
+- In Education: Understanding how students use narrative resources can inform teaching strategies that resonate with their identities.
+- In Gaming: Game designers can create richer, more engaging worlds by embedding narrative resources that players can adopt and personalize.
+- In Therapy: Exploring personal and performative identities can help individuals make sense of their experiences and find new ways to express themselves.
+{: .article_paragraph }
+
+Anime fandom offers a particularly vivid example of this framework in action, but the principles apply to any context where stories and identity intersect.
+{: .article_paragraph }
+
+## A Closing Thought
+{: .article_subtitle }
+
+We are all storytellers, crafting narratives to make sense of our lives. Whether we draw on archetypes from anime, symbolic brands, or cultural traditions, these stories help us define who we are and connect with others.
+{: .article_paragraph }
+
+The next time you see someone donning a cosplay outfit, performing a gesture, or telling a story, remember: they’re not just expressing themselves—they’re participating in the ongoing process of narrative identity.
+{: .article_paragraph }
 
 <br />
 <a href="https://openai.com/research/dall-e">Post Image Created with DALLE. Temporary logo.</a>

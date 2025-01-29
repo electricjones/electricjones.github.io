@@ -38,6 +38,9 @@ musings:
 out-loud:
   color: green
   description: My projects and education experiences where I am learning in a transparent way. See index post. 
+original-research:
+  color: red
+  description: My original research projects and papers.
 
 # Etcetera Tags and Computer Science
 rust:
@@ -96,3 +99,16 @@ gs-accessibility:
   color: blue
   description: Gaming accessibility, empowering all player of games.
 
+# Other Research Topics
+narrative:
+  color: yellow
+  description: Topics related to narrative as a meaning structure.
+anime:
+  color: red
+  description: All things anime and awesome.
+fandom:
+  color: green
+  description: Research concerning fandom, communities, and popular culture.
+ethnography:
+  color: green
+  description: Musing about ethnographic research and original ethography.
