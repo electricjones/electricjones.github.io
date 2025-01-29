@@ -3,7 +3,7 @@ layout: post
 title:  "Anime, Stories, and Identity | Thesis Part 1"
 blurb: "A new series exploring an original ethography of anime fans."
 hero:
-    url: /assets/images/pexels-kevin-ku-577585.jpg
+    url: /assets/images/anime-banner.jpg
 category: games
 tags: series original-research narrative anime fandom ethnography
 author: Michael
@@ -81,10 +81,5 @@ We will go down the road a bit at a time. Here’s what to expect in future post
 - A closer look at how anime fans incorporate story elements into their personal identities.
 - The performative aspect of fandom, from cosplay to online interactions.
 - Reflections on how these findings could apply beyond anime fandom, to other communities and contexts.
-{: .article_paragraph }
-
-<br />
-
-Last Updated: May 22, 2024 -- [See Changes](https://github.com/electricjones/electricjones.github.io/commits/main/_posts/2024-02-25-kadoo.md)
 {: .article_paragraph }
 <br />

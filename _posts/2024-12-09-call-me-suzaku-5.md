@@ -3,7 +3,7 @@ layout: post
 title:  "Anime, Stories, and Identity Conclusion | Thesis Part 5"
 blurb: "Conclusions and next steps for the Triad of Narrative Identity"
 hero:
-    url: /assets/images/pexels-kevin-ku-577585.jpg
+    url: /assets/images/anime-banner.jpg
 category: games
 tags: original-research narrative anime fandom popular-culture
 author: Michael
@@ -137,12 +137,5 @@ As storytellers, educators, or simply fellow humans, we can learn from their exa
 {: .article_paragraph }
 
 If you’re curious to explore this topic further, download the full thesis for more examples, case studies, and insights into the fascinating interplay of narrative, identity, and performance.  
-{: .article_paragraph }
-
-<br />
-<a href="https://openai.com/research/dall-e">Post Image Created with DALLE. Temporary logo.</a>
-{: .article_paragraph }
-
-Last Updated: May 22, 2024 -- [See Changes](https://github.com/electricjones/electricjones.github.io/commits/main/_posts/2024-02-25-kadoo.md)
 {: .article_paragraph }
 <br />

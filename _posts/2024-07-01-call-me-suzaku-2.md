@@ -3,7 +3,7 @@ layout: post
 title:  "The Triad of Narrative Identity | Thesis Part 2"
 blurb: A proposed framework for analyzing Narrative and Identity, with an ethnograpy of an Anime Fan Club.
 hero:
-    url: /assets/images/pexels-kevin-ku-577585.jpg
+    url: /assets/images/anime-banner.jpg
 category: games
 tags: original-research narrative anime fandom popular-culture
 author: Michael
@@ -124,12 +124,5 @@ We are all storytellers, crafting narratives to make sense of our lives. Whether
 {: .article_paragraph }
 
 The next time you see someone donning a cosplay outfit, performing a gesture, or telling a story, remember: they’re not just expressing themselves—they’re participating in the ongoing process of narrative identity.
-{: .article_paragraph }
-
-<br />
-<a href="https://openai.com/research/dall-e">Post Image Created with DALLE. Temporary logo.</a>
-{: .article_paragraph }
-
-Last Updated: May 22, 2024 -- [See Changes](https://github.com/electricjones/electricjones.github.io/commits/main/_posts/2024-02-25-kadoo.md)
 {: .article_paragraph }
 <br />

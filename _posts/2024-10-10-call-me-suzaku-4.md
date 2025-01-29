@@ -3,7 +3,7 @@ layout: post
 title:  "Anime and the Narative Triad | Thesis Part 4"
 blurb: "Using the Narrative Identity Triad with anime fans."
 hero:
-    url: /assets/images/pexels-kevin-ku-577585.jpg
+    url: /assets/images/anime-banner.jpg
 category: games
 tags: original-research narrative anime fandom popular-culture
 author: Michael
@@ -139,12 +139,5 @@ Anime fandom is more than a hobby; it’s a dynamic space where stories and iden
 {: .article_paragraph }
 
 If you’re a game designer, educator, or storyteller, consider how your narratives might serve as resources for identity construction. The symbols you create could help someone find themselves—or even find each other.  
-{: .article_paragraph }
-
-<br />
-<a href="https://openai.com/research/dall-e">Post Image Created with DALLE. Temporary logo.</a>
-{: .article_paragraph }
-
-Last Updated: May 22, 2024 -- [See Changes](https://github.com/electricjones/electricjones.github.io/commits/main/_posts/2024-02-25-kadoo.md)
 {: .article_paragraph }
 <br />

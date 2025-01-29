@@ -3,7 +3,7 @@ layout: post
 title:  "Enthography of Anime Fans | Thesis Part 3"
 blurb: "A look at the first hand ethnographic experiences of anime fans." 
 hero:
-    url: /assets/images/pexels-kevin-ku-577585.jpg
+    url: /assets/images/anime-banner.jpg
 category: games
 tags: original-research narrative anime fandom popular-culture
 author: Michael
@@ -124,12 +124,5 @@ This post only scratches the surface of the rich ethnographic data gathered duri
 {: .article_paragraph }
 
 I may also return to this topic in future posts, breaking down specific aspects of the ethnography—such as cosplay or conventions—for further exploration.  
-{: .article_paragraph }
-
-<br />
-<a href="https://openai.com/research/dall-e">Post Image Created with DALLE. Temporary logo.</a>
-{: .article_paragraph }
-
-Last Updated: May 22, 2024 -- [See Changes](https://github.com/electricjones/electricjones.github.io/commits/main/_posts/2024-02-25-kadoo.md)
 {: .article_paragraph }
 <br />
